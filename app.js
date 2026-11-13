@@ -25,8 +25,9 @@ function agg(rows){const a={sp:0,ven:0,spVen:0,seg:0,tra:0,imp:0,spImp:0,clk:0,s
     if(r.imp!=null){a.imp+=r.imp;a.spImp+=r.sp}
     if(r.clk!=null){a.clk+=r.clk;a.spClk+=r.sp;a.impClk+=r.imp||0}}
   a.cpv=a.ven?a.spVen/a.ven:null;a.cpm=a.imp?a.spImp/a.imp*1000:null;a.cpc=a.clk?a.spClk/a.clk:null;a.ctr=a.impClk?a.clk/a.impClk:null;return a}
-function extraK(){const X=window.EXTRA&&EXTRA.d;if(!X)return [];const t={i:0,c:0,f:0},per={};let last=null;
+function extraK(){const X=(window.EXTRA&&EXTRA.d)||{};const t={i:0,c:0,f:0},per={};let last=null;
   for(const d in X){if(d<st.from||d>st.to)continue;last=!last||d>last?d:last;for(const p in X[d]){if(!st.plats.has(p))continue;const v=X[d][p];t.i+=v[0];t.c+=v[1];t.f+=v[2];const q=per[p]||(per[p]=[0,0,0]);q[0]+=v[0];q[1]+=v[1];q[2]+=v[2]}}
+  for(const r of R){if(r.d<st.from||r.d>st.to||!st.plats.has(r.p)||(X[r.d]&&X[r.d][r.p]))continue;const i=+r.imp||0,c=+r.clk||0;t.i+=i;t.c+=c;const q=per[r.p]||(per[r.p]=[0,0,0]);q[0]+=i;q[1]+=c}
   const nm={META:"Meta",TIKTOK:"TikTok",GOOGLE:"Google"};const sp=k=>Object.keys(per).filter(p=>per[p][k]>0).map(p=>`${nm[p]} ${fmtN(per[p][k])}`).join(" · ");
   const fol=["META","TIKTOK"].filter(p=>st.plats.has(p)).map(p=>`${p==="META"?"Instagram":"TikTok"} ${fmtN((per[p]||[0,0,0])[2])}`).join(" · ");
   return [["Impresiones totales por pauta",fmtN(t.i),"Todas las campañas"+(sp(0)?" · "+sp(0):"")],
