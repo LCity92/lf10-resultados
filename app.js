@@ -207,16 +207,47 @@ function conSinRender(){
 function crType(raw){const u=raw.normalize("NFC").toUpperCase();
   if(/B[UÚ]SQUEDA/.test(u))return "Búsqueda Google";if(/CATALOGO|CATÁLOGO/.test(u))return "Catálogo";if(/CARRUSEL|POST_1/.test(u))return "Carrusel";
   if(/IMAGEN|IMÁGENES|IMAGENES/.test(u))return /VIDEO/.test(u)?"Imágenes y video":"Imagen";if(/PRODUCTOS GENERALES/.test(u))return "Productos (Google)";return "Video"}
-function creativesRender(){const body=document.getElementById("crBody");if(!body)return;
+const CRS={view:"ven",tipo:"",q:"",soloVen:false,n:10};
+function crCtl(){if(document.getElementById("crCtl"))return;const w=document.querySelector(".crwrap");if(!w)return;
+  const d=document.createElement("div");d.id="crCtl";d.className="crctl";
+  d.innerHTML=`<style>.crctl{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center}.crctl input[type=search]{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--fg);padding:5px 10px;border-radius:999px;min-width:180px;flex:1 1 180px;max-width:280px}.crctl label{font-size:13px;color:var(--fg2);display:inline-flex;gap:6px;align-items:center}.crmore{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--fg2);padding:6px 14px;border-radius:999px;cursor:pointer;justify-self:start}.crcr td.rk{color:var(--muted);width:28px}.crcr .sem{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:middle}.crcr td{text-align:left}.crcr td.n{text-align:right}.crcr td:nth-child(2){min-width:190px;white-space:normal}.crcr tbody tr:hover{background:transparent}@media (max-width:600px){.crcr{min-width:0!important}.crcr th:nth-child(n+3):nth-child(-n+7),.crcr td:nth-child(n+3):nth-child(-n+7){display:none}.crcr th{white-space:normal}.crcr td:nth-child(2){min-width:0}.crcr td,.crcr th{padding:8px 5px}}</style>
+  <div class="fgroup" role="group" aria-label="Vista"><span class="flabel">Ver</span><button class="chip" data-cv="ven">Las que más vendieron</button><button class="chip" data-cv="rent">Las más rentables</button><button class="chip" data-cv="all">Todas</button></div>
+  <div class="fgroup"><span class="flabel">Tipo</span><select id="crTipo" aria-label="Tipo de pieza"><option value="">Todos</option></select></div>
+  <input type="search" id="crQ" placeholder="Buscar pieza (ej. Tigre, Nike, James)" aria-label="Buscar pieza">
+  <label id="crSoloL"><input type="checkbox" id="crSolo"> Solo con ventas</label>`;
+  w.parentNode.insertBefore(d,w);
+  const more=document.createElement("button");more.id="crMore";more.className="crmore";more.type="button";w.after(more);
+  more.onclick=()=>{CRS.n+=10;creativesRender()};
+  d.querySelectorAll("[data-cv]").forEach(b=>b.onclick=()=>{CRS.view=b.dataset.cv;CRS.n=10;creativesRender()});
+  d.querySelector("#crTipo").onchange=e=>{CRS.tipo=e.target.value;CRS.n=10;creativesRender()};
+  d.querySelector("#crQ").oninput=e=>{CRS.q=e.target.value.trim().toLowerCase();CRS.n=10;creativesRender()};
+  d.querySelector("#crSolo").onchange=e=>{CRS.soloVen=e.target.checked;CRS.n=10;creativesRender()};
+}
+function creativesRender(){const body=document.getElementById("crBody");if(!body)return;crCtl();body.closest("table").classList.add("crcr");
   const nm={META:"Meta",TIKTOK:"TikTok",GOOGLE:"Google"};const M=new Map();
   for(const r of R){if(r.d<st.from||r.d>st.to||!st.plats.has(r.p)||r.craw||!(r.sp>0||r.imp>0))continue;
-    const k=r.ad;const o=M.get(k)||{ad:r.ad,t:crType(r.raw),pl:new Set(),days:new Set(),a:r.d,b:r.d,ven:0,foco:new Set()};
-    o.pl.add(nm[r.p]);o.days.add(r.d);if(r.d<o.a)o.a=r.d;if(r.d>o.b)o.b=r.d;if(r.foco==="VENTAS")o.ven+=r.res;o.foco.add(r.foco);M.set(k,o)}
+    const k=r.ad;const o=M.get(k)||{ad:r.ad,t:crType(r.raw),pl:new Set(),days:new Set(),a:r.d,b:r.d,ven:0,sp:0,foco:new Set()};
+    o.pl.add(nm[r.p]);o.days.add(r.d);if(r.d<o.a)o.a=r.d;if(r.d>o.b)o.b=r.d;if(r.foco==="VENTAS"){o.ven+=r.res;o.sp+=r.sp}o.foco.add(r.foco);M.set(k,o)}
   for(const c of (window.CRX||[])){const [d,p,raw,vi,fo]=c;if(d<st.from||d>st.to||!st.plats.has(p))continue;const k=adName(raw);
-    const o=M.get(k)||{ad:k,t:crType(raw),pl:new Set(),days:new Set(),a:d,b:d,ven:0,foco:new Set(),vi:0,fo:0};
+    const o=M.get(k)||{ad:k,t:crType(raw),pl:new Set(),days:new Set(),a:d,b:d,ven:0,sp:0,foco:new Set(),vi:0,fo:0};
     o.vi=(o.vi||0)+vi;o.fo=(o.fo||0)+fo;if(/^ADIDAS/.test(raw))o.foco.add("ALCANCE");o.pl.add(nm[p]);o.days.add(d);if(d<o.a)o.a=d;if(d>o.b)o.b=d;M.set(k,o)}
-  const L=[...M.values()].sort((x,y)=>y.ven-x.ven||(y.vi||0)-(x.vi||0));
-  document.getElementById("crSub").textContent=L.length?`${L.length} piezas pautadas entre el ${fdate(st.from)} y el ${fdate(st.to)}. Visualizaciones = veces que se mostró el anuncio. Seguidores = seguidores de Instagram o TikTok que llegaron por el anuncio. Ventas = las que reporta cada plataforma.`:"No hubo piezas pautadas en estas fechas.";
-  body.innerHTML=L.map(o=>{const fo=[...o.foco].filter(f=>f!=="VENTAS").map(f=>f[0]+f.slice(1).toLowerCase());
-    return `<tr><td><b></b>${fo.length?`<small>Objetivo: ${fo.join(", ")}</small>`:""}</td><td><span class="tag">${o.t}</span></td><td>${[...o.pl].join(" · ")}</td><td>${o.days.size} día${o.days.size===1?"":"s"}<small>${o.a===o.b?fdate(o.a):fdate(o.a)+" – "+fdate(o.b)}</small></td><td class="n">${o.vi?fmtN(o.vi):"—"}</td><td class="n">${o.fo?fmtN(o.fo):"—"}</td><td class="n">${o.foco.has("VENTAS")?fmtN(o.ven):"—"}</td></tr>`}).join("");
-  [...body.querySelectorAll("tr td b")].forEach((b,i)=>b.textContent=L[i].ad)}
+  let L=[...M.values()];
+  const tipos=[...new Set(L.map(o=>o.t))].sort();const sel=document.getElementById("crTipo");
+  if(sel){if(CRS.tipo&&!tipos.includes(CRS.tipo))CRS.tipo="";sel.innerHTML='<option value="">Todos</option>'+tipos.map(x=>`<option${x===CRS.tipo?" selected":""}>${x}</option>`).join("")}
+  if(CRS.tipo)L=L.filter(o=>o.t===CRS.tipo);
+  if(CRS.q)L=L.filter(o=>o.ad.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").includes(CRS.q.normalize("NFD").replace(/[̀-ͯ]/g,"")));
+  const MINV=3;
+  if(CRS.view==="ven")L=L.filter(o=>o.ven>0).sort((x,y)=>y.ven-x.ven||x.sp/x.ven-y.sp/y.ven);
+  else if(CRS.view==="rent")L=L.filter(o=>o.ven>=MINV&&o.sp>0).sort((x,y)=>x.sp/x.ven-y.sp/y.ven);
+  else{if(CRS.soloVen)L=L.filter(o=>o.ven>0);L.sort((x,y)=>y.ven-x.ven||(y.vi||0)-(x.vi||0))}
+  document.querySelectorAll("#crCtl [data-cv]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.cv===CRS.view)));
+  const sl=document.getElementById("crSoloL");if(sl)sl.hidden=CRS.view!=="all";
+  const head=body.closest("table").querySelector("thead tr");
+  if(head)head.innerHTML='<th>#</th><th>Pieza</th><th>Tipo</th><th>Plataformas</th><th>Días al aire</th><th class="n">Visualizaciones</th><th class="n">Invertido</th><th class="n">Ventas</th><th class="n">Costo por venta</th>';
+  const vl={ven:"ordenadas por número de ventas",rent:`ordenadas por costo por venta, de menor a mayor (solo piezas con ${MINV} ventas o más)`,all:"todas las piezas"}[CRS.view];
+  document.getElementById("crSub").textContent=L.length?`${L.length} piezas · ${vl} · ${fdate(st.from)} a ${fdate(st.to)}. Ventas = las que reporta cada plataforma. Costo por venta: verde hasta $25.000, amarillo hasta $45.000, rojo más.`:"No hay piezas con estos filtros en estas fechas.";
+  const show=L.slice(0,CRS.n);const semC=c=>c<=25000?"#2e9e5b":c<=45000?"#d8a21c":"#c8372d";
+  body.innerHTML=show.map((o,i)=>{const fo=[...o.foco].filter(f=>f!=="VENTAS").map(f=>f[0]+f.slice(1).toLowerCase());const cpv=o.ven>0&&o.sp>0?o.sp/o.ven:0;
+    return `<tr><td class="rk">${i+1}</td><td><b></b>${fo.length?`<small>Objetivo: ${fo.join(", ")}</small>`:""}</td><td><span class="tag">${o.t}</span></td><td>${[...o.pl].join(" · ")}</td><td>${o.days.size} día${o.days.size===1?"":"s"}<small>${o.a===o.b?fdate(o.a):fdate(o.a)+" – "+fdate(o.b)}</small></td><td class="n">${o.vi?fmtN(o.vi):"—"}</td><td class="n">${o.sp?fmt$(o.sp):"—"}</td><td class="n">${o.foco.has("VENTAS")?fmtN(o.ven):"—"}</td><td class="n">${cpv?`<span class="sem" style="background:${semC(cpv)}"></span>${fmt$(cpv)}`:"—"}</td></tr>`}).join("");
+  [...body.querySelectorAll("tr td b")].forEach((b,i)=>b.textContent=show[i].ad);
+  const more=document.getElementById("crMore");if(more){const rest=L.length-show.length;more.hidden=rest<=0;more.textContent=`Ver ${Math.min(10,rest)} más (quedan ${rest})`}}
