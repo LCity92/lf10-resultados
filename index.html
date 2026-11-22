@@ -216,6 +216,52 @@ table.pt td.big{font-family:var(--display);font-size:22px;font-weight:600}
   <div class="crwrap"><table class="crt"><thead><tr><th>Pieza</th><th>Tipo</th><th>Plataformas</th><th>Días al aire</th><th class="n">Visualizaciones</th><th class="n">Seguidores</th><th class="n">Ventas</th></tr></thead><tbody id="crBody"></tbody></table></div>
 </section>
 
+<section class="panel" id="prodPanel" aria-label="Productos y marcas más vendidos" hidden>
+  <style>
+  #prodPanel .ph{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:10px}
+  #prodPanel .pgrid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:18px}
+  @media (max-width:820px){#prodPanel .pgrid{grid-template-columns:minmax(0,1fr)}}
+  #prodPanel h3{font-family:var(--display);font-weight:600;font-size:15px;text-transform:uppercase;letter-spacing:.06em;margin:0 0 6px;color:var(--fg2)}
+  #prodPanel .ptab{table-layout:fixed;width:100%;min-width:0!important}#prodPanel .ptab td,#prodPanel .ptab th{text-align:left;white-space:normal!important;overflow-wrap:anywhere;overflow:visible;text-overflow:clip}#prodPanel .ptab .n,#prodPanel .ptab .rk{text-align:right;white-space:nowrap!important;overflow-wrap:normal}#prodPanel .ptab th.n{width:78px}#prodPanel .ptab th.n:last-of-type{width:84px}@media (max-width:520px){#prodPanel .ptab th.n{width:60px}#prodPanel .ptab th.n:last-of-type{width:66px}#prodPanel .ptab td,#prodPanel .ptab th{padding:8px 4px}}#prodPanel .ptab th:first-child{width:38px}#prodPanel .pbar{background:none!important}
+  #prodPanel .rk{color:var(--muted);width:22px}
+  #prodPanel .pb{font-size:11px;color:var(--muted)}
+  #prodPanel .pbars{display:grid;gap:8px}
+  #prodPanel .pbar{display:grid;grid-template-columns:104px minmax(40px,1fr) 150px;gap:8px;align-items:center;font-size:13px}
+  #prodPanel .ptrack{height:12px;background:var(--chip);border-radius:3px;overflow:hidden}
+  #prodPanel .pfill{height:100%;background:var(--accent);border-radius:3px}
+  #prodPanel .bv{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+  #prodPanel .bv small{color:var(--muted)}
+  </style>
+  <div class="ph">
+    <div><h2>Lo que más se vende</h2><div class="sub" id="prodSub"></div></div>
+    <div class="fgroup"><button class="chip" data-pv="mes" aria-pressed="true">Este mes</button><button class="chip" data-pv="anio" aria-pressed="false">En el año</button></div>
+  </div>
+  <div class="pgrid">
+    <div><h3>Productos más vendidos (por unidades)</h3>
+      <div class="crwrap"><table class="crt ptab"><thead><tr><th>#</th><th>Producto</th><th class="n">Und.</th><th class="n">Ventas</th></tr></thead><tbody id="prodBody"></tbody></table></div></div>
+    <div style="display:grid;gap:18px;align-content:start">
+      <div><h3>Marcas (por ventas)</h3><div class="pbars" id="brandBars"></div></div>
+      <div id="typeBox"><h3>Tipo de producto (por ventas)</h3><div class="pbars" id="typeBars"></div></div>
+    </div>
+  </div>
+  <div class="sub" id="prodNote"></div>
+  <script>
+  (function(){
+    const $=id=>document.getElementById(id);
+    const money=v=>v>=1e6?'$'+(v/1e6).toLocaleString('es-CO',{maximumFractionDigits:1})+' M':'$'+Math.round(v/1e3).toLocaleString('es-CO')+' mil';
+    const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    function bars(el,rows){const mx=Math.max(...rows.map(r=>r[2]));el.innerHTML=rows.map(r=>'<div class="pbar"><span>'+esc(r[0])+'</span><div class="ptrack"><div class="pfill" style="width:'+(100*r[2]/mx).toFixed(1)+'%"></div></div><span class="bv">'+money(r[2])+' <small>· '+r[1].toLocaleString('es-CO')+' und.</small></span></div>').join('')}
+    function draw(P,k){const v=P[k];$('prodSub').textContent=v.label+' · Shopify, ventas netas';
+      $('prodBody').innerHTML=v.productos.slice(0,15).map((p,i)=>'<tr><td class="rk">'+(i+1)+'</td><td>'+esc(p[0].replace(/ \| [A-Z]{2}$/,''))+'<div class="pb">'+esc(p[1])+'</div></td><td class="n">'+p[2].toLocaleString('es-CO')+'</td><td class="n">'+money(p[3])+'</td></tr>').join('');
+      bars($('brandBars'),v.marcas);const t=v.tipos;$('typeBox').hidden=!t;if(t)bars($('typeBars'),t);
+      document.querySelectorAll('#prodPanel [data-pv]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.pv===k)));}
+    fetch('prod.json?v='+Date.now()).then(r=>r.json()).then(P=>{$('prodPanel').hidden=false;$('prodNote').textContent=P.nota;draw(P,'mes');
+      document.querySelectorAll('#prodPanel [data-pv]').forEach(b=>b.onclick=()=>draw(P,b.dataset.pv));}).catch(()=>{});
+  })();
+  </script>
+</section>
+
+
 <div class="note">Ventas = compras que reporta cada plataforma. Costo por venta = inversión de las campañas de ventas ÷ ventas. Seguidores y tráfico se cuentan aparte. Impresiones y CPM se cuentan desde el 21 de septiembre. Adidas es campaña de alcance: no busca ventas, se mide en vistas. TikTok no gastó el 29 y 30 de octubre (sin saldo). Del 1 al 6 de noviembre solo hubo pauta en Meta; TikTok y Google se reactivaron el 7 de noviembre (James, Skechers + Tigre y Nike 50%). Google arrancó ese día en aprendizaje, con poco gasto. TikTok no registró compras del 3 al 8 de noviembre por una falla de conexión con Shopify; se arregló el 9 de noviembre.</div>
 <footer id="foot"></footer>
 </div>
