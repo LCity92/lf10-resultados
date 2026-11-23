@@ -19,9 +19,9 @@ const fill=(id,vals)=>{const s=document.getElementById(id);vals.forEach(v=>{cons
 
 const dF=document.getElementById("dFrom"),dT=document.getElementById("dTo");[dF,dT].forEach(i=>{i.min=MIN;i.max=MAX});
 function filtered(){return R.filter(r=>r.d>=st.from&&r.d<=st.to&&st.plats.has(r.p)&&st.objs.has(r.obj)&&(!st.foco||r.foco===st.foco))}
-function agg(rows){const a={sp:0,ven:0,spVen:0,seg:0,tra:0,imp:0,spImp:0,clk:0,spClk:0,impClk:0,res:0};
+function agg(rows){const a={sp:0,ven:0,spVen:0,seg:0,tra:0,msg:0,spMsg:0,imp:0,spImp:0,clk:0,spClk:0,impClk:0,res:0};
   for(const r of rows){a.sp+=r.sp;a.res+=r.res;
-    if(r.foco==="VENTAS"){a.ven+=r.res;a.spVen+=r.sp}else if(r.foco==="SEGUIDORES")a.seg+=r.res;else a.tra+=r.res;
+    if(r.foco==="VENTAS"){a.ven+=r.res;a.spVen+=r.sp}else if(r.foco==="SEGUIDORES")a.seg+=r.res;else if(r.foco==="MENSAJES"){a.msg+=r.res;a.spMsg+=r.sp}else a.tra+=r.res;
     if(r.imp!=null){a.imp+=r.imp;a.spImp+=r.sp}
     if(r.clk!=null){a.clk+=r.clk;a.spClk+=r.sp;a.impClk+=r.imp||0}}
   a.cpv=a.ven?a.spVen/a.ven:null;a.cpm=a.imp?a.spImp/a.imp*1000:null;a.cpc=a.clk?a.spClk/a.clk:null;a.ctr=a.impClk?a.clk/a.impClk:null;return a}
@@ -41,6 +41,7 @@ function kpis(a,rows){const nd=Math.round((new Date(st.to+"T12:00:00")-new Date(
   const K=[...(shopK?[shopK]:[]),["Ventas por pauta",fmtN(a.ven),`${(a.ven/nd).toLocaleString("es-CO",{maximumFractionDigits:1})} por día · ${nd} días${pct}`,1],
    ["Costo por venta promedio",a.cpv!=null?fmt$(a.cpv):"—","Inversión en ventas ÷ ventas"],
    ["Inversión",fmt$(a.sp),`${fmt$(a.sp/nd)} por día`],
+   ...(a.msg?[["Conversaciones por WhatsApp",fmtN(a.msg),`${fmt$(a.spMsg/a.msg)} por conversación · ${fmt$(a.spMsg)} invertidos`]]:[]),
    ...extraK(),
 ];
   document.getElementById("kpis").innerHTML=K.map(([k,v,s,h])=>`<div class="kpi${h?" hero":""}"><span class="k">${k}</span><span class="v">${v}</span><span class="s">${s}</span></div>`).join("")}
