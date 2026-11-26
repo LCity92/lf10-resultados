@@ -234,7 +234,7 @@ table.pt td.big{font-family:var(--display);font-size:22px;font-weight:600}
   </style>
   <div class="ph">
     <div><h2>Lo que más se vende</h2><div class="sub" id="prodSub"></div></div>
-    <div class="fgroup"><button class="chip" data-pv="mes" aria-pressed="true">Este mes</button><button class="chip" data-pv="anio" aria-pressed="false">En el año</button></div>
+    <div class="fgroup" id="prodViews" style="flex-wrap:wrap"><button class="chip" data-pv="mes" aria-pressed="true">Este mes</button><button class="chip" data-pv="anio" aria-pressed="false">En el año</button></div>
   </div>
   <div class="pgrid">
     <div><h3>Productos más vendidos (por unidades)</h3>
@@ -255,7 +255,7 @@ table.pt td.big{font-family:var(--display);font-size:22px;font-weight:600}
       $('prodBody').innerHTML=v.productos.slice(0,15).map((p,i)=>'<tr><td class="rk">'+(i+1)+'</td><td>'+esc(p[0].replace(/ \| [A-Z]{2}$/,''))+'<div class="pb">'+esc(p[1])+'</div></td><td class="n">'+p[2].toLocaleString('es-CO')+'</td><td class="n">'+money(p[3])+'</td></tr>').join('');
       bars($('brandBars'),v.marcas);const t=v.tipos;$('typeBox').hidden=!t;if(t)bars($('typeBars'),t);
       document.querySelectorAll('#prodPanel [data-pv]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.pv===k)));}
-    fetch('prod.json?v='+Date.now()).then(r=>r.json()).then(P=>{$('prodPanel').hidden=false;$('prodNote').textContent=P.nota;draw(P,'mes');
+    fetch('prod.json?v='+Date.now()).then(r=>r.json()).then(P=>{$('prodPanel').hidden=false;$('prodNote').textContent=P.nota;if(P.vistas)$('prodViews').innerHTML=P.vistas.filter(v=>P[v[0]]).map(v=>'<button class="chip" data-pv="'+v[0]+'" aria-pressed="false">'+esc(v[1])+'</button>').join('');draw(P,'mes');
       document.querySelectorAll('#prodPanel [data-pv]').forEach(b=>b.onclick=()=>draw(P,b.dataset.pv));}).catch(()=>{});
   })();
   </script>
