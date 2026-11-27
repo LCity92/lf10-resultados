@@ -46,6 +46,12 @@ const FASE = /final|semifinal|cuartos|quarter|semi|play-?off|cuadrangular|octavo
 
 // ---------- Partidos (ESPN) ----------
 const partidos = [];
+if (process.env.DIAG) {
+  for (const id of ['fifa.u17world','fifa.u17','fifa.u20world','fifa.u20','fifa.wu17world','fifa.wu17','fifa.wu20world','fifa.wu20','fifa.friendly.w','fifa.wfriendly','conmebol.sudamericano_sub20','conmebol.america.femenina','fifa.wwc','eng.league_cup','eng.fa','esp.copa_del_rey','ita.coppa_italia','ger.dfb_pokal']) {
+    try { const j = await traer(`https://site.api.espn.com/apis/site/v2/sports/soccer/${id}/scoreboard?dates=202611`); console.log('DIAG OK', id, j.leagues?.[0]?.name, (j.events||[]).length, (j.events||[]).slice(0,2).map(e=>e.name+' '+e.date).join(' | ')); } catch (e) { console.log('DIAG FAIL', id, e.message.slice(0,60)); }
+  }
+}
+
 
 // ESPN no acepta rangos de días, pero sí meses completos (dates=AAAAMM).
 const meses = [];

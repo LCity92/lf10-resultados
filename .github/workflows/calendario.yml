@@ -28,6 +28,8 @@ jobs:
           node-version: "20"
       - name: Traer partidos y noticias
         run: node scripts/actualizar-calendario.mjs
+        env:
+          DIAG: "1"
       - name: Guardar cambios
         run: |
           git config user.name "calendario-lf10"
