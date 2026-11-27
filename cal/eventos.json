@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-27T17:13:57.117Z",
+ "actualizado": "2026-11-27T20:38:51.372Z",
  "errores": [],
- "total": 501,
+ "total": 502,
  "eventos": [
   {
    "id": "espn-col.1-401877953",
@@ -2405,7 +2405,7 @@
    "motivos": [
     "Daniel Muñoz (muy cercano a la casa)"
    ],
-   "estado": "",
+   "estado": "En juego",
    "fuente": "ESPN"
   },
   {
@@ -3117,6 +3117,15 @@
    "fuente": "ESPN"
   },
   {
+   "id": "m-aniv",
+   "fecha": "2026-12-04",
+   "tipo": "lf10",
+   "titulo": "Aniversario 2 años de LF10",
+   "prioridad": 3,
+   "detalle": "Fecha según la parrilla de redes (Camilo)",
+   "fuente": "LF10"
+  },
+  {
    "id": "espn-tur.1-401888231",
    "fecha": "2026-12-04",
    "hora": "12:00",
@@ -3160,14 +3169,6 @@
    ],
    "estado": "",
    "fuente": "ESPN"
-  },
-  {
-   "id": "m-aniv",
-   "fecha": "2026-12-05",
-   "tipo": "lf10",
-   "titulo": "Aniversario 2 años de LF10",
-   "prioridad": 3,
-   "fuente": "LF10"
   },
   {
    "id": "espn-eng.1-401879215",
@@ -7067,6 +7068,21 @@
    "prioridad": 3,
    "tentativa": true,
    "fuente": "https://www.clarosports.com/colombia/seleccion-colombiana/que-viene-para-la-seleccion-colombia-en-2027-el-calendario-y-los-retos-de-nestor-lorenzo/"
+  },
+  {
+   "id": "espn-usa.1-401932471",
+   "fecha": "2027-03-27",
+   "hora": "14:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Sporting Kansas City vs LA Galaxy",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-nino",
