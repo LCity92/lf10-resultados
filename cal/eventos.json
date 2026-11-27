@@ -1,8 +1,1887 @@
 {
- "actualizado": "2026-11-27T15:03:29.702Z",
+ "actualizado": "2026-11-27T15:07:43.436Z",
  "errores": [],
- "total": 330,
+ "total": 460,
  "eventos": [
+  {
+   "id": "espn-col.1-401877953",
+   "fecha": "2026-10-27",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Cúcuta Deportivo vs Águilas Doradas",
+   "detalle": "General Santander",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877861",
+   "fecha": "2026-10-27",
+   "hora": "20:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Boyacá Chicó FC vs Atlético Junior",
+   "detalle": "La Independencia",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874993",
+   "fecha": "2026-10-28",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Bologna",
+   "detalle": "San Siro",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-4",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874988",
+   "fecha": "2026-10-28",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Genoa vs Juventus",
+   "detalle": "Stadio Luigi Ferraris",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877998",
+   "fecha": "2026-10-28",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Once Caldas vs Alianza FC",
+   "detalle": "Palogrande",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-761913",
+   "fecha": "2026-10-28",
+   "hora": "19:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Minnesota United FC vs Sporting Kansas City",
+   "detalle": "Allianz Field",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877878",
+   "fecha": "2026-10-28",
+   "hora": "20:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Internacional de Bogotá vs Independiente Medellín",
+   "detalle": "Metropolitano de Techo",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay (colaboración Umbro)",
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878035",
+   "fecha": "2026-10-29",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "América de Cali vs Fortaleza CEIF",
+   "detalle": "Pascual Guerrero",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877845",
+   "fecha": "2026-10-29",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Nacional vs Independiente Santa Fe",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888259",
+   "fecha": "2026-10-30",
+   "hora": "12:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Konyaspor vs Galatasaray",
+   "detalle": "Medas Konya Büyüksehir Stadyumu",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "Final: 0-4",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885408",
+   "fecha": "2026-10-30",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Casa Pia vs Sporting CP",
+   "detalle": "Estádio Municipal de Rio Maior",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877995",
+   "fecha": "2026-10-30",
+   "hora": "16:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Pereira vs Jaguares de Córdoba",
+   "detalle": "Hernán Ramirez Villegas",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878044",
+   "fecha": "2026-10-30",
+   "hora": "20:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Bucaramanga vs Deportivo Pasto",
+   "detalle": "Estadio Alfonso López",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879245",
+   "fecha": "2026-10-31",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Brighton & Hove Albion",
+   "detalle": "Etihad Stadium",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878761",
+   "fecha": "2026-10-31",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Tottenham Hotspur vs Crystal Palace",
+   "detalle": "Tottenham Hotspur Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884754",
+   "fecha": "2026-10-31",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs Borussia Dortmund",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas",
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-761928",
+   "fecha": "2026-10-31",
+   "hora": "14:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Sporting Kansas City vs FC Dallas",
+   "detalle": "Sporting Park",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874795",
+   "fecha": "2026-10-31",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Internazionale",
+   "detalle": "San Siro",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885404",
+   "fecha": "2026-10-31",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Estoril",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "Final: 4-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878071",
+   "fecha": "2026-10-31",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Llaneros FC vs Atlético Junior",
+   "detalle": "Estadio Bello Horizonte - Rey Pele",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 3-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882819",
+   "fecha": "2026-11-01",
+   "hora": "10:15",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Racing Santander vs Real Madrid",
+   "detalle": "El Sardineros",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "Final: 0-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401841658",
+   "fecha": "2026-11-01",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Boca Juniors vs River Plate",
+   "detalle": "Alberto José Armando (La Bombonera)",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874949",
+   "fecha": "2026-11-01",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Napoli",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877913",
+   "fecha": "2026-11-01",
+   "hora": "16:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Cali vs Boyacá Chicó FC",
+   "detalle": "Deportivo Cali",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401841650",
+   "fecha": "2026-11-01",
+   "hora": "16:30",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Newell's Old Boys vs Unión (Santa Fe)",
+   "detalle": "Marcelo Bielsa",
+   "prioridad": 2,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878061",
+   "fecha": "2026-11-01",
+   "hora": "18:10",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Independiente Medellín vs Alianza FC",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.copa-401930556",
+   "fecha": "2026-11-01",
+   "hora": "20:15",
+   "tipo": "partido",
+   "competencia": "Copa Colombia",
+   "titulo": "Independiente Santa Fe vs Once Caldas",
+   "detalle": "Metropolitano de Techo",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885403",
+   "fecha": "2026-11-02",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Alverca",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877772",
+   "fecha": "2026-11-02",
+   "hora": "16:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Águilas Doradas vs Fortaleza CEIF",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877914",
+   "fecha": "2026-11-02",
+   "hora": "20:15",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Bucaramanga vs Atlético Nacional",
+   "detalle": "Estadio Alfonso López",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915311",
+   "fecha": "2026-11-03",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Galatasaray vs VfB Stuttgart",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915310",
+   "fecha": "2026-11-03",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Shakhtar Donetsk vs Sporting CP",
+   "detalle": "Stamford Bridge",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915386",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Atlético Madrid vs Bayern Munich",
+   "detalle": "Riyadh Air Metropolitano",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915387",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Barcelona vs Aston Villa",
+   "detalle": "Spotify Camp Nou",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 3-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915384",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Bodo/Glimt vs Lille",
+   "detalle": "Aspmyra Stadion",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915307",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Feyenoord Rotterdam vs Internazionale",
+   "detalle": "De Kuip",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 0-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915385",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "LASK Linz vs Slovan Bratislava",
+   "detalle": "Raiffeisen Arena (Linz)",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 4-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915308",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Manchester United vs AS Roma",
+   "detalle": "Old Trafford",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 3-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915309",
+   "fecha": "2026-11-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Villarreal vs Paris Saint-Germain",
+   "detalle": "Estadio de la Cerámica",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 0-6",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877912",
+   "fecha": "2026-11-03",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Pereira vs Deportes Tolima",
+   "detalle": "Hernán Ramirez Villegas",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877896",
+   "fecha": "2026-11-03",
+   "hora": "18:20",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Pasto vs Jaguares de Córdoba",
+   "detalle": "Departamental Libertad",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915383",
+   "fecha": "2026-11-04",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "AEK Athens vs Real Madrid",
+   "detalle": "OPAP Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "Final: 2-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915382",
+   "fecha": "2026-11-04",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Fenerbahce vs Liverpool",
+   "detalle": "Şükrü Saracoğlu Stadium",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 3-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915304",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Borussia Dortmund vs Real Betis",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915301",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "FC Porto vs Napoli",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "Final: 4-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915305",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Lens vs Como",
+   "detalle": "Stade Bollaert-Delelis",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-9",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915303",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "PSV Eindhoven vs Club Brugge",
+   "detalle": "Philips Stadion",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915306",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "RB Leipzig vs Manchester City",
+   "detalle": "Red Bull Arena",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915381",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Slavia Prague vs Arsenal",
+   "detalle": "Fortuna Arena",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915302",
+   "fecha": "2026-11-04",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Viking FK vs Sabah FK",
+   "detalle": "Viking Stadion",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 4-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877959",
+   "fecha": "2026-11-04",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Cúcuta Deportivo vs Independiente Santa Fe",
+   "detalle": "General Santander",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877910",
+   "fecha": "2026-11-04",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Millonarios vs América de Cali",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915534",
+   "fecha": "2026-11-05",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "AC Milan vs Ferencvaros",
+   "detalle": "San Siro",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915526",
+   "fecha": "2026-11-05",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Crystal Palace vs TSG Hoffenheim",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915529",
+   "fecha": "2026-11-05",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "AZ Alkmaar vs Juventus",
+   "detalle": "AFAS Stadion",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915525",
+   "fecha": "2026-11-05",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Benfica vs Lech Poznan",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401841660",
+   "fecha": "2026-11-06",
+   "hora": "17:15",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Unión (Santa Fe) vs Vélez Sarsfield",
+   "detalle": "15 de Abril",
+   "prioridad": 2,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878064",
+   "fecha": "2026-11-06",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Boyacá Chicó FC vs Internacional de Bogotá",
+   "detalle": "La Independencia",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay (colaboración Umbro)"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877916",
+   "fecha": "2026-11-06",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Fortaleza CEIF vs Independiente Medellín",
+   "detalle": "Metropolitano de Techo",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884745",
+   "fecha": "2026-11-07",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs SV Elversberg",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884740",
+   "fecha": "2026-11-07",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Mainz vs Bayern Munich",
+   "detalle": "MEWA ARENA",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888371",
+   "fecha": "2026-11-07",
+   "hora": "11:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Amed SFK",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "Final: 4-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878757",
+   "fecha": "2026-11-07",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Nottingham Forest vs Manchester City",
+   "detalle": "The City Ground",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882808",
+   "fecha": "2026-11-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Valencia vs Real Madrid",
+   "detalle": "Mestalla Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "Final: 0-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885395",
+   "fecha": "2026-11-07",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Moreirense",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401841669",
+   "fecha": "2026-11-07",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Boca Juniors vs Defensa y Justicia",
+   "detalle": "Alberto José Armando (La Bombonera)",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877771",
+   "fecha": "2026-11-07",
+   "hora": "16:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Once Caldas vs Águilas Doradas",
+   "detalle": "Palogrande",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878041",
+   "fecha": "2026-11-07",
+   "hora": "18:10",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Nacional vs Deportivo Pereira",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 4-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-761947",
+   "fecha": "2026-11-07",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "San Diego FC vs Sporting Kansas City",
+   "detalle": "Snapdragon Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879243",
+   "fecha": "2026-11-08",
+   "hora": "09:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Liverpool",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "Final: 1-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875018",
+   "fecha": "2026-11-08",
+   "hora": "09:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Genoa vs AC Milan",
+   "detalle": "Stadio Luigi Ferraris",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885394",
+   "fecha": "2026-11-08",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Vitória de Guimaraes vs FC Porto",
+   "detalle": "Estádio D. Afonso Henriques",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877958",
+   "fecha": "2026-11-08",
+   "hora": "14:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Independiente Santa Fe vs Deportivo Pasto",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 5-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875003",
+   "fecha": "2026-11-08",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Fiorentina vs Juventus",
+   "detalle": "Stadio Artemio Franchi",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885401",
+   "fecha": "2026-11-08",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Estrela vs Benfica",
+   "detalle": "Estádio José Gomes",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "Final: 2-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878067",
+   "fecha": "2026-11-08",
+   "hora": "16:05",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Jaguares de Córdoba vs Atlético Bucaramanga",
+   "detalle": "Estadio Jaraguay (Municipal de Montería)",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 0-4",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878070",
+   "fecha": "2026-11-08",
+   "hora": "18:10",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportes Tolima vs Millonarios",
+   "detalle": "Estadio Manuel Murillo Toro",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878031",
+   "fecha": "2026-11-08",
+   "hora": "20:15",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Alianza FC vs Llaneros FC",
+   "detalle": "Armando Maestre Pavajeau",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877908",
+   "fecha": "2026-11-08",
+   "hora": "20:45",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "América de Cali vs Deportivo Cali",
+   "detalle": "Pascual Guerrero",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877901",
+   "fecha": "2026-11-09",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Junior vs Cúcuta Deportivo",
+   "detalle": "Romelio Martínez",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.copa-401933182",
+   "fecha": "2026-11-10",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "Copa Colombia",
+   "titulo": "Internacional de Bogotá vs América de Cali",
+   "detalle": "1st Leg · Metropolitano de Techo",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay (colaboración Umbro)",
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.copa-401933181",
+   "fecha": "2026-11-10",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Copa Colombia",
+   "titulo": "Once Caldas vs Atlético Nacional",
+   "detalle": "1st Leg · Palogrande",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878034",
+   "fecha": "2026-11-12",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Pasto vs Atlético Junior",
+   "detalle": "Departamental Libertad",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877890",
+   "fecha": "2026-11-12",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Llaneros FC vs Boyacá Chicó FC",
+   "detalle": "Estadio Bello Horizonte - Rey Pele",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-fifa.friendly-401921325",
+   "fecha": "2026-11-13",
+   "hora": "19:00",
+   "tipo": "seleccion",
+   "competencia": "Amistosos internacionales",
+   "titulo": "Colombia vs Chile",
+   "detalle": "Pascual Guerrero",
+   "prioridad": 3,
+   "motivos": [
+    "Selección Colombia"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877838",
+   "fecha": "2026-11-13",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Internacional de Bogotá vs Independiente Santa Fe",
+   "detalle": "Metropolitano de Techo",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay (colaboración Umbro)",
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877770",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Águilas Doradas vs Independiente Medellín",
+   "detalle": "Estadio Cincuentenario",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877917",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Bucaramanga vs Fortaleza CEIF",
+   "detalle": "Estadio Alfonso López",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878029",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Nacional vs Once Caldas",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878043",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Cúcuta Deportivo vs Jaguares de Córdoba",
+   "detalle": "General Santander",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877893",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Cali vs Deportes Tolima",
+   "detalle": "Deportivo Cali",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401877919",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Pereira vs América de Cali",
+   "detalle": "Estadio Santiago de Las Atalayas",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401878024",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Millonarios vs Alianza FC",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-fifa.friendly-401921304",
+   "fecha": "2026-11-17",
+   "hora": "18:00",
+   "tipo": "seleccion",
+   "competencia": "Amistosos internacionales",
+   "titulo": "Chile vs Colombia",
+   "detalle": "Estadio Monumental David Arellano",
+   "prioridad": 3,
+   "motivos": [
+    "Selección Colombia"
+   ],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.copa-401933183",
+   "fecha": "2026-11-17",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "Copa Colombia",
+   "titulo": "Atlético Nacional vs Once Caldas",
+   "detalle": "2nd Leg - Tied on aggregate - CAL win 4-3 on penalties · Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.copa-401933121",
+   "fecha": "2026-11-17",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Copa Colombia",
+   "titulo": "América de Cali vs Internacional de Bogotá",
+   "detalle": "2nd Leg - América de Cali win 3-2 on aggregate · Pascual Guerrero",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay",
+    "Liga BetPlay (colaboración Umbro)"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933535",
+   "fecha": "2026-11-19",
+   "hora": "19:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Orlando City SC vs FC Cincinnati",
+   "detalle": "Inter&Co Stadium",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933555",
+   "fecha": "2026-11-19",
+   "hora": "22:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Seattle Sounders FC vs Real Salt Lake",
+   "detalle": "Real Salt Lake win 4-2 on penalties · Lumen Field",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884736",
+   "fecha": "2026-11-20",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs FC Cologne",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934708",
+   "fecha": "2026-11-20",
+   "hora": "16:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Independiente Medellín vs Independiente Santa Fe",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934690",
+   "fecha": "2026-11-20",
+   "hora": "18:35",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Bucaramanga vs América de Cali",
+   "detalle": "Estadio Alfonso López",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934707",
+   "fecha": "2026-11-20",
+   "hora": "20:40",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Cali vs Millonarios",
+   "detalle": "Deportivo Cali",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879233",
+   "fecha": "2026-11-21",
+   "hora": "07:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Fulham",
+   "detalle": "Etihad Stadium",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888245",
+   "fecha": "2026-11-21",
+   "hora": "08:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Samsunspor",
+   "detalle": "Basaksehir Fatih Terim Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884731",
+   "fecha": "2026-11-21",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Mönchengladbach vs Borussia Dortmund",
+   "detalle": "BORUSSIA-PARK",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879235",
+   "fecha": "2026-11-21",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Coventry City vs Crystal Palace",
+   "detalle": "Coventry Building Society Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "Final: 3-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933733",
+   "fecha": "2026-11-21",
+   "hora": "14:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "New England Revolution vs Philadelphia Union",
+   "detalle": "NE leads series 1-0 · Gillette Stadium",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882798",
+   "fecha": "2026-11-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Celta Vigo",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933732",
+   "fecha": "2026-11-21",
+   "hora": "16:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "FC Dallas vs Portland Timbers",
+   "detalle": "DAL leads series 1-0 · Toyota Stadium",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 3-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-conmebol.sudamericana-401913961",
+   "fecha": "2026-11-21",
+   "hora": "17:30",
+   "tipo": "partido",
+   "competencia": "Copa Sudamericana",
+   "titulo": "Atlético-MG vs Boca Juniors",
+   "detalle": "Metropolitano Roberto Meléndez",
+   "prioridad": 3,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933739",
+   "fecha": "2026-11-21",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Inter Miami CF vs Columbus Crew",
+   "detalle": "CLB leads series 1-0 · Nu Stadium",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 0-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934689",
+   "fecha": "2026-11-21",
+   "hora": "20:15",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Once Caldas vs Atlético Nacional",
+   "detalle": "Palogrande",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875008",
+   "fecha": "2026-11-22",
+   "hora": "06:30",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Venezia",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 4-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874989",
+   "fecha": "2026-11-22",
+   "hora": "12:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Frosinone",
+   "detalle": "San Siro",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 5-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933731",
+   "fecha": "2026-11-22",
+   "hora": "16:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Nashville SC vs FC Cincinnati",
+   "detalle": "CIN leads series 1-0 · GEODIS Park",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933730",
+   "fecha": "2026-11-22",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Chicago Fire FC vs Charlotte FC",
+   "detalle": "CLT leads series 1-0 · SeatGeek Stadium",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933729",
+   "fecha": "2026-11-22",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Vancouver Whitecaps vs Real Salt Lake",
+   "detalle": "VAN leads series 1-0 · BC Place",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933728",
+   "fecha": "2026-11-23",
+   "hora": "20:15",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "St. Louis CITY SC vs LAFC",
+   "detalle": "STL leads series 1-0 · Energizer Park",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 3-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915380",
+   "fecha": "2026-11-24",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Bodo/Glimt vs LASK Linz",
+   "detalle": "Aspmyra Stadion",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915300",
+   "fecha": "2026-11-24",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Galatasaray vs Aston Villa",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915295",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Arsenal vs Borussia Dortmund",
+   "detalle": "Emirates Stadium",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 1-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915296",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Como vs AEK Athens",
+   "detalle": "Giuseppe Sinigaglia",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 1-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915294",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Feyenoord Rotterdam vs FC Porto",
+   "detalle": "De Kuip",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915379",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Manchester City vs Napoli",
+   "detalle": "Etihad Stadium",
+   "prioridad": 1,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915299",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "RB Leipzig vs Lens",
+   "detalle": "Red Bull Arena",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915298",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Real Madrid vs PSV Eindhoven",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "Final: 5-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915297",
+   "fecha": "2026-11-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Slovan Bratislava vs Real Betis",
+   "detalle": "Národny Futbalovy Stadión",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 0-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934688",
+   "fecha": "2026-11-24",
+   "hora": "18:20",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Millonarios vs Atlético Bucaramanga",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 4-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934706",
+   "fecha": "2026-11-24",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "América de Cali vs Deportivo Cali",
+   "detalle": "Pascual Guerrero",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933738",
+   "fecha": "2026-11-24",
+   "hora": "22:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "San Jose Earthquakes vs Houston Dynamo FC",
+   "detalle": "SJ leads series 1-0 · PayPal Park",
+   "prioridad": 1,
+   "motivos": [],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
   {
    "id": "espn-uefa.champions-401915378",
    "fecha": "2026-11-25",
