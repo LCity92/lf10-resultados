@@ -269,26 +269,6 @@
       "prioridad": 3
     },
     {
-      "id": "m-fem-aus1",
-      "fecha": "2026-11-28",
-      "hora": "03:30",
-      "tipo": "seleccion",
-      "competencia": "Amistosos femeninos",
-      "titulo": "Australia vs Colombia (Selección femenina de mayores)",
-      "detalle": "GIO Stadium, Canberra · amistoso rumbo a Brasil 2027",
-      "prioridad": 3
-    },
-    {
-      "id": "m-fem-aus2",
-      "fecha": "2026-12-01",
-      "tipo": "seleccion",
-      "competencia": "Amistosos femeninos",
-      "titulo": "Australia vs Colombia, 2.º amistoso femenino (fecha y sede por confirmar)",
-      "detalle": "Tentativo: FCF anunció un segundo partido a inicios de diciembre",
-      "prioridad": 2,
-      "tentativa": true
-    },
-    {
       "id": "m-fem-sorteo",
       "fecha": "2026-12-11",
       "tipo": "seleccion",
