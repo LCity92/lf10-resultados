@@ -90,7 +90,7 @@ for (const liga of cfg.ligas || []) {
       let prioridad = (liga.peso || 1) >= 3 ? 3 : 1;
       const nivel = Math.max(0, ...seguidos.map((s) => s.nivel ?? 2));
       if (nivel >= 2) prioridad = Math.max(prioridad, 2);
-      if (esFase) prioridad = Math.max(prioridad, (liga.peso || 1) >= 2 ? 3 : 2);
+      if (esFase && (liga.peso || 1) >= 2) prioridad = 3;
       if (esColombia) prioridad = 3;
       const estado = comp.status?.type || ev.status?.type || {};
       partidos.push({
