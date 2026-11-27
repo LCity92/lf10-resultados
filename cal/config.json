@@ -46,6 +46,62 @@
       "peso": 2
     },
     {
+      "id": "fifa.world.u17",
+      "nombre": "Mundial Sub-17",
+      "modo": "seguidos",
+      "peso": 2,
+      "opcional": true
+    },
+    {
+      "id": "fifa.wworld.u17",
+      "nombre": "Mundial Femenino Sub-17",
+      "modo": "seguidos",
+      "peso": 2,
+      "opcional": true
+    },
+    {
+      "id": "fifa.world.u20",
+      "nombre": "Mundial Sub-20",
+      "modo": "seguidos",
+      "peso": 2,
+      "opcional": true
+    },
+    {
+      "id": "conmebol.sudamericano_sub20",
+      "nombre": "Sudamericano Sub-20",
+      "modo": "seguidos",
+      "peso": 2,
+      "opcional": true
+    },
+    {
+      "id": "conmebol.america.femenina",
+      "nombre": "Copa América Femenina",
+      "modo": "seguidos",
+      "peso": 2,
+      "opcional": true
+    },
+    {
+      "id": "fifa.friendly.w",
+      "nombre": "Amistosos femeninos",
+      "modo": "seguidos",
+      "peso": 2,
+      "opcional": true
+    },
+    {
+      "id": "eng.fa",
+      "nombre": "FA Cup",
+      "modo": "seguidos",
+      "peso": 1,
+      "opcional": true
+    },
+    {
+      "id": "eng.league_cup",
+      "nombre": "Carabao Cup",
+      "modo": "seguidos",
+      "peso": 1,
+      "opcional": true
+    },
+    {
       "id": "fifa.cwc",
       "nombre": "Mundial de Clubes",
       "modo": "todo",
@@ -143,9 +199,11 @@
         "Colombia",
         "Colombia U20",
         "Colombia U17",
-        "Colombia Women"
+        "Colombia Women",
+        "Colombia U17 Women",
+        "Colombia U20 Women"
       ],
-      "motivo": "Selección Colombia"
+      "motivo": "Selección Colombia (todas las categorías, masculina y femenina)"
     },
     {
       "nombre": "Atlético Nacional",
@@ -153,7 +211,8 @@
         "Atlético Nacional",
         "Atletico Nacional"
       ],
-      "motivo": "Liga BetPlay"
+      "motivo": "James Rodríguez · Liga BetPlay",
+      "nivel": 3
     },
     {
       "nombre": "Millonarios",
@@ -222,14 +281,24 @@
         "Bayern Munich",
         "Bayern München"
       ],
-      "motivo": "Luis Díaz / camisetas Adidas"
+      "motivo": "Luis Díaz (Lucho) / camisetas Adidas",
+      "nivel": 3
+    },
+    {
+      "nombre": "Nottingham Forest",
+      "alias": [
+        "Nottingham Forest",
+        "Nottm Forest"
+      ],
+      "motivo": "Daniel Muñoz (muy cercano a la casa)",
+      "nivel": 3
     },
     {
       "nombre": "Crystal Palace",
       "alias": [
         "Crystal Palace"
       ],
-      "motivo": "Daniel Muñoz y Jefferson Lerma"
+      "motivo": "Jefferson Lerma"
     },
     {
       "nombre": "Benfica",
@@ -314,15 +383,18 @@
   "jugadores": [
     {
       "nombre": "James Rodríguez",
-      "busqueda": "\"James Rodríguez\""
+      "busqueda": "\"James Rodríguez\"",
+      "prioridad": true
     },
     {
       "nombre": "Luis Díaz",
-      "busqueda": "\"Luis Díaz\" fútbol"
+      "busqueda": "\"Luis Díaz\" fútbol",
+      "prioridad": true
     },
     {
       "nombre": "Radamel Falcao",
-      "busqueda": "\"Falcao\" fútbol"
+      "busqueda": "\"Falcao\" fútbol",
+      "prioridad": true
     },
     {
       "nombre": "Richard Ríos",
@@ -330,7 +402,7 @@
     },
     {
       "nombre": "Daniel Muñoz",
-      "busqueda": "\"Daniel Muñoz\" fútbol"
+      "busqueda": "\"Daniel Muñoz\" (Nottingham OR Forest OR \"Selección Colombia\" OR lateral)"
     },
     {
       "nombre": "Jhon Lucumí",
@@ -366,18 +438,21 @@
     },
     {
       "nombre": "Linda Caicedo",
-      "busqueda": "\"Linda Caicedo\""
+      "busqueda": "\"Linda Caicedo\"",
+      "prioridad": true
     },
     {
       "nombre": "Mayra Ramírez",
-      "busqueda": "\"Mayra Ramírez\""
+      "busqueda": "\"Mayra Ramírez\"",
+      "prioridad": true
     }
   ],
   "temas": [
     {
       "nombre": "Selección Colombia",
-      "busqueda": "\"Selección Colombia\" fútbol",
-      "tipo": "noticia"
+      "busqueda": "\"Selección Colombia\" fútbol masculina",
+      "tipo": "noticia",
+      "prioridad": true
     },
     {
       "nombre": "Liga BetPlay",
@@ -398,6 +473,30 @@
       "nombre": "Camisetas nuevas",
       "busqueda": "\"nueva camiseta\" fútbol club",
       "tipo": "noticia"
+    },
+    {
+      "nombre": "Selección Colombia femenina",
+      "busqueda": "\"Selección Colombia femenina\"",
+      "tipo": "noticia",
+      "prioridad": true
+    },
+    {
+      "nombre": "Selección Colombia Sub-17",
+      "busqueda": "\"Colombia Sub-17\" OR \"Selección Sub-17\" Colombia",
+      "tipo": "noticia",
+      "prioridad": true
+    },
+    {
+      "nombre": "Selección Colombia Sub-20",
+      "busqueda": "\"Colombia Sub-20\" OR \"Selección Sub-20\" Colombia",
+      "tipo": "noticia",
+      "prioridad": true
+    },
+    {
+      "nombre": "Selección femenina juvenil",
+      "busqueda": "Colombia \"femenina Sub-17\" OR \"femenina Sub-20\"",
+      "tipo": "noticia",
+      "prioridad": true
     }
   ],
   "bloqueados": []

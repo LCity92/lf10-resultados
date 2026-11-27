@@ -97,7 +97,11 @@ for (const liga of cfg.ligas || []) {
       const nivel = Math.max(0, ...seguidos.map((s) => s.nivel ?? 2));
       if (nivel >= 2) prioridad = Math.max(prioridad, 2);
       if (esFase && (liga.peso || 1) >= 2) prioridad = 3;
+      if (nivel >= 3) prioridad = 3;
       if (esColombia) prioridad = 3;
+      // James jugando en Bogotá (Nacional de visita en El Campín / Techo)
+      const enBogota = /atl[eé]tico nacional/i.test(visita.nombre) && /santa fe|millonarios|inter(nacional)? de bogot/i.test(local.nombre);
+      if (enBogota) prioridad = 3;
       const estado = comp.status?.type || ev.status?.type || {};
       partidos.push({
         id: `espn-${liga.id}-${ev.id}`,
@@ -107,13 +111,13 @@ for (const liga of cfg.ligas || []) {
         titulo,
         detalle: [(comp.notes || [])[0]?.headline, comp.venue?.fullName].filter(Boolean).join(' · '),
         prioridad,
-        motivos: [...new Set(seguidos.map((s) => s.motivo))],
+        motivos: [...new Set([...seguidos.map((s) => s.motivo), ...(enBogota ? ['James en Bogotá'] : [])])],
         estado: estado.state === 'post' ? `Final: ${local.goles ?? ''}-${visita.goles ?? ''}` : (estado.state === 'in' ? 'En juego' : ''),
         fuente: 'ESPN',
       });
     }
   } catch (e) {
-    errores.push(`Partidos ${liga.nombre}: ${e.message}`);
+    if (!liga.opcional) errores.push(`Partidos ${liga.nombre}: ${e.message}`);
   }
 }
 
@@ -133,8 +137,8 @@ const decodificar = (s) => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/
 const etiqueta = (x, t) => decodificar((x.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`)) || [])[1]);
 
 const consultas = [
-  ...(cfg.jugadores || []).map((j) => ({ etiqueta: j.nombre, grupo: 'jugador', q: j.busqueda || `"${j.nombre}"` })),
-  ...(cfg.temas || []).map((t) => ({ etiqueta: t.nombre, grupo: t.tipo || 'noticia', q: t.busqueda })),
+  ...(cfg.jugadores || []).map((j) => ({ etiqueta: j.nombre, grupo: 'jugador', q: j.busqueda || `"${j.nombre}"`, prioridad: !!j.prioridad })),
+  ...(cfg.temas || []).map((t) => ({ etiqueta: t.nombre, grupo: t.tipo || 'noticia', q: t.busqueda, prioridad: !!t.prioridad })),
 ];
 const vistas = new Map();
 const limite = ahora.getTime() - 7 * 864e5;
@@ -142,7 +146,7 @@ for (const c of consultas) {
   try {
     const url = `https://news.google.com/rss/search?q=${encodeURIComponent(c.q + ' when:7d')}&hl=es-419&gl=CO&ceid=CO:es-419`;
     const xml = await traer(url, 'text');
-    const items = xml.split('<item>').slice(1, 11);
+    const items = xml.split('<item>').slice(1, c.prioridad ? 21 : 11);
     for (const it of items) {
       let titulo = etiqueta(it, 'title');
       const medio = etiqueta(it, 'source');
@@ -151,18 +155,21 @@ for (const c of consultas) {
       if (!titulo || isNaN(fecha) || fecha.getTime() < limite || bloqueado(titulo)) continue;
       const clave = sinTildes(titulo).replace(/[^a-z0-9]/g, '').slice(0, 80);
       const previa = vistas.get(clave);
-      if (previa) { if (!previa.etiquetas.includes(c.etiqueta)) previa.etiquetas.push(c.etiqueta); continue; }
+      if (previa) { if (!previa.etiquetas.includes(c.etiqueta)) previa.etiquetas.push(c.etiqueta); if (c.prioridad) previa.prioridad = true; continue; }
       vistas.set(clave, {
         titulo, medio, enlace: etiqueta(it, 'link'), fecha: fecha.toISOString(),
         etiquetas: [c.etiqueta],
         fichaje: c.grupo === 'fichaje' || FICHAJE.test(titulo),
+        prioridad: c.prioridad,
       });
     }
   } catch (e) {
     errores.push(`Noticias ${c.etiqueta}: ${e.message}`);
   }
 }
-const noticias = [...vistas.values()].sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 250);
+const todas = [...vistas.values()].sort((a, b) => b.fecha.localeCompare(a.fecha));
+// Las prioritarias (James, Lucho, Falcao, Selección) nunca se recortan.
+const noticias = [...todas.filter((n) => n.prioridad), ...todas.filter((n) => !n.prioridad).slice(0, 220)].sort((a, b) => b.fecha.localeCompare(a.fecha));
 await guardar('noticias.json', { actualizado: ahora.toISOString(), errores, total: noticias.length, noticias });
 
 console.log(`Eventos: ${eventos.length} (partidos ${partidos.length}). Noticias: ${noticias.length}. Errores: ${errores.length}`);

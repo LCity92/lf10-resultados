@@ -1,34 +1,301 @@
 {
   "_nota": "Fechas que no salen de las fuentes automáticas: comerciales, temporadas de fichajes, hitos de LF10 y partidos tentativos. tentativa=true se muestra como 'por confirmar'. Hora en hora de Colombia.",
   "eventos": [
-    {"id": "m-bf-2026", "fecha": "2026-11-27", "fin": "2026-11-30", "tipo": "comercial", "titulo": "Black Friday LF10", "detalle": "Descuentos hasta el lunes 30 de noviembre", "prioridad": 3},
-    {"id": "m-lib-final-2026", "fecha": "2026-11-28", "hora": "15:00", "tipo": "partido", "competencia": "Copa Libertadores", "titulo": "Final Copa Libertadores: Palmeiras vs Estudiantes", "detalle": "Montevideo", "prioridad": 3},
-    {"id": "m-cuad-f4", "fecha": "2026-11-29", "tipo": "partido", "competencia": "Liga BetPlay", "titulo": "Cuadrangulares Liga BetPlay: fecha 4", "prioridad": 3, "tentativa": true, "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"},
-    {"id": "m-lotto-50", "fecha": "2026-12-01", "tipo": "lf10", "titulo": "Lanzamiento campaña Lotto 50%", "detalle": "Según la parrilla de redes", "prioridad": 2},
-    {"id": "m-aniv-exp", "fecha": "2026-12-01", "tipo": "lf10", "titulo": "Inicio de expectativa del aniversario de LF10", "prioridad": 2},
-    {"id": "m-cuad-f5", "fecha": "2026-12-02", "tipo": "partido", "competencia": "Liga BetPlay", "titulo": "Cuadrangulares Liga BetPlay: fecha 5", "detalle": "En la parrilla: Nacional vs Santa Fe", "prioridad": 3, "tentativa": true, "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"},
-    {"id": "m-aniv", "fecha": "2026-12-04", "tipo": "lf10", "titulo": "Aniversario 2 años de LF10", "prioridad": 3},
-    {"id": "m-velitas", "fecha": "2026-12-07", "tipo": "comercial", "titulo": "Día de las Velitas", "prioridad": 1},
-    {"id": "m-cuad-f6", "fecha": "2026-12-08", "fin": "2026-12-09", "tipo": "partido", "competencia": "Liga BetPlay", "titulo": "Cuadrangulares Liga BetPlay: fecha 6", "prioridad": 3, "tentativa": true, "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"},
-    {"id": "m-prima-dic", "fecha": "2026-12-15", "fin": "2026-12-20", "tipo": "comercial", "titulo": "Pago de la prima de diciembre", "detalle": "Pico de compras de regalos", "prioridad": 3},
-    {"id": "m-final-betplay", "fecha": "2026-12-13", "fin": "2026-12-20", "tipo": "partido", "competencia": "Liga BetPlay", "titulo": "Final Liga BetPlay 2026-II (ida y vuelta)", "detalle": "Fechas exactas por confirmar por la Dimayor", "prioridad": 3, "tentativa": true, "fuente": "https://www.clarosports.com/colombia/liga-bet-play/estas-serian-las-fechas-de-las-finales-de-la-liga-betplay-2026-ii-y-la-copa-colombia-2026/"},
-    {"id": "m-final-copa-col", "fecha": "2026-12-22", "tipo": "partido", "competencia": "Copa Colombia", "titulo": "Final Copa Colombia 2026 (hasta el 22 de diciembre)", "prioridad": 2, "tentativa": true, "fuente": "https://www.clarosports.com/colombia/liga-bet-play/estas-serian-las-fechas-de-las-finales-de-la-liga-betplay-2026-ii-y-la-copa-colombia-2026/"},
-    {"id": "m-mercado-fpc", "fecha": "2026-12-15", "fin": "2027-01-31", "tipo": "mercado", "titulo": "Mercado de pases del fútbol colombiano (2027-I)", "detalle": "Refuerzos y salidas de los clubes de la Liga BetPlay", "prioridad": 2, "tentativa": true},
-    {"id": "m-navidad", "fecha": "2026-12-24", "fin": "2026-12-25", "tipo": "comercial", "titulo": "Navidad", "prioridad": 3},
-    {"id": "m-anionuevo", "fecha": "2026-12-31", "tipo": "comercial", "titulo": "Fin de año", "prioridad": 1},
-    {"id": "m-mercado-inv", "fecha": "2027-01-01", "fin": "2027-02-02", "tipo": "mercado", "titulo": "Mercado de fichajes de invierno en Europa", "detalle": "Fechas de cierre varían por liga", "prioridad": 2, "tentativa": true},
-    {"id": "m-liga-2027", "fecha": "2027-01-15", "tipo": "partido", "competencia": "Liga BetPlay", "titulo": "Arranque de la Liga BetPlay 2027-I", "detalle": "En 2026 arrancó el 16 de enero", "prioridad": 2, "tentativa": true},
-    {"id": "m-clases", "fecha": "2027-01-25", "tipo": "comercial", "titulo": "Regreso a clases y a las escuelitas (calendario A)", "prioridad": 2, "tentativa": true},
-    {"id": "m-mujer", "fecha": "2027-03-08", "tipo": "comercial", "titulo": "Día de la Mujer", "prioridad": 1},
-    {"id": "m-fifa-mar", "fecha": "2027-03-22", "fin": "2027-03-30", "tipo": "seleccion", "competencia": "Selección Colombia", "titulo": "Fecha FIFA de marzo: amistosos de la Selección Colombia", "detalle": "Máximo 2 partidos; rivales por confirmar", "prioridad": 3, "tentativa": true, "fuente": "https://www.clarosports.com/colombia/seleccion-colombiana/que-viene-para-la-seleccion-colombia-en-2027-el-calendario-y-los-retos-de-nestor-lorenzo/"},
-    {"id": "m-nino", "fecha": "2027-04-24", "tipo": "comercial", "titulo": "Día del Niño", "prioridad": 2},
-    {"id": "m-madre", "fecha": "2027-05-09", "tipo": "comercial", "titulo": "Día de la Madre", "prioridad": 3},
-    {"id": "m-prima-jun", "fecha": "2027-06-15", "fin": "2027-06-30", "tipo": "comercial", "titulo": "Pago de la prima de junio", "prioridad": 2},
-    {"id": "m-mercado-ver", "fecha": "2027-06-14", "fin": "2027-09-01", "tipo": "mercado", "titulo": "Mercado de fichajes de verano en Europa", "detalle": "Fechas por confirmar por liga", "prioridad": 2, "tentativa": true},
-    {"id": "m-padre", "fecha": "2027-06-20", "tipo": "comercial", "titulo": "Día del Padre", "prioridad": 3},
-    {"id": "m-wwc", "fecha": "2027-06-24", "fin": "2027-07-25", "tipo": "seleccion", "competencia": "Mundial Femenino 2027", "titulo": "Mundial Femenino 2027 (Brasil) con la Selección Colombia", "prioridad": 3, "tentativa": true},
-    {"id": "m-elim", "fecha": "2027-09-20", "fin": "2027-10-05", "tipo": "seleccion", "competencia": "Eliminatoria Sudamericana", "titulo": "Arranque de la Eliminatoria al Mundial 2030 (fecha FIFA)", "prioridad": 3, "tentativa": true, "fuente": "https://www.clarosports.com/colombia/seleccion-colombiana/que-viene-para-la-seleccion-colombia-en-2027-el-calendario-y-los-retos-de-nestor-lorenzo/"},
-    {"id": "m-amor", "fecha": "2027-09-18", "tipo": "comercial", "titulo": "Amor y Amistad", "prioridad": 3},
-    {"id": "m-bf-2027", "fecha": "2027-11-26", "tipo": "comercial", "titulo": "Black Friday 2027", "prioridad": 3}
+    {
+      "id": "m-bf-2026",
+      "fecha": "2026-11-27",
+      "fin": "2026-11-30",
+      "tipo": "comercial",
+      "titulo": "Black Friday LF10",
+      "detalle": "Descuentos hasta el lunes 30 de noviembre",
+      "prioridad": 3
+    },
+    {
+      "id": "m-lib-final-2026",
+      "fecha": "2026-11-28",
+      "hora": "15:00",
+      "tipo": "partido",
+      "competencia": "Copa Libertadores",
+      "titulo": "Final Copa Libertadores: Palmeiras vs Estudiantes",
+      "detalle": "Montevideo",
+      "prioridad": 3
+    },
+    {
+      "id": "m-cuad-f4",
+      "fecha": "2026-11-29",
+      "tipo": "partido",
+      "competencia": "Liga BetPlay",
+      "titulo": "Cuadrangulares Liga BetPlay: fecha 4",
+      "prioridad": 3,
+      "tentativa": true,
+      "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
+    },
+    {
+      "id": "m-lotto-50",
+      "fecha": "2026-12-01",
+      "tipo": "lf10",
+      "titulo": "Lanzamiento campaña Lotto 50%",
+      "detalle": "Según la parrilla de redes",
+      "prioridad": 2
+    },
+    {
+      "id": "m-aniv-exp",
+      "fecha": "2026-12-01",
+      "tipo": "lf10",
+      "titulo": "Inicio de expectativa del aniversario de LF10",
+      "prioridad": 2
+    },
+    {
+      "id": "m-cuad-f5",
+      "fecha": "2026-12-02",
+      "tipo": "partido",
+      "competencia": "Liga BetPlay",
+      "titulo": "Cuadrangulares Liga BetPlay: fecha 5",
+      "detalle": "En la parrilla: Nacional vs Santa Fe",
+      "prioridad": 3,
+      "tentativa": true,
+      "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
+    },
+    {
+      "id": "m-aniv",
+      "fecha": "2026-12-05",
+      "tipo": "lf10",
+      "titulo": "Aniversario 2 años de LF10",
+      "prioridad": 3
+    },
+    {
+      "id": "m-velitas",
+      "fecha": "2026-12-07",
+      "tipo": "comercial",
+      "titulo": "Día de las Velitas",
+      "prioridad": 1
+    },
+    {
+      "id": "m-cuad-f6",
+      "fecha": "2026-12-08",
+      "fin": "2026-12-09",
+      "tipo": "partido",
+      "competencia": "Liga BetPlay",
+      "titulo": "Cuadrangulares Liga BetPlay: fecha 6",
+      "prioridad": 3,
+      "tentativa": true,
+      "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
+    },
+    {
+      "id": "m-prima-dic",
+      "fecha": "2026-12-15",
+      "fin": "2026-12-20",
+      "tipo": "comercial",
+      "titulo": "Pago de la prima de diciembre",
+      "detalle": "Pico de compras de regalos",
+      "prioridad": 3
+    },
+    {
+      "id": "m-final-betplay",
+      "fecha": "2026-12-13",
+      "fin": "2026-12-20",
+      "tipo": "partido",
+      "competencia": "Liga BetPlay",
+      "titulo": "Final Liga BetPlay 2026-II (ida y vuelta)",
+      "detalle": "Fechas exactas por confirmar por la Dimayor",
+      "prioridad": 3,
+      "tentativa": true,
+      "fuente": "https://www.clarosports.com/colombia/liga-bet-play/estas-serian-las-fechas-de-las-finales-de-la-liga-betplay-2026-ii-y-la-copa-colombia-2026/"
+    },
+    {
+      "id": "m-final-copa-col",
+      "fecha": "2026-12-22",
+      "tipo": "partido",
+      "competencia": "Copa Colombia",
+      "titulo": "Final Copa Colombia 2026 (hasta el 22 de diciembre)",
+      "prioridad": 2,
+      "tentativa": true,
+      "fuente": "https://www.clarosports.com/colombia/liga-bet-play/estas-serian-las-fechas-de-las-finales-de-la-liga-betplay-2026-ii-y-la-copa-colombia-2026/"
+    },
+    {
+      "id": "m-mercado-fpc",
+      "fecha": "2026-12-15",
+      "fin": "2027-01-31",
+      "tipo": "mercado",
+      "titulo": "Mercado de pases del fútbol colombiano (2027-I)",
+      "detalle": "Refuerzos y salidas de los clubes de la Liga BetPlay",
+      "prioridad": 2,
+      "tentativa": true
+    },
+    {
+      "id": "m-navidad",
+      "fecha": "2026-12-24",
+      "fin": "2026-12-25",
+      "tipo": "comercial",
+      "titulo": "Navidad",
+      "prioridad": 3
+    },
+    {
+      "id": "m-anionuevo",
+      "fecha": "2026-12-31",
+      "tipo": "comercial",
+      "titulo": "Fin de año",
+      "prioridad": 1
+    },
+    {
+      "id": "m-mercado-inv",
+      "fecha": "2027-01-01",
+      "fin": "2027-02-02",
+      "tipo": "mercado",
+      "titulo": "Mercado de fichajes de invierno en Europa",
+      "detalle": "Fechas de cierre varían por liga",
+      "prioridad": 2,
+      "tentativa": true
+    },
+    {
+      "id": "m-liga-2027",
+      "fecha": "2027-01-15",
+      "tipo": "partido",
+      "competencia": "Liga BetPlay",
+      "titulo": "Arranque de la Liga BetPlay 2027-I",
+      "detalle": "En 2026 arrancó el 16 de enero",
+      "prioridad": 2,
+      "tentativa": true
+    },
+    {
+      "id": "m-clases",
+      "fecha": "2027-01-25",
+      "tipo": "comercial",
+      "titulo": "Regreso a clases y a las escuelitas (calendario A)",
+      "prioridad": 2,
+      "tentativa": true
+    },
+    {
+      "id": "m-mujer",
+      "fecha": "2027-03-08",
+      "tipo": "comercial",
+      "titulo": "Día de la Mujer",
+      "prioridad": 1
+    },
+    {
+      "id": "m-fifa-mar",
+      "fecha": "2027-03-22",
+      "fin": "2027-03-30",
+      "tipo": "seleccion",
+      "competencia": "Selección Colombia",
+      "titulo": "Fecha FIFA de marzo: amistosos de la Selección Colombia",
+      "detalle": "Máximo 2 partidos; rivales por confirmar",
+      "prioridad": 3,
+      "tentativa": true,
+      "fuente": "https://www.clarosports.com/colombia/seleccion-colombiana/que-viene-para-la-seleccion-colombia-en-2027-el-calendario-y-los-retos-de-nestor-lorenzo/"
+    },
+    {
+      "id": "m-nino",
+      "fecha": "2027-04-24",
+      "tipo": "comercial",
+      "titulo": "Día del Niño",
+      "prioridad": 2
+    },
+    {
+      "id": "m-madre",
+      "fecha": "2027-05-09",
+      "tipo": "comercial",
+      "titulo": "Día de la Madre",
+      "prioridad": 3
+    },
+    {
+      "id": "m-prima-jun",
+      "fecha": "2027-06-15",
+      "fin": "2027-06-30",
+      "tipo": "comercial",
+      "titulo": "Pago de la prima de junio",
+      "prioridad": 2
+    },
+    {
+      "id": "m-mercado-ver",
+      "fecha": "2027-06-14",
+      "fin": "2027-09-01",
+      "tipo": "mercado",
+      "titulo": "Mercado de fichajes de verano en Europa",
+      "detalle": "Fechas por confirmar por liga",
+      "prioridad": 2,
+      "tentativa": true
+    },
+    {
+      "id": "m-padre",
+      "fecha": "2027-06-20",
+      "tipo": "comercial",
+      "titulo": "Día del Padre",
+      "prioridad": 3
+    },
+    {
+      "id": "m-wwc",
+      "fecha": "2027-06-24",
+      "fin": "2027-07-25",
+      "tipo": "seleccion",
+      "competencia": "Mundial Femenino 2027",
+      "titulo": "Mundial Femenino 2027 (Brasil) con la Selección Colombia",
+      "prioridad": 3,
+      "tentativa": true
+    },
+    {
+      "id": "m-elim",
+      "fecha": "2027-09-20",
+      "fin": "2027-10-05",
+      "tipo": "seleccion",
+      "competencia": "Eliminatoria Sudamericana",
+      "titulo": "Arranque de la Eliminatoria al Mundial 2030 (fecha FIFA)",
+      "prioridad": 3,
+      "tentativa": true,
+      "fuente": "https://www.clarosports.com/colombia/seleccion-colombiana/que-viene-para-la-seleccion-colombia-en-2027-el-calendario-y-los-retos-de-nestor-lorenzo/"
+    },
+    {
+      "id": "m-amor",
+      "fecha": "2027-09-18",
+      "tipo": "comercial",
+      "titulo": "Amor y Amistad",
+      "prioridad": 3
+    },
+    {
+      "id": "m-bf-2027",
+      "fecha": "2027-11-26",
+      "tipo": "comercial",
+      "titulo": "Black Friday 2027",
+      "prioridad": 3
+    },
+    {
+      "id": "m-sub17-mundial",
+      "fecha": "2026-11-19",
+      "fin": "2026-12-13",
+      "tipo": "seleccion",
+      "competencia": "Mundial Sub-17",
+      "titulo": "Mundial Sub-17 Catar 2026 · Colombia en el Grupo L (Japón, Serbia, Honduras)",
+      "detalle": "Los partidos de Colombia se cargan solos desde ESPN",
+      "prioridad": 3
+    },
+    {
+      "id": "m-fem-aus1",
+      "fecha": "2026-11-28",
+      "hora": "03:30",
+      "tipo": "seleccion",
+      "competencia": "Amistosos femeninos",
+      "titulo": "Australia vs Colombia (Selección femenina de mayores)",
+      "detalle": "GIO Stadium, Canberra · amistoso rumbo a Brasil 2027",
+      "prioridad": 3
+    },
+    {
+      "id": "m-fem-aus2",
+      "fecha": "2026-12-01",
+      "tipo": "seleccion",
+      "competencia": "Amistosos femeninos",
+      "titulo": "Australia vs Colombia, 2.º amistoso femenino (fecha y sede por confirmar)",
+      "detalle": "Tentativo: FCF anunció un segundo partido a inicios de diciembre",
+      "prioridad": 2,
+      "tentativa": true
+    },
+    {
+      "id": "m-fem-sorteo",
+      "fecha": "2026-12-11",
+      "tipo": "seleccion",
+      "competencia": "Mundial Femenino 2027",
+      "titulo": "Sorteo del Mundial Femenino Brasil 2027 (Río de Janeiro)",
+      "detalle": "Colombia ya está clasificada: definirá rivales y fechas",
+      "prioridad": 3
+    }
   ]
 }

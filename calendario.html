@@ -101,6 +101,7 @@ select{border:1px solid var(--line);background:var(--surface);color:var(--fg);bo
 @media (max-width:700px){.cell{min-height:64px}.pill,.cell .mas{display:none}.dots{display:flex}.mhead h2{font-size:19px}}
 [hidden]{display:none!important}
 @media (max-width:600px){.day{grid-template-columns:62px 1fr}h1{font-size:19px}}
+.ncard.prio{border-left:3px solid #e0a100;padding-left:10px}
 </style>
 </head>
 <body>
@@ -285,7 +286,9 @@ function renderNoticias(){
   const l=NO.noticias.filter(n=>(!fich||n.fichaje)&&new Date(n.fecha)>=lim&&(!st.etq||n.etiquetas.includes(st.etq))&&!oculto(n.titulo+' '+n.etiquetas.join(' '))&&(!q||norm(n.titulo+' '+n.medio+' '+n.etiquetas.join(' ')).includes(q)));
   const merc=fich?EV.eventos.filter(e=>e.tipo==='mercado'&&(e.fin||e.fecha)>=hoyStr()).map(e=>card(e,true)).join(''):'';
   $('#news').innerHTML=(merc?`<div class="week"><h2>Temporadas de fichajes</h2><div class="items">${merc}</div></div><div class="week"><h2>Noticias de fichajes</h2></div>`:'')+
-   (l.length?l.map(n=>`<div class="ncard"><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.titulo)}</a><div class="meta">${esc(n.medio||'')} · ${hace(n.fecha)} ${n.etiquetas.map(t=>`<span class="tag ${destacado(t)?'hi':''}">${esc(t)}</span>`).join(' ')}${n.fichaje&&!fich?' <span class="tag hi">Fichaje</span>':''}</div></div>`).join(''):`<div class="empty">${NO.noticias.length?'No hay noticias con estos filtros.':'Las noticias aparecen después de la primera actualización automática.'}</div>`);
+   (l.length?(()=>{const nc=n=>`<div class="ncard${n.prioridad?' prio':''}"><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.titulo)}</a><div class="meta">${esc(n.medio||'')} · ${hace(n.fecha)} ${n.prioridad?'<span class="tag hi">Prioridad</span> ':''}${n.etiquetas.map(t=>`<span class="tag ${destacado(t)?'hi':''}">${esc(t)}</span>`).join(' ')}${n.fichaje&&!fich?' <span class="tag hi">Fichaje</span>':''}</div></div>`;
+     const pr=l.filter(n=>n.prioridad),ot=l.filter(n=>!n.prioridad);
+     return (pr.length?`<div class="week"><h2>Prioridad · James, Lucho, Falcao y Selección (todas las categorías)</h2></div>${pr.map(nc).join('')}`:'')+(ot.length?`<div class="week"><h2>${pr.length?'Resto de noticias':''}</h2></div>${ot.map(nc).join('')}`:'')})():`<div class="empty">${NO.noticias.length?'No hay noticias con estos filtros.':'Las noticias aparecen después de la primera actualización automática.'}</div>`);
 }
 
 function renderSeg(){
