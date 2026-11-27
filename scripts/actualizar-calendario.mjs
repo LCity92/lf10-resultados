@@ -112,13 +112,17 @@ for (const liga of cfg.ligas || []) {
 }
 
 // Manuales (comerciales, mercados, hitos)
-const manuales = (manual.eventos || []).filter((e) => !bloqueado(e.titulo)).map((e) => ({ ...e, fuente: e.fuente || 'LF10' }));
+// Un partido manual de un solo día se reemplaza por los partidos reales si la fuente ya los trae.
+const manuales = (manual.eventos || [])
+  .filter((e) => !bloqueado(e.titulo))
+  .filter((e) => !(e.tipo === 'partido' && !e.fin && partidos.some((p) => p.competencia === e.competencia && p.fecha === e.fecha)))
+  .map((e) => ({ ...e, fuente: e.fuente || 'LF10' }));
 
 const eventos = [...manuales, ...partidos].sort((a, b) => (a.fecha + (a.hora || '00:00')).localeCompare(b.fecha + (b.hora || '00:00')));
 await guardar('eventos.json', { actualizado: ahora.toISOString(), errores, total: eventos.length, eventos });
 
 // ---------- Noticias (Google Noticias RSS) ----------
-const FICHAJE = /fichaj|traspaso|refuerz|contrat|nuevo club|firm[aó] con|cedid|pr[eé]stamo|mercado de pases|transfer|llega a|se va a|oferta por|renov/i;
+const FICHAJE = /fichaj|traspaso|refuerz|contrat|nuevo club|firm[aó] con|cedid|pr[eé]stamo|mercado de pases|transfer|oferta por|renov[oó] contrato/i;
 const decodificar = (s) => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
 const etiqueta = (x, t) => decodificar((x.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`)) || [])[1]);
 
