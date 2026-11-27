@@ -1,17 +1,40 @@
 {
- "actualizado": "2026-11-27T17:07:33.553Z",
+ "actualizado": "2026-11-27T17:11:52.179Z",
  "errores": [],
- "total": 173,
+ "total": 245,
  "noticias": [
   {
-   "titulo": "Colombia perdió con Serbia y quedó segunda del Grupo L en el Mundial",
-   "medio": "ESPN Colombia",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcjRkX3hLUG02ZEhMR3B6UWpDNks4ak5lMXhHM3hGeWFwSW5uR0RIN0xsekszLUI3MEI0MTVqQlhPMUZ5bzgtTGVRRUc1RGpMVUlScjdFVjFYbkw2Ri12M3IxNEk2TUpHT3Y2TG1TcHB0STBpZ1dVZTI5SzIxNkp0RHdaMzR3b1N6UXk1aWVXaUhDYkllLW05RUpPcmFWc2VaZW9Za19BRk1zRmtDSjdxdGRtc2FrX0ZBLUw1eXcxZXJkVDhpcWVxMUhB?oc=5",
-   "fecha": "2026-11-27T16:14:05.000Z",
+   "titulo": "Colombia cayó ante Serbia, terminó segunda de su grupo y espera rival en dieciseisavos",
+   "medio": "Zona Cero",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2tvUnVYMlJDSU1jZ2MwM2NDcjZRRjl0V29lOXVMRUFYZlByWkRWWlhxUTZ2c2tyaS1HZnM5LXVPeEVwWlRJLW9hd1dmdHdUVURKeWRjUmdERDYzOE1KVzJMd0o3NDRCLWt5TXJWVWk4YjFsdlZUSWtiMXRlVFNNVk1hcG9oQlVQa0ZZYzEwOXhwbFhuZ244QmVQNWxPT2ZyVFpBR3FGanh3MkN4ZTF0VGE2eFdadw?oc=5",
+   "fecha": "2026-11-27T16:31:00.000Z",
    "etiquetas": [
     "Selección Colombia"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Hugo Rodallega alcanzó los 300 goles: lista de máximos goleadores colombianos de la historia",
+   "medio": "Futbolred",
+   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXdxLVpqR0NXVTJ0Y1dISGRSeGJSTk9IVVBhWmhtOFY2QnYwb0wwSk1reHlobmxzc3EzVXdEMVdwekpKODNtQUZibFo4VDRxTkFhcVZFak9LOHhwNGNRcGYxN0xSYnoxeEVBTFp2bU5XNjJiSXZjdWdkcU5pSm5zcmpYakdlclI5VUpmQ0paQnZxTk5LUmlwU0o4emRabWIxVUtYVGRaODVhSlF5cW9vWlNOdDhrdk5LblRPbTdyWHVwaXhGNDA1T3V5dFduME9Kel9PZGFQVGxjX3otUWF3SXlYdHB0NTVCZzE0TXRhbTZ3ZGtjR3NaSUFR0gH6AUFVX3lxTFBxd3EtWmpHQ1dVMnRjV0hIZFJ4YlJOT0hVUGFaaG04VjZCdjBvTDBKTWt4eWhubHNzcTNVd0QxV3B6Sko4M21BRmJsWjhUNHFOQWFxVkVqT0s4eHA0Y1FwZjE3TFJiejF4RUFMWnZtTlc2MmJJdmN1Z2RxTmlKbnNyalhqR2VyUjlVSmZDSlpCdnFOTktSaXBTSjh6ZFptYjFVS1hUZFo4NWFKUXlxb29aU050OGt2TktuVE9tN3JYdXBpeEY0MDVPdXl0V24wT0p6X09kYVBUbGNfei1RYXdJeVh0cHQ1NUJnMTRNdGFtNndka2NHc1pJQVE?oc=5",
+   "fecha": "2026-11-27T15:54:00.000Z",
+   "etiquetas": [
+    "Radamel Falcao"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Sub-17 cayó 1-0 con Serbia y terminó segunda en grupo L del Mundial de Qatar",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbUlpMExYb3k2MVJnWnl0QmN4MVIxcTQ5cHVFcXVESG94TGx4VDFKQk50UW81endsN2lTNnpMR1JQOHB0Nl9KOHphbjVFWW1yeENhY1pfSC1mLUNFMkhQamI2Q3FBTi1FN1FTeFRGSFlKLUpYNE1ZRzFKX05tbnJJTk5oemZ0MElFZXowQ3FiOUloRWNRM0JmV0I4T0lPYUwxTmlZTEd4TVRVVTYwRjd4T2g0WVZDSkNtMWlhMUZQMWdhR1JoTlA2UDBMNUpLYjQzYjYteUZabTEzQ3NHTFdUZ3lwR3VDSHdVTm5lNno2eWhjLUEyWk5Lb9IBhgJBVV95cUxQeHl0TXQ0eUx5dlZyVW1PdDlodGVKRTRSSEtGdl9fbGhBbXIzUjRjM1ZZbWhxc1ZDQW9PdXJORnoybE9mb19CY2t5UDk0ZFVtMWVYWURsOEdPY2RzMWpUc1dia1BTZjI1ZEU3VjE1eExXeENPWDg5U3RmdTlnTjV1ZmQxUFQ4OGlOcXpJa3lfSGh1UEwteWU2TlRzNDZJZzREQ19CcG5Wb3lFSjU0WmZLVEVOZkpTY1ltR2VRX1lJQmotdWVWam5VMUl1Q3dSSmg2a3c2S1lJaGxBYTNtZmxYUzlTd0pFQXJkREt5RkEyLTJlazFVd3Nod2ZpODhySEdYa2RXdXBB?oc=5",
+   "fecha": "2026-11-27T14:51:24.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Hamburgo Vs. Bayern Múnich: Día y hora del posible regreso a la titular de Luis Díaz",
@@ -21,17 +44,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
-  },
-  {
-   "titulo": "Serbia venció a Colombia y se quedó con el liderato en el Mundial Sub-17",
-   "medio": "Win Sports",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzNJUzI4ZlE3dTZlTGs2XzRCNkMydkRvWE52c2hKeGR3dEhSM1hzVWIyb3FSNG9Ta0lleWZCcUJCaEZ4bzZZTmpnVWxVSzkyTEoxMXNwWUMwYnM1b2E4Vk54WnJqUmVMdGJiZWl3M0dkLVBNUHpoZ196UF90aWVPSmxCbmhTU0NxOTZzRnpGNTNDQXF6Z3R5STRNazZOTm1ibDdJREVoZE1rLVZUenh0b3otNjluTlBjOGFlMVYtaEtwMHc?oc=5",
-   "fecha": "2026-11-27T11:30:00.000Z",
-   "etiquetas": [
-    "Selección Colombia"
-   ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "“El mérito no es solo mío”: Luis Javier Suárez habló de su trabajo mental y del rol de su esposa tras el 2-2 ante el United | El Colombiano",
@@ -41,7 +55,19 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "De dejar River cedido a préstamo a la Selección Sub 20: la historia del zaguero Brian Gutiérrez",
+   "medio": "Olé",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkVwWFBjQzlKOTVPd1k3U3J5eVZCckhva0dubDBmODJsV2FSSzFPMWwzb0VrWjNEWHFOc01vN3B1VXhiSWxlUTE2LU9KQ1hZb2tQQW1ZUUZVS19GdWJTd3lub3ZjQ3MxVlVQZ0xFRmV1MHBnMTVyVEYzaXJheElGSGgtdVZVZ1d6TldyQUFTMGc4eGZ2WXBPWXM5NEFMOHp3aXBpU1A2ZzdrNms4ZkVRV1RnMVRDbTF4ZllOZE5hZHTSAcYBQVVfeXFMUEFsVTBzSXZCelFwTlljdW1ULTVuOVdacUx1dGhUclQ4endEY1dRd1NzQmFmUjIyb0FkdTBIZVExY1JrMWhxSmFBWjJrVXQ0MF9kZUxiMnhnbW1ORnA5NkZEdTRsVkxkUFhOMldiWlUwd0hhYlVuTmhBNk9kaWpGMkVTMXAyT2hPUGduQV9PQzR4UE5FT0VOT0NIeFY1NHh2SmNnUGttYWJzUHFPWU81c0xUaWJQTTNYOGRkdV9XRDM2QzZKVjJR?oc=5",
+   "fecha": "2026-11-27T04:04:07.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-20"
+   ],
+   "fichaje": true,
+   "prioridad": true
   },
   {
    "titulo": "Prográmese: así serán los horarios de los partidos de la Selección Colombia femenina contra Australia | El Colombiano",
@@ -51,7 +77,8 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Cómo fue el partido de Lucumí y Cabal en Juventus vs Omonia",
@@ -61,27 +88,30 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "La Selección Colombia se despidió del Mundial de talla baja: quedó eliminada en cuartos de final en lanzamientos desde el punto penalti",
-   "medio": "El Tiempo",
-   "enlace": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTDRYR1Z4WTNhMHJvTmoyUzZQMnZwUUg4Y0pHU1lNQ2pMU0tHcDhtb2pmWGJ1ZVFNejVVeDBKMDk3a1RETWVVSjhmU29ZdTNtdWl3WDlkYmxnTVQxMGFTNlUwSXAyMXB0QUFvd3R0ZF9hdHlSQzFONWJieko5VFRiYTI3Yi0yMnNmS2RNcDFDZkFwaDZSbGVUUl9iTUFZRlhqUTVEZWVrTzNKNHNwRXFQMTE3MGV4Wk5kQm96SU1iM1dXUUxPOERHbjlNcnZSbUZTeGg2cjNOLUpkVzk4SHhnb2w4MU5fNTVoeFExNE5oODdqbzI4VzBKSUtTeTZrZlU5X3pmZ0NDUjFEaXU4RFFwczg3bmFMcDBjYzZ2c0tITmJYdm_SAagCQVVfeXFMUDFobmhRMHZIbkQtVV90X1VodldxN2JHdzBpc185ZE5hLVVFUVhlZWVKdlB3UXBwXzRkX1Z3YmJjNk4wRzNPYm8yZzUwQk8xRlpWdEZ2WUsxSEZLTWpkYWc4LTZSTEpiaTBOcHB5U2x3NThNa3F5M0NSekpMREtLMWpnRjRwU0ZWU0c4QUFnQmY4UnkzeXA3R0xkOURvUWI3S1pHQndtRTNuN3g1OExHdE5TNzVCR1dyUU5lbzRVSDVjNWU3dEhCZTA3amRLWUxzUXdhdGNGUGc2Z2ZaNkNIT0JQcThISXE4QlJTRmNRS21UeDRXVmotZUNtWWtnODFVZ3Q5MzNpVGFmanBVTktYcmhhNnM5ODdJVEZsLUVzZ29Va2dsX0tISWQ?oc=5",
-   "fecha": "2026-11-27T02:30:07.000Z",
+   "titulo": "Colombia se metió en el top 10 mundial del fútbol de amputados y tuvo al goleador del torneo",
+   "medio": "Noticias Coopercom",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTFIeUZ6OGU5djR3cUN4VHMwdE12NmswX2gxNm1IdURpX3lCZjNiN1AyZVJETDZPb0RfNEx0RHA5M1ZpMjlFa0pNemRmUnRhQTVhVE5jcDB1WjBleUlrVDhpT29OTEdHNkVaQU8yREtfUHA2UEs4TGt3U05PV3k0ZFRFZnJxeFZBaWtWdzdwS00zak8wbmc3TUlpNjBNWVYwczhhc01SOVh2RUF1NVFjUGdpLVYxNjAxUmtIZU9FWQ?oc=5",
+   "fecha": "2026-11-27T02:26:13.000Z",
    "etiquetas": [
     "Selección Colombia"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
-   "titulo": "IMM inicia jornadas contra violencia de género en Puerto Vallarta",
-   "medio": "NoticiasPV",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnR2Mld6a2IxZkdzYkRtV3Nmakg1Y2tnSXdiNEtxbVQ0U3dwN2FSUF9OOUgzdWVjU1YyY043WEMtc3UwYU5FdENCSVgwS2xqbFpMdWNWbGtSeXZHWUNsWHp4QnNEeUFHX3pLRmY4aG4zS1U1bHQ0S1F2M0RIQlkwM0F2VjJpaUxfNnJ30gGQAUFVX3lxTE53MEYzd1FPVmhLaWRPSW95TWFFaGVVcUFoWkFPX3kxWEtJV1FxQnRfT3N5NjgzVHBCRnE0Ti13NHpWeG1PSDM5UklhRElCbl9jNjNwNWxsNVRTX3ZMSUZsa0NnM1ByZDVZbjRJTUFrSTZFTElxWElQYjdGVTZNX2tDQ2NTUVZxaDZIclQ1YVlWZA?oc=5",
-   "fecha": "2026-11-27T01:31:27.000Z",
+   "titulo": "Primer mensaje de James Rodríguez a Santa Fe que calienta el doblete con Nacional: “No te va a alcanzar”",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbUxjOFZaZmV4U2NERkZ6dlJTX05tbmY2S19fRExuUzBTTmdqSmNYeDA2djJnX1FFVGFRR2s1X2x3QWVlYnFYSUwwY0lrZ2NNT05CN1o2TUZVWFE4dFFtZTY2RFlkbXdRWmt3cDBpUWVHU0paMElya1l6cU9UdG1hYkFtaUtua3I3SDJNWWdjMVhCYTVsWEJIeGJkandTckFoMFE2VXI3VDd2WUhMYXgwRG9fS0xLZ3JvVmZWQXJfRWFBVGdMZWJEQ2JIbkEyeDRsRjF0VFVsWXFScTE3RjdFWXM0elrSAeoBQVVfeXFMTy1ra2VjNUpPM2FzVkdkRTBKdlRCeVI2TC1vOVRQSUtYM1dWVWtsMGhaNjUxeTE2S3dWVE1qV1JfOTlndlBpR2FOdmJxS1ZPdG43azN1VjRPOFBfWGp2WjJfY0FHUDNUOW80TXE5QVpIeHlTOGlmWUJvaTZkTUJkUHZDWnNLMlJ6ZzVPRjMzNTM4bVJVbEEzLUVFczQxeFV5dmZjRzR2UHpERzI4QkVqY0t2b1BXSElrSVVBdDFaNTFFNVdVZ3FyY3duY0hWamZDaHRIbDJmZ1dSNkJWZVdNYmYySmNnRkhJbXBn?oc=5",
+   "fecha": "2026-11-27T02:25:37.000Z",
    "etiquetas": [
-    "Mayra Ramírez"
+    "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "¿Quiénes lideran el top 100 de los futbolistas colombianos más costosos en 2026 y dónde juegan?",
@@ -91,7 +121,8 @@
    "etiquetas": [
     "Richard Ríos"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Cabal y Lucumí titulares en goleada de Juventus al Omonia por la Europa League",
@@ -101,7 +132,8 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Millonarios quiere fichar a un jugador que no se quiere marchar de Junior para 2027",
@@ -111,7 +143,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Anunciaron en vivo el regreso más polémico de la Selección Colombia: “Me lo aseguraron”",
@@ -121,7 +154,8 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Lucas González, entrenador de Atlético Nacional, defendió a James Rodríguez y Edwin Cardona de las críticas sobre su falta de ayuda defensiva",
@@ -131,7 +165,19 @@
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "\"El objetivo de la Selección Colombia Sub-17 es jugar los ocho partidos del Mundial 2026\"",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaW1vNEIwNktaTTBKMGhOeVQtUW9STzFrU1NReDFVX0xWaDB1SjNtUm50VUtUQUNwYktIMDVIeEc2V0xFMkVJNFNYM1hvVjdnbjVYdVBOMkxQa3dxT3NPTXZTN3IwZFlBVmxXM2NIMGx2TUVlYkhHYkVmN1NtaXhKNzBZa0ZQazJyMm5uTnlhNHBIWURCcExFRVJubExQSFV6MlhyT3BzcDI5WlVLRl9ucU0wbEcxbk9iT0VfaXRIUkkxUkp2ai1CSng4d1lpbU94SzJoci1Hb0RuZ2xkVjRlS1ZwTVZYQTg5ak9F0gH4AUFVX3lxTE8tNksxOWZGUTdfSEs3NU5RTGVFalcxQkxDNWlJblBzbnBkdlpZSmR1dFJuRVpaYmxjUzlVd1QzZlZyVHd5YVplZHpZNzlvMlF0OGlKd3VGOWVDV0V1VlJBTWdiQTlWZWJ6OW9VMXo1eGdPamR6Uzgzc0k2TFp2dHE3TkJabnRxa1VGaGFrQ2FoREc2ZVRTUnhwVFlnMDdEeXJuOThKa25hdjFoRlBYc1U2SmNaSGdvZmlJM0I4czZCNTdWSTFZYi04V3VKRDZkVVJidUxaZFBOZkxwZ0xWcFhwbFhnSjlWaW1sa3ZObTJiRnE2UU9vVEtj?oc=5",
+   "fecha": "2026-11-26T23:00:19.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "\"El objetivo de la Selección Colombia Sub-17 es jugar los ochos partidos del Mundial 2026\"",
@@ -141,7 +187,8 @@
    "etiquetas": [
     "Daniel Muñoz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Tabla de la Europa League: así van Jhon Durán con Benfica, Lucumí con Juventus y demás colombianos",
@@ -152,7 +199,8 @@
     "Jhon Lucumí",
     "Jefferson Lerma"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "¿Jhon Durán vuelve a la Selección Colombia? Lorenzo habló y dejó esta señal",
@@ -162,17 +210,19 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Tras una noche brillante en el Atanasio Girardot, James Rodríguez dejó un mensaje claro sobre su verdadero objetivo con Atlético Nacional en esta recta final del campeonato.\n\n🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+   "titulo": "Tras una noche brillante en el Atanasio Girardot, James Rodríguez dejó un mensaje claro sobre su verdadero objetivo con Atlético Nacional en esta recta final del campeonato. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
    "medio": "Facebook",
    "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNThWNkJDd0RZaWgyaWszemlSc2p5eUxlcGFYLVN4cE1sTHZSQXFfSlpmYUVBdWYxRVhIRGJkYkJBb2tQZzJyQlQ1SkdDaDd5WllvRTBscWYxbWluOHgxZ0dNdjZjUWxKQ0x3VHI5Yk5nOTROajNKQl9nRkF2OV9NTmFoLVpRVG45eVdSNGR2Sjh0NHBMd0g3N2txRXlBODhub1B6aUJ6dEMtNmgzek9EM1RLZVNuWHBiTmg5Zk55WmMzX05sWC1TSFg4SlNwS1hONjJWNUhFa1duc3VvVkxfMklnbWV6bWZ4TTNZRTVvYw?oc=5",
    "fecha": "2026-11-26T22:17:18.000Z",
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Juventus, con Cabal y Lucumí, gana y queda a poco de la clasificación en Europa League",
@@ -182,17 +232,41 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Daniel Muñoz le respondió a James Rodríguez: mensaje que ilusiona a hinchas de Nacional",
-   "medio": "Revista Semana",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLTlIdlFRaW4yQ2NQdHotcE5PbFNOMnNJSnFydXdjYm9oZTF1MmYyaDFaUzBncHlUa2Y2eUQ0aERpNmp0X1B0Q1QxQTZHNURBWkpRM09iVmtyNDJhS1lmVHNHUlNtbWxHc3ZDZUNjQnlMdVBDcWdHTlRPOTJRTTZDR2pjRU9sbXF2RGlnSEZYYXE2WDJmYWZHYXhoSU5SUUpLcjFRTlFXTzI3b1JXUjA4SlVUSDdNTWV2V1IzeGo0T29qWEc1TjNGdWlTcDhzSDFZ0gHWAUFVX3lxTFBuRzVMUEdpb1hZenU0Uk9IYk9vMHRFTXhZcTZCMTlIVFIxOTExeHFqZjVQQ2FjZFpQUl91UWVwWWNLa1pOSUhBZ3M4ZWZQV3Q4TmNQLTVoblN0TmhKT0Rjb0xwS2xvZWNhWlo1UGFIdXROUDFwbGVMR1pNZ3o4eWp2R3BRd1A5czFiZVNyMC1jUW12THpBNE94T0hVakZYdzNlQnhsR3hiSTdRV2xIRUlJdVdQTWlTQUtHdVdzUnBaaWJUazRTWWduTzNqcDE0ekE0dzF5TlE?oc=5",
-   "fecha": "2026-11-26T21:38:58.000Z",
+   "titulo": "Jhon Jáder Durán volvería a la selección Colombia en 2027: “Si todo sigue igual, en marzo, en los próximos partidos, será convocado”",
+   "medio": "Infobae",
+   "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQ1otNHh2QUR0UkEtak0wU0RocVBTRk5Pai00YXZpMUNWMXFHVmZkWGlOc05VM2FqcTVoZzV2eENzbDBfQWhLT3hHSllwMWpkQ1R5aHZ4MTBQTVp2REhFZ0RaSWpUaEZyd2JnLWNsdGtqZzZ6WGVHNE9nS0FKOWtxWWtQT0FqOE80RHEyN2FtQy13dUtWWVVfc0I5VjFYaUFSYnRybmJPcVhyODRnSzZEMzlodFNpNGxpU2hsTzdVTmNoWEpDTk10RmdnamtVSUQzcGtDZVFXSVlyN0RCM2plZ1lNYzFwemtobW92NjBWZVJpV1VSQ2c4M0ZjWXlEdm9icTMycjhPa081Nzh3V0NtLW5XSnZIVXVNdmREcmd4c3VxcE9YQjhZ0gGnAkFVX3lxTE5DWi00eHZBRHRSQS1qTTBTRGhxUFNGTk9qLTRhdmkxQ1YxcUdWZmRYaU5zTlUzYWpxNWhnNXZ4Q3NsMF9BaEtPeEdKWXAxamRDVHlodngxMFBNWnZESEVnRFpJalRoRnJ3YmctY2x0a2pnNnpYZUc0T2dLQUo5a3FZa1BPQWo4TzREcTI3YW1DLXd1S1ZZVV9zQjlWMVhpQVJidHJuYk9xWHI4NGdLNkQzOWh0U2k0bGlTaGxPN1VOY2hYSkNOTXRGZ2dqa1VJRDNwa0NlUVdJWXI3REIzamVnWU1jMXB6a2htb3Y2MFZlUmlXVVJDZzgzRmNZeUR2b2JxMzJyOE9rTzU3OHdXQ20tbldKdkhVdU12ZERyZ3hzdXFwT1hCOFk?oc=5",
+   "fecha": "2026-11-26T21:55:00.000Z",
    "etiquetas": [
-    "Daniel Muñoz"
+    "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Luis Díaz sigue dando de qué hablar tras su regreso y los comentarios no son alentadores",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQV83WTctMGFoUHZYX1pQWm9QYWQzaWxNUHBjUXhsYTZ6OG9GV0toVW15OG5MM3ZFakdtN1ZpajBGWHFkaWxIOFoyY3JrQjRJSjVnV1NJbmhaMUE3N2llcy1JQnQ1WlEyRWxlcWZZOXVTdFFCR2Y0R0RKcWFZbWlERUVGVU9hcmlZX0t1MnB3NlplN1l4ckp1SnZKOW9IdUdTT2ZTNGVsX0tqVjY2bUt0V0wyWEtNN3VhSXRibnprbDlIV05FV1JCZDJ6YnFQTEJjM1FtX3BISnVsQ2NhX2JmZnEyYy0ydEltQXcyOHZmSUE1OTFQelHSAYMCQVVfeXFMT1E2VmVub1AwQ241dnA1b1phVmJmRXJWS2I5bXFobTJkVEZrdEZTcF9ydDZRWGluRlYtODdYV0NkQlozN1hDcDBXZWVjM3Z1M25ZMEk2TGpyZWJ1dHB3MG0xYlJkMi05RGlXV0RiTEV2UFp4c0ZTZTZGbk9MaTFCcE5qQkhEaERwRFJqV2NPS3BLdWZ6VWUxYi0walRBemMwMHZDR1BqMXBTU0xxazRrYmZ1SE1IVnhzOWk5Y0dhb0pZSXEyTWNpOUZQZS1VQXdTcWk4Q1NOcXhxbmtYX3d3TGJXMmRHeUpUN1gxR2EwXzZsUVU3aVNodVNsSzlrZFV4UEVxOA?oc=5",
+   "fecha": "2026-11-26T21:52:28.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Colombia, en el top 10 del Mundial de fútbol para amputados",
+   "medio": "Zona Cero",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjd3UkZyV09vNF9YVG1tRm91MmtCUFROd1lvcWlFeFM2bUN4RWdkZExDbERXd3F4c05HNGRKU3hpRjNxanFZMmVUampvdks1bV9KOWE5blJTd2Zfdmhhd2xiS216UGFiLXptODFac2lFZzVwYnVwZ2JPY3RrcE5CSXV3MkpsZXVBbUlNZlhnbVhZZw?oc=5",
+   "fecha": "2026-11-26T21:51:38.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "[Boletería] Santa Fe vs. Atl. Nacional / Fecha 3 – Cuadrangulares",
@@ -202,7 +276,8 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "¡Patrón! Davinson Sánchez recibió gran reconocimiento en Champions",
@@ -212,17 +287,19 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Edwuin Cetré pelea con Fabricio Pérez el puesto de Baltasar Rodríguez para enfrentar a Jhon Arias",
-   "medio": "El Futbolero Colombia",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2VvYUEzMXYzMEJldmpIQW0ydF9iejRRYzdtNXYxRTBKdDZqbmdFZTA4S3dUcTl0Vjh4b0w4Q3JNbDZrRkQzbEd4ZDBmUHFkd1RpTTA5NW5IZjdWbzZPYnprUWtaTnJxcWxrMEhSODZGaTRJOXV1SFMtYnlicUtBRWdHT2VBQVZ6aTc4QVd4SEF0bGhvNF9lOVRTd2oxRDVxdEFUa3Nzd013NlUyQ2xZbFpXTkMyYThuTzdQeno4dExlWHVGR2JKYkEycnpiLUlXal80YktfaHh1aGNXUk04bnl1R0NWeURx?oc=5",
-   "fecha": "2026-11-26T21:00:02.000Z",
+   "titulo": "Sebastián Villa le habló a quienes lo juzgan; \"tengan empatía; merezco una segunda oportunidad\"",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd3diZldvemxobWxrbFNrM2tvNngwR0ZQYnpTVUxWNkJlRHJwNzNFWnRERl8taGhqRWpoc2tSZFNGX1Y0bDl0dk1VNWMwOE9pd3RGQ01BZHVMSF9hVlFaMlQ5UjZYOFJYQ0NKVVI3OXA3R0xmdmxVd2hsaU1JenFXQTlmY3hpZk5CZ0RpamRsQTBleEszYlpKYlVtYUxRZVFSYVcyQ09VSlRsMWE4bHBIWXJnd2FWTnVsR3I5M3BiVTUxMnc0MHpobEhCMnNXV1RjLTdwZVByRVhydEdsVFpHZExUcVdOdGVJOWZlOGZ4LVBRQkRpRXcwWllGVnhzUXVWdTNaVUFmVdIBhwJBVV95cUxNd3diZldvemxobWxrbFNrM2tvNngwR0ZQYnpTVUxWNkJlRHJwNzNFWnRERl8taGhqRWpoc2tSZFNGX1Y0bDl0dk1VNWMwOE9pd3RGQ01BZHVMSF9hVlFaMlQ5UjZYOFJYQ0NKVVI3OXA3R0xmdmxVd2hsaU1JenFXQTlmY3hpZk5CZ0RpamRsQTBleEszYlpKYlVtYUxRZVFSYVcyQ09VSlRsMWE4bHBIWXJnd2FWTnVsR3I5M3BiVTUxMnc0MHpobEhCMnNXV1RjLTdwZVByRVhydEdsVFpHZExUcVdOdGVJOWZlOGZ4LVBRQkRpRXcwWllGVnhzUXVWdTNaVUFmVQ?oc=5",
+   "fecha": "2026-11-26T20:48:19.000Z",
    "etiquetas": [
-    "Richard Ríos"
+    "Daniel Muñoz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Atlético Nacional tendría a este delantero muy cerca de ser su primer fichaje",
@@ -232,7 +309,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Sebastián Villa, un íntimo de Luis Díaz y Muñoz en Selección Colombia; \"dejaría al país en alto\"",
@@ -242,7 +320,41 @@
    "etiquetas": [
     "Daniel Muñoz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Designaciones arbitrales Fecha 3 Cuadrangulares Semifinales Liga BetPlay DIMAYOR ll-2026",
+   "medio": "Dimayor",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTG1wQU5sVWtCazdTeFBsc2pITXd3LWUyTXJITGxmb2lhMnBfd3NYWVIwb1dxSUpjcTNvQTJkbU13NERNSV8zSFh6OGhGeGY3ZF9EVy1NNnIxclNzRWZSeVVBQTRxLXhkZERVWW9RSTVhZW41eG5NZFBaTE9QVmF5ZlNBTFBubWlRQ2hxeV8xZklhSVQwR3ljSmo4cWJ2SDZGQUxHQVExLWJ1Y2F1VkY5S0d4YTlTRzk3V1Z3T1R4aHo?oc=5",
+   "fecha": "2026-11-26T19:58:53.000Z",
+   "etiquetas": [
+    "Liga BetPlay"
+   ],
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Con dos asistencias de James Rodríguez y goles de William Tesillo, Elías Cabrera y Alfredo Morelos, el equipo verdolaga se impuso 3-1 en el estadio Atanasio Girardot. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+   "medio": "Facebook",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTU5VdVgyQ2ZwZFBpdEo2QzNBNmE0cThRYnU0UktFbXN3NlNkVFJpZmNoTHlYTGdWMFdzZThrMWpDZXc2UEdvMXU2eGUtemplZndJWHkzZWJBWGRHZG1EZ0FaZFM0VUVwc1pmRm9za3MtU2RCVG5obWJOeV83MTZNbWdyLWtGd1VtNmYzYkV2SFJrUkRSUDZ2MzNXc0ZuODdNcC1Ca2ljdVRXbFBoNjBhOTZ2WHZNczJWMlhyOXFlRXlJYW42OER3YjYwQWJfTEtRNk8tNkRnX3dIRndLaVlkOHRIdzdFcTYxMkdsbDZR?oc=5",
+   "fecha": "2026-11-26T19:30:24.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Andy Batioja regresará a Nacional en 2027 y Santa Fe espera respuesta por Kilian Toscano",
+   "medio": "El Futbolero Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGVfX1RidjBobXVaZGthRG5QcFBJT2FVNUJzNTQ4OGcteWVIX3JLcnMyZzBjMlFpRmJCUllDaUtEZ0JKYW9QRFQwT1hSeTBDa3BHTUN3T3paYWs4MUlsakRFMHFiMXRnVWhiNE41YUdSVkZJdFFXVm1vQUVKUDVoNUstSXF2azhqdDBwSnppUG5rckhyMk9SNW5zMzlvTi0tUFVjWjdmVG53eHZ6Zzk2X0RpLV9Od0ktNktUSjRRS21PZFp5VWxraDRDdEpFUUhDYUJpcWxkVy1MQQ?oc=5",
+   "fecha": "2026-11-26T19:20:01.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-20"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Se confirmó sanción de Dimayor a jugador de Atlético Nacional y no estará ante Santa Fe",
@@ -252,7 +364,19 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
+  },
+  {
+   "titulo": "Tricolor Masculina de Fútbol de Amputados quedó entre las diez mejores en el Mundial México 2026: ¡positivo balance!",
+   "medio": "impactonews.co",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXZnYzlKWjdsOVhPZ3lGM29yM1pYY0FIYjNSV2lPRnRYVmRzZEZGVVRrRmI4RzR2bnhLdmNpQzlwZlJsaVJQemFaS2V0c2s4RDhjYkNXNXoxSWVlV2RZeExlY2VWcWc1SW9wV0VMLTVwRG1QRXlTa3Q4VWd1OFpJOWxqMFZhUnpuWjdKVHlFcVRGaXZIOXlMNTZSRkV4dGhhalR1bUJRejlPcUxlUnZBMzlwOFZ1X1EwclVva3FMeWlJODlhT3R2Q2JxcU5IY2tYYkQ0?oc=5",
+   "fecha": "2026-11-26T18:47:37.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "James Rodríguez habló fuerte y dejó claro qué busca con Nacional",
@@ -262,7 +386,8 @@
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "La UEFA Europa League y la Conference regresan con varios colombianos en acción: horarios y canales para ver a Jhon Jáder Durán y Jhon Lucumí",
@@ -272,7 +397,8 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "DT del Sporting elogió a Luis Suárez tras doblete al Manchester: “Tiene personalidad y carácter”",
@@ -282,7 +408,30 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Desde Boyacá se fortalece el fútbol de amputados que representa a Colombia en el mundo",
+   "medio": "Boyacá 7 Días",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXVSdk9xak9iRlpiRUZjMG9sTlhsWWVQeWJOQzlkeGVzdkhyZWlqYjQ5YjhESDRrU1JDUHJZNUNVa21uTlhlSkJCaDNIdlVEbl9EQzBtVEFnbllFSkJOYjB0RGVzZnJiYTdwek1ySXdHazFNaVZvWkgtTjRSdmFBaVA2Ui1uLU0zay1aUHlGMWh6RnFkdTVMR1F2bnVIelR0QnJuaGpvQkJLY2JySGhJTlFNQXpNalIxYlJsdzM3QjRxN2s?oc=5",
+   "fecha": "2026-11-26T16:06:56.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Fútbol de amputados archivos",
+   "medio": "Boyacá 7 Días",
+   "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmRzlXTEJyUGZVeVNueEhoSEFqZ0JVeEN3TE9zZGNVUzNLaGRQNXFIZmhITmFRaHJkT1d6UnRGX1hwbmJpbkI1dHR6MmItUXN3WDFvbHN1cldvRzlybW1YZw?oc=5",
+   "fecha": "2026-11-26T16:00:00.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Independiente Medellín tendría nuevo portero: tetracampeón del Fútbol colombiano",
@@ -292,7 +441,8 @@
    "etiquetas": [
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Quiénes juegan la Superliga BetPlay en Colombia: localía y reglamento",
@@ -302,7 +452,8 @@
    "etiquetas": [
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "James Rodríguez habló de su actuación ante Medellín y dejó claro qué quiere conseguir con Nacional: ‘Ganar títulos’",
@@ -312,7 +463,8 @@
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Javier Suárez no se olvida de la Selección Colombia; “estuve muy frustrado por penalti fallado”",
@@ -322,7 +474,19 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Técnico de Nacional sentenció a James Rodríguez y Edwin Cardona: “Si no, no pueden estar”",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXZWenlPSkVaVUh0VlpxRzF1ZGJYcWRXY0lTTm0xUXFNY0EwUnRaNkdWOXJVLWJicFdvenZDTUdLQTVFWUxTclBIMTRLMjFfMlJOS0s2ZW9qQksybEZhMGd2N3p4dGNLei0yQUZadlpZLXZOVW9vZFE2MzE4M1hYUHU4OXZiM18zbkMwWnNCQ2JhRGVSanhaYzBJSm42aFVoN3JPcEtlNHZLSnZaRzYzZmhPZmNTS09fOUEzY1E2QkFsTzNUa3ZmdG5GTERNUUHSAdQBQVVfeXFMUDJoeTJSeFg0TEtOblhaZmFQQnBsalk4b19iRHRyN1VvaFRWdlpqSkNjakRGbVkzNE1TUEhCZHZVaVN4SkQ5MlNpWExwRmxFV3VWWS02c2hSNlIxelNpdXpIMERtUDAtYWQyWXQ3dXpQMk5idjc5UlBSbmxhRjJGV2NOQlpremNtb2I4YmJpWE56QWtqbm5DZV9HejdYVFk3ZGVWbzRJXzRSalNaRWNwUTJyY1MzRmNpZkVEY3d6c1p0M1Z0U1ZpSmhZWmthaW0zVzk2elM?oc=5",
+   "fecha": "2026-11-26T15:18:36.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "DT del Sporting exalta a Suárez: “Es un jugador mentalmente fuerte”",
@@ -332,7 +496,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Cuándo juegan Cali vs Bucaramanga por fecha 3 de cuadrangulares Liga BetPlay: equipo, fecha, hora y TV en vivo",
@@ -342,7 +507,8 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "El colombiano Luis Javier Suárez le marcó doblete al Manchester United en la Champions y así lo calificó la prensa de Portugal: “El colombiano sigue brillando”",
@@ -352,17 +518,19 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Selección Colombia vs Serbia EN VIVO; hora y dónde ver el partido del Mundial Sub-17",
-   "medio": "Noticias Caracol",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUS15RWNMUUlCTWVZdkIwdWJ0ZGVVbmpUNUd2LUxib2lQMkhiTkNoS0V3dEwxbnY4MWNKX20xWGlnbEY1VTA5VXhSM0Q0djVFUEFMTFA5b2JFN20xUVNQZzlQdlBPTXc5Njh5Z29kNzFlc2J0ZDlVYkJKWXNfaUlfZ0VpZVY1bmZxeEZMQmRfRG5IQzJOVG05MnRQNTBSazhRejhlcVVBdHQwZGlzWUpsU0pMN0Fod0I5dXEybG9LMWI2anh6a3RQOExiWVB0SmNPWUU5cnowYkp6M0hWa1pGQ1FhNjLSAfIBQVVfeXFMTzBaN2lXZmN0V09ScE92MUtEaTVUck1QRHBTTXN4OUhlZlVLS1BTN2VEY0RYMVRSZy1NV3ZnQ2FNd2ZvR2NSM1EySk9GLVJ2SEpfWml6ck9HQTNteVA0cHMxSExoSHB3eGdnTVpOX1pQZ0k1cVhpTnlkWHo0dWVXamJ0aHdUX3cyWDVPLWdlc25YT0ZaeElwd1pfUHI0andma2Z1YWd4SUZTS2NlSm9ZMHZXU3hhanlndHhCaWhyc1VPZldIcnF3X29ZY2N0MWI3WnpoZEZmRHFLZTNMSVBOaDlFazYyWlJ0NHYwRW5JT1IwLUE?oc=5",
-   "fecha": "2026-11-26T14:39:57.000Z",
+   "titulo": "Carlos Antonio Vélez llenó de elogios a James Rodríguez en su opinión sobre Nacional vs. Medellín",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV2lwTGFDVHMtbV9RRGVxWWNmVzFSazFZeTlvUHNGcW51UjhlSmpQa1FKUFJhbDg0MENkNm1PWDEzU2JIR3NqT2xZLXlQaTk3Rmh0dkdFR3cyZElraVVFVGUxaWpxOUh5NndkRzJlRHRiTjhndUxKcXlLUXFub1p3RmpBQTgyVHFaeGNWVU9TLUNsOUhqTDRFSThnWlFjZXdFUDRSMUJEUl8yMTBXc1lIOWdUM2xGM29CaTdUU2JpS2VmUUFVM2JrWmhuR1M4Qy1EcUFGdE5ZZDNNaVRPcUHSAeMBQVVfeXFMTlN3TmxNY2hFMndQbGlpQm5FclJVenRCRlVNbE5kWFVjQlpfYWlhM2RKbXl6Q2VWVVlDQXQwRTZDR041SHZ2RFg5eFI0MFA2MExPUllnQ3NXdHZiSXdvODVpRDhoZHh4R1ZvWEp2WVZWeWh5dC16WkRtdmExVWRsWGdHbDhhaVA5c0FBc1V4ZEo3MS1xYWJsT0ZBanhxTWR5cVVTZnk4VXJCUVdGM1Z2RHpOYXg4SE1xcHhJQlFuZlZzbC1vcng2RkVBUDNsUUhXWGJmQWRBR0wyNElXMEliNDZRTEU?oc=5",
+   "fecha": "2026-11-26T14:26:01.000Z",
    "etiquetas": [
-    "Selección Colombia"
+    "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Javier Suárez vuelve a ser figura del Sporting: Doblete al Manchester United",
@@ -372,7 +540,8 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Europa League y Conference League hoy: horarios, canales y colombianos que juegan",
@@ -382,17 +551,41 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "¿A qué hora es el Colombia - Serbia?: Horario, canal, tv y cómo ver a la Selección en el Mundial sub17",
-   "medio": "AS Colombia",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVHZScVM2S0hlOEFwUzNKc1RCWGNXZVh1OW5iZVo3YnBfMnRBVnRFZ252aHdWd1c5SUJtc2c1WXRCcXY5STFLYXBlbkhDTGdoTHVFMUtpdFdpSElIQ3l5S3MyYTY4VnhFQlJCbnhPeEc4NzRXckc1MUk4QW91OTZWbmlidkk1WFB1dGVDakZlUDFlX2NzeXlLWVdBYVl3LXZpa0czUWhQeDhxd2txNi1QR3FRUHVfTldJWXhNUk5MeDh0dzJCY0RzZHAwVnVTdW9UZXUw0gHnAUFVX3lxTE82LXdsZ1N1eVAyZmFlaTZJdDA4WnZfSkF4U0N4ZThtVkFOYlFscVZoV0hMSnhyNGI5d3hJRG9TNDRsMWRST2txSWIyT3BEMHZIY1BKMkdhaVNpSi1KZldNQmZ1LW91Z2pEX3hqOFZXRjgtM3dXdU1BU0RUbEt6UWEyRkY2MGZ3UG5heldQblpmeHBMWGtKZkhJMVlxSC14bzFCcFJmemh1cFhwRWdfYmtMbWNNVVRZZzBZY05UWWtiUWpSemx0ejR0N1RVem5GVVhNQ2pNNGpzZXVZU0NkMzdKT2stek16WQ?oc=5",
-   "fecha": "2026-11-26T13:48:26.000Z",
+   "titulo": "Aplausos para James, resignación para Juanfer: el veredicto del primer duelo entre los dos genios en el Clásico Paisa | El Colombiano",
+   "medio": "El Colombiano",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2xxb2hhZFJ3NjM2RjVwYjlIcUdManNsUzVNZS1INXREUEVXLUY0S0t6M0ZyS2ZLMGN4aVlqS1RFcnFVUHM3VjFXNzBxYUNLVkV0Yjdza3M5S3FMZlJZUURsN3prNkdFc2dTSDF2eFlVNEswcDdQWG9pV0wxZmNzWUJ1dldVb2ItenhXcE5pRVRxMWJ0M2hGMUNOS2hkZUFydDJwSXhUUHZkUXZXdzhaeHpGbFBnWEZvQXBvVHViQzFnVzFqWkHSAcsBQVVfeXFMT1pfek9GN2Y5U0dOa215X0tUQlczbUhqZHhmVENlRDdXZzc4aUtKWmJZYmZWR3c1M2RBQnp2c0lZRWhWMEplYm5ib0c5ZF9mSkVmZEpxNnBIXzZkRXkyWGljVE9TU05fekhrRXlZcy1sY2l0V0l0VURabk0tNEhiZHhNUkNQaHlmMjA4QVNmSzJQNWJRMVFSalFwUFVZZkVKUjJFRjFkWk1ZNDVTVWN3X19ncVp5c0EtTG1mS1NuV0FZMllLVkFfUXNXQmc?oc=5",
+   "fecha": "2026-11-26T14:11:58.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Crisis en Bayern Múnich; Luis Díaz, a asumir responsabilidad entre malos resultados y lesionados",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZklwZnE4VFZxTDlxTTVWSnh0SEMzZ2h3UWpfUjZFeGlWa3pUMlZzTnVYeWJ3ODRlbzlEZXVGazBsVmZoZkgybGVMTEdHZUJWWm9TQjUySHkzSEFlSlVYTkMzcUJleUVSSDI2WWVfdnJNOFdOOEcwb2o3a2tyZFdCQmxHTnZjdDUxNjJUVi1hOVMzRHZRNVd1dXR5UUVtY0xHcUF2VXR3aWVGOGpsaDZESDZ1bENNdDhZOERRU1RyZF9HRUpOUG1QWXh3SWd0cjQ2REthN1E0eU96bmZhSVVsMzFMLVlDNmFtZDdyb3lDSHNyMFVhSDBrZ1RFS1lvd9IBiwJBVV95cUxQZ2Q3TG56ME5RTDVmTU4ySXdVWFV0dGQ2ZEFuWkstQmtEWHQ4blZUNGpnYUdLbFp3VzBsazZlMU5VbnpTNlVHNDhEelZZWThRSVN6MWc5LXN3U3FzZ3ZRbGtsaFFZVzhXaDM0U0xCNkJDdDkzMURXcjhFMC1ZdzBRenM4d1U2VTc5UjQwbTJoZmtSSjd2Qmtwa1hmSFdBMTEtTGl4TjlzUElEN0lyTjQ4RFhVZ2wwckkyMXYyVWdtNXhRT05LNGtuOHdQWmZ1aU04VEpmNnNPNm9QZ3NwZ1Z4RXFpNUtJSTdoRGhRSHBLUC1ZQ1FKYmNubkxtS3o2RldFZ1FaYWcxRHZUeWs?oc=5",
+   "fecha": "2026-11-26T13:27:07.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "la Selección Colombia de Baloncesto disputa dos partidos clave en Cali rumbo al Mundial FIBA 2027",
+   "medio": "Opanoticias",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGZQeDR0U2VzUEc0b2k0R0FOamhqX1Q4OFdya24xUFVSOEpPZjRuTXdNSTlhVnlGREtEaTN0Q1kwTG5TVjl6ckFOUEhCcmxab21LeHBMOVBFTlF0czJFT000MGtrUTVRelozbzVjUHM0M2pMbFgtenBRNW9PemN6QnZWYjNwS3NrVE83cm5xOWhTM1hMRi1mbVRRVEpsRlZtYWhWUTVhODNfY2JqQ0tkVVM3eGJoY1hFODZ6TkE0MzRYZmt3dlBV?oc=5",
+   "fecha": "2026-11-26T13:19:05.000Z",
    "etiquetas": [
     "Selección Colombia"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Alineaciones Crystal Palace vs Hull City | Premier League 2026/2027",
@@ -402,7 +595,8 @@
    "etiquetas": [
     "Jefferson Lerma"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Liga BetPlay 2026-2: programación de la fecha 3 de cuadrangulares",
@@ -412,7 +606,19 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "James Rodríguez habló claro tras la victoria de Atlético Nacional en el Clásico Paisa: “Sueño con ganar títulos”",
+   "medio": "Infobae",
+   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMDFLMU5SM0hjc2RIaVZrUzVsUEhyNWYzX0tJRnYtOHJnVkFrRGJQN0JDT3VWbkZmT1NEV0t4RUtwREs3Y2RYZVQwZHE5aGNaYVdhN3FrNWdTN0ZNYXFxb3dDemZQZGRkdFVKTHNwbXV6bFdmeWFYM1FqVWxaQVJQODdGUTEzV010bC1ZdEtLUWx2NlZYdTJxVXZfbTNLRDlCNHRtaWpNU19RUkx5TzQyS2RYaUk5Q2w0WTdLRkZDUEJLNkFvNzRjdThLdnFjOW11SnYzb3FpeVhxaTNEOXEyWGt1ZzY1M2VpSHBlUVdpMHZjb3h3c1HSAZACQVVfeXFMUGNQaU1ZRVFic0prbUtiODBYUEw3azRqc3llNWx2RmFGMlA0a3dQUzFoRm9UYjdoR0RYVmJvWXg1RUk0ZjFaV3JkUnhWSTIxN2hNQkZuQ2dXVkw3dHRpaTNFcWJrVlZZNXhGZEowSVlrbzdCSU9qenFOQ2IwY2NEQXJDdmlKRV93cURRLXQ4LUhibjlxY1NTQU5QRGRVSk8zRXZhS2lQSkgwbmFtUzM4SUE5TDQ1dVR1VWhzMGZDLWpkRnBSd1VldUo2bDJGSWRPMktSSlJaMmtmc1Y2M3FDc0E0cEdETmtrY0JJa1VVVExJeGY3bkxHazlkQXU1UExseDAydUhjSVE4Zzg2TUZsWmg?oc=5",
+   "fecha": "2026-11-26T11:57:00.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "James Rodríguez se pronunció tras su partidazo ante Medellín: habló sobre el bache de Nacional",
@@ -422,7 +628,8 @@
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Así quedaron las tablas de posiciones de los cuadrangulares de la Liga BetPlay Dimayor tras el final de la fecha 2",
@@ -432,7 +639,19 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "\"La gente piensa que James y Cardona no hacen nada cuando perdemos el balón, pero tienen que ayudar\"",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE5yT2RmSkpGMEpKVWtoZ05UZ1dRenZDRTRWdkdkU25tOTRFMVdhdzJTUVVwLXhJc1BMbFlzV2h0WGJXUm1UUm1fOF8zOVhOdVJod0NidU1jbldRdkNBMW9qeEVBQzRfOE5aQkdOQ2JuODJDMjVxZlllOVFXOWJId2pKeG4tYnpWTUgtVlVZWFFuOEprdTBHYWdmLXFsMlFmMTZxaTBuOFRWSVF3SzV5VjJxck9CMG4xa2tMckp0MU11amRrNXRIbUNUeWtxNXBlVFZBWHZLemJqTFVuS1F1RXNhN0dMVHNhcnAtcEs3bFYwNnZ1X1HSAYMCQVVfeXFMUG9yZDM3RHBDbmZ3Z2tXTDJzcnpDN3RJLWVvdllRRUp2X2RaZmF2WXUtU0NKa0RCQ2hjbHlkZ0FEclJZNXVxa3dOV2Z1NERKNFpHS19pU19qdld2SnNEUDhJQ2ttRmdjMkk3RHYwUEw3MzU1U2ZoMFFQTk5qQ2ZoN0pBeDVmencyTHZYV1BSdmhmOUN5ODRHNHFxd054Y0RuM0xoblUwSU82ZjRMbXVaaWxDdTFiUVB6WTdpVTBsWmFPeDdhSUJXZVNPZ01YUU5JNHpwdFEydGFsZWp1TmxOM2dZaXNEM1VVcG9QeTAxU2JwVHVISXljUlIwdlFvRHlTZktIcw?oc=5",
+   "fecha": "2026-11-26T05:17:34.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "El Real Zaragoza presenta su camiseta away 'tomate' para la temporada 2026/27",
@@ -442,7 +661,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "James Rodríguez brilló en el clásico: así fue su partido en Nacional vs. Medellín",
@@ -452,7 +672,19 @@
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "James Rodríguez ya hizo de las suyas; recibió su primera distinción en el fútbol colombiano",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQVZ4UlJVWkVxU1hBQW1uWGFyNDJadHNGcGtveVlQaGl1VExzOEpCZVVBSkxiVFQwTVNHZUtKVi1FanllWFg5WmtEVV9KTmRKMEhoTk43QUpVZHNGRDU5RFA5czVVQldLSG8wY3otNmNyMkNtTE1wSEY2aGhTWFdudnpDdEZGa3FacG1fVTZhOW1GbWF2T3BWSTN6U2hhV2lnd3pkS2NQb1g2UU54YWFYVWRMNDBDcU10T2lLMGxiVXZvRGFvVHUzb2dlcnF5SW4yNExzRWVlS0FlQkZ5NnE4ejV1RHhBVjNwbTJKYdIB-gFBVV95cUxPcDNwRUp2RjNHXzBRTGVYRGo2eDhHMTg2bVN0MlJWX25oX0ROSnRaQUhVTWVmYnk4TmxUNjlWV1hvNGJUS0lBV2E2NjBnVzdqZXEyYlNUZEp6Qmo1R3BGbWxWdjl6bGtXTG85aEgyZ0NwcHhrdEdxR3ZQNnRSdFJUR2NIbGVZZU5uY0FSdF9YaHRUZFRNQ05BXzJ3SlR0VzlMSjZtY2xvLUM0Sy1JX0dtQXY2YWIxNHdTREtTQlhxa2R3M3JtNXdOWW5JbWNpaEhUa2VISjlvUDFBMmVkOGppTU1pX1MzaFQydEVWeHVHZ2EyMWNTbUJpd3Jn?oc=5",
+   "fecha": "2026-11-26T03:56:45.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "James Rodríguez, tras ser figura contra Medellín; \"sueño con ganar títulos en Nacional\"",
@@ -462,17 +694,19 @@
    "etiquetas": [
     "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
-   "titulo": "Cuadrangulares Liga BetPlay 2026: Así quedó la tabla de posiciones del Grupo A",
-   "medio": "ESPN Deportes",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLTFJTXo0SGZtQzhVbzdLaXBzdUtoQ2YtemRVUUJuS3RoTzk0S2pZVEN4dFNCeWZwcnhfRFMtWk5MTDdockU0ZTZVMDBjcVZHdG5PNERCLXFWWjhJVk9vRjhKajJVX1BIcjgxN1VuTjFoTzBacHY1OEFSWW1TanRmQ3NoUFFjdW9rNm15bnB5STBQbl9ZTktMclMwTXBDNTlGVFdpdFEyR0g0NlM3S2RuVjJXNWFIdE9UOVhmcjJJeVJDd0d5VzZKX3hMRDYzUkZIMU5DNXhRUEJYRlZsd1E?oc=5",
-   "fecha": "2026-11-26T03:45:00.000Z",
+   "titulo": "James Rodríguez, figura con dos asistencias, comandó la victoria de Nacional; 3-1 sobre Medellín",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSG8zY0xaZjRSS21LZndSSWYxdXAtNjJWcnQ5a0lKYTJGaGdoN3NwMGVqNU9QVGV0R1ZIaW5WUVIyYmZIN3RjM1VWdTNjbWtCSWo5bnNqLUt3Vl9QR3ZGbkxaZkdFTHJWYkxJODFBZ3NHUDBSdmROV3JfczVsVzNHRHBsSFhfRm5Od0ltRl8zZU5pWVBER0ZoQ09aRkk3V1Y0dzg2Tk40ejE1LUQxUmlqSy1ZamZISWhxS1BYVVhobHpaQnA2R3BLc0pQSlJ2XzVDb0JpbUNULVZVbnJqWWtuQzFYalJlMTBCeDVJYnZuRWXSAf4BQVVfeXFMTjh1UFJRVFE5SVp5Skt5MHNhcjBVb1llZ0VtSHVpRUdXNlRTVFpheFpGbXU4NGRUdVNZd3JGd19faG85cHlEX29INDlIblpBdURZV1hNd0hMYU41d3otdmR3cU4tSkh5Q0dTWXROUE1sT0h2enBQaDRLclJnZ2R6TlI1ZldvNDZrT1ZrenFBWTRUZkw1aDd6WTRHVmJoVWxkNE5vMS1FMk1CODJKeUxQWXhJRk45dDFjNjFVcXZCa09PRW13TzdtYVNpRkJkUG5UVThHc3dqblI0TG8tMlA0OFQ3Y2JHVUs5MXVhbmN0R3I4eFJPUWt1djBXeGsxdlE?oc=5",
+   "fecha": "2026-11-26T03:38:01.000Z",
    "etiquetas": [
-    "Liga BetPlay"
+    "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Estadísticas Richard Ríos 2026/27: asistencias, goles y partidos",
@@ -482,17 +716,19 @@
    "etiquetas": [
     "Richard Ríos"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Instituto, con una baja y dos dudas: Flores mantiene el hermetismo en el once | 26 de noviembre de 2026",
-   "medio": "Hoy Día Córdoba",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmR0WXZpQ0FIZG5OTFJqWk5VSmFfSG1od2FHN1hCQzVKbzN2T3pUblh2OGg5RVllanF6VjAzcVJ4clEzckNobTRTck1mN08yYUJvQmU3LTdDbklQMmZMSzRtTklNNnlPbmxHLWYyam9OTkptLWJmYjRHbFdlc1V1VGlmOHhKY3I3WGlzOUxkd1lIYkdURHl6T2V6SGRrdFRqejc5TTdQVjJKc3Z1Q3hOd3d6dULSAboBQVVfeXFMTTZtcHU4QlREWGVVc093bThJYmVUZElzLVhUVjBHbkVYbjRKNGVab3hzcTBWaHlMZFRXQmV4dFFadC1JaXV5N2tZM1RfWm8wbGVaT2tPLUdYVlJNTFlNVnpyZ1Q4UzhwNWxtSDY3VGtnV2NTSENwdDdWNGFxYlZJaldXU0VPXzZhd3h1bWlHMzEzRXVoV3oyQjhLUFIxTjdVcmdxSkZkQ1ZJaXBCTTI3MDB6VGdyZmY0WFd3?oc=5",
-   "fecha": "2026-11-26T02:03:29.000Z",
+   "titulo": "Estadísticas de James Rodríguez vs Medellín en el cuadrangular de la Liga Betplay",
+   "medio": "365Scores",
+   "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Dek5ORVk2c2lpZlN1T2lJdy1XYks0NWNVRXYwZWFoQjlKOV9uTTJDYWE1MUZNTDJNWWh5bjJXZEVkeEI5NTFNaGlsbS10dmxIdnZRd1hCcU5vRll0eGFFRElLMEFKbzN6VGo2Q19DNnd5NEJqRnFybDBJZjQwYUE?oc=5",
+   "fecha": "2026-11-26T02:17:28.000Z",
    "etiquetas": [
-    "Jhon Córdoba"
+    "James Rodríguez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Arias, tema de conversación en Palmeiras, a días de la final de Copa Libertadores",
@@ -502,7 +738,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Javier Suárez se mete en la cima de goleadores de Champions",
@@ -512,7 +749,19 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "selección Colombia sub 17",
+   "medio": "Secretaría de Integración Social",
+   "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DYlNYek1SUkF5Uno5RTF0SERTSGhRMmwwRlc5dkwwckJGZjNQU3hPb2NaRVhVQktwMnRfdHBHSmpRRFBFSUxqNjF4SENSOVlGVXdHaDRyV1ZCelRaRGhRaHlwXzQ?oc=5",
+   "fecha": "2026-11-25T22:49:49.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Javier Suárez pasó del fallo al doblete vs. Manchester United: acrobático gol en Champions",
@@ -522,7 +771,8 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Díaz dejó atrás su lesión, pero no pudo evitar la derrota del Bayern",
@@ -532,7 +782,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Díaz regresó con Bayern en una amarga derrota en Champions",
@@ -542,7 +793,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "El samario Luis Javier Suárez anota doblete en el empate 2-2 del Sporting de Lisboa ante Manchester United: ¡El segundo fue de chalaca!",
@@ -552,7 +804,8 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Javier Suárez salvó a Sporting Lisboa; doblete en el 2-2 contra Manchester United por Champions",
@@ -562,7 +815,30 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Regreso confirmado en Atlético Nacional para 2027: juvenil con experiencia en Selección Colombia",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGhjMmRLc1h3LUZpTzBQbEhmOHoxRW9HODFXUEgxU3Y4cmFNaDNrM0poR2dCTzhoUm9fMENsTjlUMVZSRUg3eTBjdWEzWFBpN2I5bUQ2VzgwcldIdnhuT0dURHZCdFNrbVJsNjV5OHplQkphNmpKVjEzUERJNnpvU3puNC1hSTJ0YnZmWVF0aV9vSks1Z3A0cjRGcE9Xc0VKa1oycGdzYmZTaEhaaFg5Z0hkYWpwcXZTd21sc19ZV3RmY09zQkc4eUhPMHJFUlpqbGp2T2VCYlM4SC1z0gHiAUFVX3lxTE1ob1EzQ0lGbldNXy04TXpIU3QyMWZheFVFV0R6azg4S3BOQzVtdVVpRURwaDdLQkduTEpJUGJpNXR0R1kxRy11NVZ6R3FnQkVJcm12aE1UWmFIb1JzWW5SRk1teFR2RzRlcHJULXpYdnE5Z1V5bWhLRlRqalVOQW12UTVmUzF3WXVSa2lRLVU5S21LS19TN1FaWFZoNWJBSG5takpqcGVSNkxFTk5LeU5hVlQ3c1FfcmxINHowODhvNlA0YVl4bkdsN2QzNElkV0VBUzRDeGE3UU1HVGJJb1FZTHc?oc=5",
+   "fecha": "2026-11-25T21:54:41.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-20"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Alineaciones de Nottingham Forest contra Chelsea",
+   "medio": "rcdm.es",
+   "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LeG9vamFoaVZpWUVXellLSHJVNk5Hb3EtNm5tWjRIcVlYQU9fT0xacWdTVG02YlpVcmtmNFVkUURTazJFNnJZRVdrcDBCVTRqdHExTml5Q3BqNldXNHcxRi1GdG1VRktKNTFtMXhoTm03d00?oc=5",
+   "fecha": "2026-11-25T21:47:40.000Z",
+   "etiquetas": [
+    "Daniel Muñoz"
+   ],
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Javier Suárez no perdonó dos veces: gol con Sporting de Lisboa en Champions",
@@ -572,17 +848,19 @@
    "etiquetas": [
     "Luis Javier Suárez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Un toque artístico en la nueva camiseta de visitante del Club Brugge",
-   "medio": "About Macron",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbV9BLWt3QlF0WU5ybDlsX0ZBQ3g0TWdZRFg5OHRFdjNhdFR3Q0twR1B0bkJ4ZjlOcWlTbVhjOUptQ0NFenZhZWxmUGUzbVdoakN4SFBJeTVZc2RCVjIzVFlJTGUtXzBodXRaTG9mT0Q0MlpfSU5Idk5teVpWVTFUZlZjM3ZOcmpZQ1NPT0hBNFdGRUZQakZhaUU2QXJYTGtwWHc2YWo2LV93NWt0VkNTZHBmZ09Xa3dnWFZCcm9wOTB3dktUenRz?oc=5",
-   "fecha": "2026-11-25T18:41:32.000Z",
+   "titulo": "Próximos partidos de la Selección Colombia femenina: día, hora y dónde ver por TV y ONLINE",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVjNNb2lYV0RCc3ljSVRqUk1LODlYWHB4V1RwNHlJMDY3WVBVZ0xrNHZJNFNLR1AyMmRGbkFPdU9pN3FxdTRMMXk3MDllUjVRZlZndmxCRExtamhwTzFERk1IaERTTlp1T1AybDBkUnMtT2VWcXJaZ1VZMTY3WE5XUVBWeTZvSndyZkVOYjhxamJEUlo0MjNqeWhvNnY5Ymk1V1dVWS1SbUxzMEwtbjVqSjJGSXVydVZraXA1cFJvWWRQWW91OFHSAdMBQVVfeXFMTl83QTRZTDNzS2NXMWdZVnp2QUZSNlJDaG9fZHNNc3FDNWVxVDctWnZHaHJyTFhmeDROT3NYRU9jU2V1U2ZuYUszY1ZCdFFUX1lRUUY3R0dMTEotNktDZk9id0h1Vm1RWHZpNzMyc1hST29HQ2tYYTdjMi1RR1VXUmpHX1h5cGUwUHZ0MVlNQmFQcVI0MGFFXzZROGVtTUw4OHN0UEdZQ3hVdDdPVFNJdnZVNDU3Tno2bjQzT1RjZVh5MjF2Uzc4R01KYmVmbkxHbE5qcw?oc=5",
+   "fecha": "2026-11-25T17:55:03.000Z",
    "etiquetas": [
-    "Camisetas nuevas"
+    "Selección Colombia femenina"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "El colombiano Dávinson Sánchez fue elegido como el mejor jugador del Galatasaray en la Champions League tras la victoria del cuadro turco ante Aston Villa: “El patrón”",
@@ -592,7 +870,8 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Di Marzio: La Juventus busca su segunda victoria consecutiva en la Europa League y Luciano Spalletti plantea un 3-4-3",
@@ -602,7 +881,19 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "La Selección Colombia Masculina Sub-17 ya piensa en Serbia",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmdOUGV3dmx3bkhtT244VmxUaHZqOTYtWEZWempkUlAwczJYckxGY2RDbHloNmUxenE0RllvTndtZnNaSGtVbWl5aHhFQTNWTDk1TVFyQk5pLWJvMHhtUldOOFh6V2cyei1zYWtBMVhmYVNPS2NkTkdDQ1ZGdHJlZWRreEN6bmdrOXN5cWZqbmRCUUk?oc=5",
+   "fecha": "2026-11-25T17:07:21.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Arias lidera la Copa Libertadores 2026 en pases clave: los números del colombiano antes de la final",
@@ -612,7 +903,19 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Luis Díaz está en la convocatoria: El Bayern visita al Lille por Champions League",
+   "medio": "Colombia.com",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmNfYk5FWlQ2Vzh1LTc2Q3I5VkV5ZkxOVks0UERGYlhNejl3SXRCb2d5dE1BSGNzeWJaanpvMmVVbjRlUmNRVjI1MmZlRE1vVUVBRFVxWUFHUmdJaG5iN2JwVjJNVm9MWWVHZlE4c1A3eWNnS252WEtXMkNFblcwVGRqR21FbjJLNkszbTBnS29kTnlKYVMxUW9mbmpjUTlONDdHcjZHTFc4U0NEdDhQbDJwOVZmMG1GYjk0enhoRQ?oc=5",
+   "fecha": "2026-11-25T16:15:51.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "“Estas tres victorias demuestran dónde estamos”: Dávinson tras tercer triunfo de Galatasaray",
@@ -622,7 +925,30 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Participe en el debate \"¿Qué opina de la decisión de James Rodríguez de despedirse de la Selección Colombia?\"",
+   "medio": "El Tiempo",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmV5NHA2WWJaMXdsWnBNOTUzemVGeXowM0F4UzQ3ZjllX1lLRHNtN01Gb0p4b29DX2t5S3BKVlBWT1ZSMkR4d1NVOGtHUVEtNmZWRUNfR3VkTFhJVXg5bVp3ZDNDUllOdWdaQnhjdy02ZDlXVjF3bHdGcHFUQ0NkS1gxUERxTExJdGJscjFuc2l3OUJlai1qdllrZnA4djAyeEw5RE9ZQkM5RVp2VURuTTM5WkRjb0ZWU3JtblV4Rmp2TGE5Xy04TXdYZGp3dw?oc=5",
+   "fecha": "2026-11-25T15:00:00.000Z",
+   "etiquetas": [
+    "James Rodríguez"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Femenina ya está en Australia para los amistosos de la fecha FIFA",
+   "medio": "El Dorado Radio 99.5 FM",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVld0bmpWRU5JdFJpaV9qSG1GenFiblh2Z1RJVGc3Sk4zc2JnYUdKLXAxaUhXWWY3dnJxN19WTTJ2SXFPMjdPaDBXME9SRGtiRmNQVFRZTEdHRUFuaFhFY3diQWoyS25hUC1kU0tJN1VpRzFyNWRRczdDZlJyR21YUExpOFQ1SVRNTXptbVpkalEzRWxtdkxNVzJFc2RhU0lENjdYdG9YXy1xNGVwREVVSUhfRUQ2WU9rSnJKeTU2Mm0xbUJ5RVJnZTZLTmM3XzVEdWxQTUpR?oc=5",
+   "fecha": "2026-11-25T13:52:44.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Otra final, otro argentino: Jhon Arias busca su segunda Copa Libertadores con Palmeiras",
@@ -632,7 +958,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Así va la reclasificación en la Liga BetPlay, en plena lucha por los cuadrangulares 2026-II",
@@ -642,7 +969,8 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Roshan 13... La liga regresa con partidos fuertes",
@@ -652,7 +980,8 @@
    "etiquetas": [
     "Richard Ríos"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "James Rodríguez vs. Juan Fernando Quintero: de compañeros a rivales",
@@ -663,7 +992,8 @@
     "James Rodríguez",
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Reinaldo Rueda: equipos entrenados, partidos y victorias",
@@ -673,7 +1003,8 @@
    "etiquetas": [
     "Richard Ríos"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Millonarios, cerca de cerrar su primera compra para el 2027: representante de jugador está en Bogotá",
@@ -683,7 +1014,30 @@
    "etiquetas": [
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
+  },
+  {
+   "titulo": "Selección Colombia Masculina Sub-17 directo a los 16vos de final",
+   "medio": "Noticias Coopercom",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSm9pcjRqSW1FdURudEVvcm1GWFBKdm85Q1ZQUDBmNnpESTMxM1hWdmE4cEE2azRXWkZ2NjNBc2JZeUlpVXBROVNPR3RvZjhGbWZmSDN3Nko0OUtKQjl2VnQxVmh0RnVKRXdPSHJsNElXV2d3bnVVVzVTNnQtdGZZcUdGT2FKQkh0cmhuaVVsUzFsY1NoeWpSUG1B?oc=5",
+   "fecha": "2026-11-25T02:55:19.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Masculina de Baloncesto disputa dos partidos importantes en Cali",
+   "medio": "leanotas.com",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3NVSUktWjhKLVdjdmN4M0NVbnl4TmhMXzVsZi1KbU9BaFlrUUs1S2ZXUXdsX1N3bUZWajVCNkFyN0dOLU11SlFzTUk4a3daaE1UT3FfR21TY3dLZ1BHclRDS1NfVVNsbGh4SEhpeExUWXdrUHc0d1JaNkxyZktuX0dxQ01EdS00Z3hzQ054cnF3cEp1LUEyd3BZRGJQMFJLM0hGWm9scWFmZm5T?oc=5",
+   "fecha": "2026-11-25T02:13:00.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "¡Cita con la historia en el Atanasio! James Rodríguez y Juanfer Quintero se enfrentarán por primera vez en toda su carrera en el clásico paisa | El Colombiano",
@@ -694,7 +1048,8 @@
     "James Rodríguez",
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Tabla de posiciones del grupo B de Liga BetPlay II-2026, tras Millonarios 4-1 Bucaramanga",
@@ -704,7 +1059,19 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "¿Juega Luis Díaz ante Lille? Probable alineación y bajas del Bayern Múnich por la UEFA Champions League",
+   "medio": "365Scores",
+   "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VdTNYN3c3RURVUk9kNzctUF9RLWotVUFteVVsNm9ON2dKSTlJRzlSWmtfdzl3RjRVTklRWDE3VkNjS1hjakc4ZXZMaVl4Tk1qU3pUVU5rWk1OQ1M3ZFF0eEctdS1TcWRnWlIxYkYyUHc3eEt3UFQ1YmRFdjNqTWM?oc=5",
+   "fecha": "2026-11-25T00:48:00.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Dávinson Sánchez, capitán de la selección Colombia, fue la figura del partido entre Galatasaray y Aston Villa por Champions League: sus estadísticas",
@@ -714,7 +1081,8 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Dávinson Sánchez no para de recibir distinciones por su alto nivel en Galatasaray",
@@ -724,7 +1092,19 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Luis Díaz listo para su regreso en la Champions con Bayern",
+   "medio": "Win Sports",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHFLMG1VRnFNTEpYOTNIQ3NrOGJ1TGtZU1NVUWt2TTFVN2xFeXllM0oxMDRZcXFzbTBQRGtHd0VEdWk3a3RJM2x4V0l1QmJxaTdEU2JYeU5HdXd1ek9lc0xPdUZuRXRycDZSTE9qMk1UZFZQMUtwc00xWU5hcXRDbGV6VVp3T0lDZFZkOEVLbjRwRUlnT1ZaTllyWHE5WC1FY3I0dElfMC1KRVVtRWVpMEl2TzdrUFlEdG45Qw?oc=5",
+   "fecha": "2026-11-24T23:29:38.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Queja de Aston Villa contra Galatasaray, de Dávinson Sánchez, en Champions; \"eso no ayudó\"",
@@ -734,7 +1114,42 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "La Selección Colombia Femenina Sub-17 intensifica su fase de evaluación en la capital del país",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjIxcjBtbGs4T0xKaEoyaXFKUl8xQVc4d2dsT2pnN2U5VExVcDZ0a1QtWGEwVFR0Yy1YeDl1RjFRVlZ5YTVRWlhfT0ltR1NaQUs0WmVobHJoLWhDeDZMMjlBRFE3THhVcUhSYktqZXpsci1xbWNoeFlwM2NPNmVYZHZoeElwN3ZLUmRaaVowOXFMWTE3bEtLd1ZwSEt1YkljU05MOTg4Q1oxWWhnSlFTbjRnem5UNXczSzZOTVZPQkJHM0k?oc=5",
+   "fecha": "2026-11-24T22:24:41.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina",
+    "Selección femenina juvenil"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Luis Díaz vuelve a la convocatoria del Bayern para la Champions: un mes después de su lesión",
+   "medio": "PrimerTiempo.CO",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb2dVUlJERUxOMU9TQnM4WmwybkJ1MHlVUEZ5WDVOMnBSdThuRERjSHRkd1hxYTFhTUxGMnAwbW9OVTB2aVo5UDFMaW9QVFMtVXhMclR4dk4xVWZBR01mTVZXNWNnc0REWFhOMXVybFdaVGpBaTBVdFYyNUN1dDU4Tzkyd3A2OU9QTGM0MnVkZUJqTlBRUXROR1p5WjlHajRtWURPc0daUWllYXdmOXhrQ0NSNExqVkZYMFVlYUxfZWI?oc=5",
+   "fecha": "2026-11-24T22:00:52.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La cartagenera Mary Álvarez ya está en Australia para los amistosos de la Selección Colombia femenina",
+   "medio": "PrimerTiempo.CO",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkV5T1hROEpCX0xCUGRoZ29YalBad2drdTF4ekpFbGRTMDE0ZndrRlpiUEpHT1JDQkFyN3lGOTBYVW03b1l4Q3NfZlZYMVFtR3V2STNISjZESU5yN0drbXVYWTB0bjM5UmdqMV9PdnYwWm5KTlBGOWxfbXp1ZXU5TVcxN2pNUHVjeTE5aEgzZVhMN0hVLUNjY2dDMS1pZ0RJYWxRa3Q1blRNeTc5MWlnUzlPbU5TSDJFM0puUE42dkcwaTRsdkN0RDV3RnJWQQ?oc=5",
+   "fecha": "2026-11-24T21:38:51.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "I. Córdoba 1-0 Deportivo Riestra: resultado, resumen y goles",
@@ -744,7 +1159,8 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Game of Legends: Prime Video reunirá a ocho leyendas del fútbol en una nueva competencia",
@@ -754,7 +1170,8 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Prime Video anuncia \"Game of Legends\", su nuevo formato de fútbol con Busquets, Villa y Cazorla como capitanes",
@@ -764,7 +1181,8 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Prime Video producirá formato de futbol \"Game of Legends\" - Señal News",
@@ -774,17 +1192,129 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
-   "titulo": "Selección Colombia de Fútbol de talla baja se refirió a la batalla campal en el duelo ante Marruecos por el Mundial de la categoría: “Ofrecemos disculpas”",
-   "medio": "Infobae",
-   "enlace": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZGJmSXJpQkx5bHNzM3dmNG1EeHp5TGs0RHhlR3NlLUROV054T29PT09UN3BVSHRMY3FGX2lBdmlVWWh1anRkN2dOb3hqQzljS2dESVBqS0xIYTJkSDZqLXZoTHRuQmZval91WGVwaXpsVkZmcmVaTFExOWdsZGR6YXhZc1RlSHlTNkRMMm5CRWVGU3VKSEZ0MkVxSWZaSXAyeVNOYlgxRkJpZEpVekJKQW9FY3JiT3NOcE1OdzdsS0ttU1JZTDNJRGNkRzN0X2szeERVeHNiZ3V2WTg5UXI1RF9qZmtKaHJydlhqbGJ4d18tbmpfSTlPejhGbE1RXzE3Zk55Z2dBd2F4dmxzbUgtN3hjWFhYQ05ndEtab0NoNnZyWGJHV3Q2ZVFkWGhjUdIByAJBVV95cUxNSmZQNl9LNlZ4MkJrRVpSbDNZTm5TamY0MWRIXzdGUzVHMmZIQXpRNDVTRlIyT1lZQURoN3MzWGNDLWhLY2x4cFN1eGZ3aC1SdGM0WXJBOWNhVVpPNWgzTWtfcld3TFk3UGNvYTd1RHo5YzctYlNjRzJwYmhHMGVldXU3Yjdick1BczhGRHBxbWtVc3g2eWhRYkI3bVFiQ00yYURwRnphOG43VWtGN0dZWnpzSWlTYmxueU5KLXdtRVlzUWZ3VkZTb0Z2WmxkeHVnR1Q2T3hWVnFYUXBJanZqdHRjTTJ4dlNGQlhILUw4cWJZaUVSdnFicGtRdmtJTG42bV82MGRzT2JCMENteVVmU25aXzdSdmJ2ZkpoTTBpczhSanoyWTZ0T0JvQUhUVFE1VXFJSGg2a25QT3VKMHljSVp2b0kzc1Ew?oc=5",
-   "fecha": "2026-11-24T18:27:00.000Z",
+   "titulo": "Luis Díaz y las últimas novedades de su regreso con Bayern Múnich; Vincent Kompany tomó la palabra",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUS1kZUVHdHJLc3V1M2Y2eWVsZlZYcHJHd2NPWDNIdjhhaElyZVFqRjk1MExkY1lwUGhoNHRpRGM2c2NKc1Z0X0k3OENlTlZQb2I1TC1aUW5XRGVnRTgwX0Jyck5sb05sRGlvOVNNd0R0bTJEUXNyTjV3elB4Ukd0NFVCQnBDSHZwSU1wOV9YcndtS21nM1phVWhrdnpFNl9xY19MdkhQMlpzRzEzT1ZxWVpZSVlGcndCbEs1c0RQcmdIU2o3U3RrYXVqYUpjYlVHQTAxU2Y5czBuODc5ejR1dndTdHliZXljVUkxdjl0eWV6RHdmdTh3c2swbjctcjl0SmfSAY8CQVVfeXFMUEh1b0dHVzVLampQZUxyWFZvTkVpRklUZzEwMVRWcHd4UDE1Yk4wMEpLRVNzMEJzNTM1SGdQUGhIZmZBVHlzZktSVUFWRjZ0LUY4cnRpVVJtZHRPWFFPalN1a1BpVWNuQ3dFbklLWUJ3R09ad0hiMC1sYk1wRjY0UkdaRV94aEdtdEN5ZWprZHBzT00yZEpEamdKMVpPbzZkRWozME5scGx2ZTQ4bG9kTEdzbEV5WmxIM081ZzNhV2xzZEo2RUk3dEFsSWhBUWFNU2lVT0xTOTBmVjJWOEVKVGE0VVg2WHVFRWpSRGQwM0hTMGQxSnZWbFNvU0dJcmpLZnN4ZnpWYUVqSFNDTkJScw?oc=5",
+   "fecha": "2026-11-24T20:26:48.000Z",
    "etiquetas": [
-    "Selección Colombia"
+    "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Venezuela vence a Rumania y asegura su clasificación a los dieciseisavos de final del Mundial Sub-17",
+   "medio": "Primera Edición Col",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnRpVHJXakVNU013bklBcEFfejdqYVhxMjZQUEpvaHd2SjZrYnhYRk56SmhzV2l3c1Fkb0ZoRWc1TGZJb1ZYUmNoMjB1UlJPakYtZ2MwSzBFRFIyb2lpNDl4em1sVE1mcUVXemUwUkZoa21yY1ZlTmpOaTczUmVNekdKQ2k2SEtoZEN6YlZQcURoc29iWHdpbldZbU9wYXY2U0NveXE4M0UzZjJiOHJEWmxjaGkteU1KY0NBbFVUS2puc2U2ejhCQk95RQ?oc=5",
+   "fecha": "2026-11-24T20:18:13.000Z",
+   "etiquetas": [
+    "Selección femenina juvenil"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Femenina llega a Canberra para preparar sus amistosos ante Australia",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEJmNFJfTjZJclRUanBlQ0JsSmx1clBKeWo4dW1RZFdhVDVEVFcteHE5N1ZWMTFFMHduZm0wZjV5dzVOWnhyTXdLdnU0Z1hxOWFnYlZvSkVlT0pDTkVoYmFWYVZJazlEWml3Mk1ORHFQUE1GNjJYVV8zTHJlVm1RX08ybzRNWXJVU2VnZGhKaDZZU09MSGZ3V0lFY0xldUJvYkhsQklaMVJaa09JOWJEYWtfcVhWUmdkeU9iYlV3?oc=5",
+   "fecha": "2026-11-24T19:59:40.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Llegadas: Selección Colombia Femenina – 23 al 24 de noviembre 2026",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalZ5bFF3d1pRaUhYVmlfUFZJUXZ3Ni1uR1RCZGFoX0JMbFhXUHFmZmt5ci1TVjBaUWNyRHJyMjFoX01pSU9qN2dJcDItSGpwR1F4aFJfdjRqU1gwdVlFeDdfb1ZGYTc3eVJNS2Y4djlDaGRQdW82Vk1VZVJibVlVNVNPMHRlZU9OaU00WTJxU3BjdWJwYURXQjFR?oc=5",
+   "fecha": "2026-11-24T18:39:20.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "\"En la Selección Colombia Sub-17 siempre estamos unidos, logramos el objetivo inicial en el Mundial\"",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWpsWkQ5aG00MGEtdHRWUDNlcHI2aTJ1UTQ0Wng3THlhbjBFcGl1em1rQy1GQmtUbk5sN1ZVeGFpOW1Vb2lPNkNOVlE0Y2E5UmNpZE1tQU9tN1g1SmFSRTJoY2Vrc3BWV29pY2JGVnRNUHl6QllOazBEenBjalhBZzd6MEEwZzI3NEhSUnpUbzcyUmd4dUp3WGptdnd4b19rRXhfSGFiT3BuMnRSdGhFdm9WYWRhQ2xPcXBEcHBaZUhnQ3ZMMHk1ZlNDaDNIMDZKLVFIX0JLS0UtalhMeElxZ3RsX1N1Ry1jOVVMQjR0YWpxby1oeEc40gGEAkFVX3lxTFBuMnVHUm12d25QaXZINHZFTWozVldUSWxWQU1yTG0ybE5QSG5DZ1MwbzZXY2lIX0lMSE5vRHJ2Q0dYeldUX0RiS2NNc2JEdGt3TzZtSTZ3VTUtTEdXeVY1MWJvRm8zTVpJaGN3SjhxcXJpR09fb1E0dzNtdlpxV2w1b2lpZUtJeUtXaWt1dXZEa3lXaGJjNmdtYlJHMVJWNWN4aWszOXIyNEVBQXk4RHUxMXNBYk51cFZscE9sTTc1d1djYmxwSnRXMElacnE3QndhOHI2TTdDWEZwSi1PamRfMVpfQUV0MlFkdW9kY0FGcU9DU2ZhVnV0Qlp3ejNSdUNONzRZ?oc=5",
+   "fecha": "2026-11-24T18:36:36.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Así quedó la tabla del grupo L, en el Mundial 2026, tras Selección Colombia Sub-17 2-0 Honduras",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2NPTk0yTGwyMkdiNGVBU050T2lDb1ZjLXBQS29lM0RUUHJVQTA2Y3hTMGNMQm94aFNaNERXOWJnendkMWFEd1NyUk9PRmtaVGNhUlR6X1dqYlhEd0V6TTEzVGZUdVMyR2tWNnJSU1Btc3ZSWmVSRTVocy1kRnMwaWQ2UU53MTZRY3M5bHEtRVZBNkRHamtQWXV4WlRhQ04yUEptTWcyWDlDZ2Vka1hyNURXY1M3MUtDeE5GY2dYSmxHYnlrSmxJMVJZTE93S1VlR09wY1pGVXdVZHQ4enl4WTlRa2Y4X1B0Z0k2NEZTcVhlQQ?oc=5",
+   "fecha": "2026-11-24T18:13:44.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Cuándo vuelve a jugar la Selección Colombia Sub-17 en el Mundial de Qatar, tras 2-0 contra Honduras",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZEdaNmRMYkZ4ZUxocjBGbHZvYmliY3lyV05tckFDYVVWWGg3dEhsRUQ1bXcyTVcxOUMxT2dUU2FVbWdZX3dSZ1BORWdOcTJYc3ZLVm9wSjV1ZnhVc2hwSWpWcHNyS0Z6a013Z0c2OUJXZ01PdUdGRnRmR1hzVlJNREp3TUNDVC1KM2VyT3FMSmFUUzNrUEVPaGROM19ub0Q3VXJyZzJmRGZsekJQTHhMWGluUFBhQVBHZ0lkRHlZODFxOGVVNi12d2lUZDFFUld0c3VZRUJsWlU0bWVFVWc5SzdtZlRxekc4TWtsUllweTdjd0gyeHZGatIBhgJBVV95cUxQXzRGTFJ3MS1YTFZjQVI0aW53RDVfZ2tHV1VRZk9oZDFndWhvVDhyX1VLeWNtODN0N1ZQUmVLeEFBaTFyZzVFUmdBcllmZEdXYjVFbFdTX3hjcmtNOXFQU1Z1bmNEVU9jbXhCblVVN2hqN3FGcmFEXzBCVHVBeDlEQnJwRXFNNF9mMmZwbWlmbEItNUtpb1dlZzV0UFBuQlZJOW02V0hHbXFRdWlIc0lsbnAzZUdiMDhpWUZHcXhFUUF6MzB4Wk1TMkxMM2lraEtoMm9vWlk0OTJaZU1xNmQ5WEFiSllMTnZqLXF1ODY0djBSYV9JMW5rMkZfbHpvdXJjWFBaOGRB?oc=5",
+   "fecha": "2026-11-24T17:44:31.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Vea el gol de José Escorcia, en la Selección Colombia Sub-17 vs. Honduras, en el Mundial 2026",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUtubC1qVUVzNGN0eVhxYUZJOWRBbjA2ZFRMVnBwTWtBQ3dzdWZ3Vk1IclpwZWRYM0x1QUpoY2FQYm9lSDhTd3Z5bWh5cjN6RUhFeE8wWjcxZlBMYjBYMHNaUlhMb3I5ajdpOENFdnNnSGljcU1oYUdZR3pBNGczbHVRVm5kcThlVFNIcnZKVWEzbUNiYzhjeWpjNFpTUFZXWHBtbzNub2FuUFN1bG9XVDJJZmJYR3pMMkIyMTM4YTNJYjI2ajRDUndPSm9MUjFJZnBBZkhfeUJmRFU1Zm9tX1JaZWFRVlc1Tnh2UkZB0gH7AUFVX3lxTE5SelQzcFJRc3hYd3NKZnFDckNxbnhaS0lCcUNUNWdlc0I5VDlIanEzUW9zMmdKNnRYM2FKNFpGRGVhR2JDRGVNM3IwWXNRUXJBVW4xN1BPN29yY1JtSHdHVGZ3eW9qc3dzb0p0TUp0cjZqMDYwMUhnQ1N0aFJBeHNHbWVwd2Z4Y3JnMV9TUmdDaHROVlBGRGNxZE95TjN6ZEk0YXRhSUJXdW9xTjVCalJpWHpiWDRYR1RVQjV5WVIzV2dkYmNNSDNqS0FmUFpyNHFyZHBuQjc4X21Ea0ExNnBueGoybENoRjdoNDUxQVdwSzl5NW1CUE1Mc1g4?oc=5",
+   "fecha": "2026-11-24T17:33:53.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Sub-17 venció 2-0 a Honduras y pasó a dieciseisavos de final del Mundial 2026",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZkRxMEN0NUotcWVfVlBQRWplV0lyQXY3WHBLalZ0S3k3MmxNMGVDQWl5eFotdHg0aGhYRmhPR2xINkJ4OUxlUGJNNnJXRmFFQ1ZYdXJPQ0tfUGNZeE9HdjBVZHYwNG5aOHRUdkhuakxFUFRSaEdJdlVtSGFyaFd2YUhNajlCTFY5S2E3V0dfWWUya1YyRlRkeW1iZ3dsR0ZhMFVJTElLc3hhYUJtVGE1OGZLWHU3SlVtYkFwT0dJcnNJemRWUWltOHVfVmVPMnN2dllhdTZGNEpJUWEta2VSQV92VXlvc25wY2pSbW9Oa2I2LXJJMVpXYmhB0gGHAkFVX3lxTE5BcUNIb0g5bzJxQklDbWxieG1raVNHUWZqOVhqN0NZRjVXSGkxUEozY1VTNHN0QTZtdzBxcWJyREFHdnpBQkRrTWJ2bE1pU2VkdFJtVUpKVnR0RmVQUHFWLXhWMElnUTNET2NlbzdMemprVnpUTXJ4N0NOajJuVmdPZlVtVFBwZ1FBRUVNS055ZF91dnNVVHdlak5keDhDRU9qbm4xbF9MSlE3Um5pa2FxY1J0QzVnVGhjOUF5TjBlVDA3dGRpT245cmxRYWh1MTk3NFBrNkdrZV9iaDFERkR6bmY3UU5iTXE5cXlyUnJjUUg5dERGSnVBckNodDB5VG5QVF9INVRR?oc=5",
+   "fecha": "2026-11-24T17:24:20.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "¿Por qué no es titular Samuel Martínez en Selección Colombia Sub-17, en el Mundial de Qatar?",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdFZ3WjVoamR2QUtaRkl4Q21nZ1RzOXQyaFpTZ08yQ2FQTDZIQzZRTmxUeUhCWmVXZ3FEcGktT3p1emtsUk1xTjItZks1cDNJV0Z0WDlyaHlNUm9ZRUhrUGlKTHBIOGJacXBDbWdTdmZvNGhYU0EtRGNUYU15RVNTa3lzek9WOE5YOE5HNTdtMWpHNGxwOVdVM3RPRjc5XzI4MG9DeU45OFFFUTVPbWUxM1FkTGJ1VWVCZmU3QzJtaXNPMExzcEZDRGRYSWQxV0dBUW9acUdrSW9WT3VUYkFsWjNLVmhiRmg2b0F2WNIB-gFBVV95cUxNcXRLbEM1VDB0LXkzQVRqOVZkWUlqdWZKZzNDZm1JaUprXzl1RVNkaXpRTW16amcwOFNPMjRPa01XR2JPTUVQZ0loSjZKbTJ3SjF4QnhVMkhjZ2V0aWdJTDc3X1JpZVU2VDBNcm5Ra0pCQ1hIZGNkbDNTU1lUVFoyN1owRnlfTmJGaVNVQ2FtSGxxdmV5Z2pJTnpvLWNubUJ5N0ZoZFVnNFhIQU9ReGx0ZDJzRlNZV0RNVF9FdzduWm1GVEpTT3pqeFpldDAxbkRvZl9MMld2V3hiazk5TXhMVGpkQTU5TXVQbGM1akZmcFpNZ0JHMUs0Skln?oc=5",
+   "fecha": "2026-11-24T16:51:00.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Primera polémica entre la Selección Colombia Sub-17 vs. Honduras; ¿era roja para la 'tricolor'?",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVTk1Z0REUUJaaUJWbzdueXpEOFktRGlmMFVuYktMXzBSMkdmMWZRcmk3YnlGSWVmSl95NG1DZ3FfUldXcTJCNFgzZk9mbDNxaWozckVZMmhJNmZ5OEFweXgwS2ZxWnh0Szg1dVNLSWhHUkpwZW8teGJ5UzFVZHhTS05QbVdybWp2XzZPNktkVExCN2M2REJrUDZiY0R2ZVdYcXFFVndieUNDYjdaWGM2YkJieWpUb2ltUmxlVS03UGlweVZjcnoxZktQWVRndEd1YlZnQ1EyQTU5OUFSNkhxNGg1aG8wYlFwQUUxRdIB-gFBVV95cUxNenZkY2FRUEhjemJCQmRjZnlTSEgwbUhTMGVtaHpPUU54UTFVbUpONHlJQ3FRYnNxU0htNDU3NENHWU1nZkNSeTVnV09admZtbnh2TkFyaWEtcDduMEpZeFQ5WEVHVkFmaVZla2g3N3NpY192UDc1NVFVNm5VcWdjUFZYczFWTWM4Uy16Q2VWaDZrdXlZSW1BempoOGJlNE9KWjlFZkFlUzFLck03SzcxeDJfbWp4OXNqV2F0azNfVjZyZXBBejFzOW8xMHhRbEw1WW5SamVDQURKdVM4QzFBNmJyYzJEMlI3TTJVRFlBR1pyRDl2ZzRhWUNB?oc=5",
+   "fecha": "2026-11-24T16:35:57.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Mercado de fichajes Liga BetPlay 2027: Junior, Tolima, Millonarios y Santa Fe se mueven",
@@ -795,7 +1325,8 @@
     "Fichajes colombianos",
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Colombia volverá a jugar la Copa América en Estados Unidos, lugar donde disputó la final ante Argentina en 2024: así será la competencia según anunció la Conmebol",
@@ -804,10 +1335,10 @@
    "fecha": "2026-11-24T16:25:00.000Z",
    "etiquetas": [
     "Richard Ríos",
-    "Daniel Muñoz",
     "Jefferson Lerma"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "¡Triunfo a sangre y fuego en Estambul! Con Davinson Sánchez imparable, Galatasaray venció al Aston Villa en un cierre dramático | El Colombiano",
@@ -817,7 +1348,8 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Project Academy y Prime Video preparan 'Game of Legends', nuevo formato original protagonizado por futbolistas",
@@ -827,7 +1359,8 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Bayern Múnich contempla a Luis Díaz como sustituto de Kane",
@@ -837,7 +1370,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Radamel Falcao, nuevo embajador de Skechers en América Latina",
@@ -847,7 +1381,8 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "A qué hora juega EN VIVO HOY la Selección Colombia Sub-17 vs. Honduras, por el Mundial Catar 2026",
@@ -855,9 +1390,10 @@
    "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQndVNkt1STBDUzZlX0s2YU1wVUhXd1BTcDdJVlZodVU0SVJoTVVrZlg5b0FaVHhSeE0xWUJDRnQtMUs4TWFFcDVzZmNVd2ZsUGI2cWlRMkJCVTJkQjZCTC00RUpXajdCR3RCaC1Pc25UWWdrcHl3eTdoaFh1M2x3NzhkMUpTSm1obmluckJtaVdhWE4tTzc2VTVfQ1FCZERDZW90bFpQZVlsVnZzSENUTjFFQTRUVWotb1dWWWZZUVZKM3ppOUlFZ04zZnYtS2pwcXgxMjh2QV9GNllpMG1jOG1ZcWxmZ0o3LU1venZsRl9PN1I20gGCAkFVX3lxTE1xWUdTOXBVU09YU0RwZFZWYzZDRGlXTTZOQXFEb3dnaU5OakNYdzduVlE0QTVGdmJBbVFLUUxuSWZaeGdsNmhQWmdqUk44Y090NHN3VWpITjFjQWg3TnJCd2pQVXlKUHhkbDlZRDZWUEhWZUZ2djVXLWppUWlJaDdIckFORkpxTWN1UTdUaVItSlVOcWZrYWVwOThSMlgtV0lJMWIxQ0s5SGc5TFNzNWhnRHFWMm1tZkNfX19VYV84YmpuWjZKVUxHUk9qRXowblUtSFhSa24wTHQ0X0p6X05GdGNpbVhFeHJMVWNsYXhsQVZQTjZJOHo4U1lZWS1Mc1dMUQ?oc=5",
    "fecha": "2026-11-24T11:44:26.000Z",
    "etiquetas": [
-    "Selección Colombia"
+    "Selección Colombia Sub-17"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "¡Hoy juega Colombia!",
@@ -867,7 +1403,8 @@
    "etiquetas": [
     "Selección Colombia"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Convocatoria FEST Atenea: requisitos, fechas y beneficios para acceder a créditos educativos en Bogotá en 2026",
@@ -877,7 +1414,8 @@
    "etiquetas": [
     "Mayra Ramírez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Nuevas imágenes de una impactante primera equipación del Barça 2027-28",
@@ -887,7 +1425,19 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "La Selección Colombia Femenina dio a conocer a sus convocadas para los dos partidos amistosos frente a Australia",
+   "medio": "El País",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ1dERU5GZnB3dG5sQU41QjFyLXFiSjIzX014X1AzTzZ3aTM5Vm9oQmJkdDlpRUN0UmU0VHBTbVpFSXVmNEt3WS1aOHlETzdFX19XdWJDZU9ybk1jNnVTeUNnZlVaX21XNTFHb3JJR2tielBaeU4xMURjT19FN1Q2aTRVSnliLUxIV3pfVG5YUmZkWkpueHpSSDc3RXpobGhRUmlaYTE0ZHF3ZXMxVTBPcUpoQXFBLWM2TjV0LXpsLXduSTlOLU52dTh6LUpta1l2ekh0REdXTTV4R19aVXNzY0NvSzg0WjY2VGpER0Nn0gHzAUFVX3lxTFBrclZ5LTUyVGRKZWJHMVo2ZHdRX29RblNkUWRRZ0I5blhoQVJEbU1zdjAtUDZ0UkkweWJDelFzbkk3clJWSEtNQkZWaW5UamhfRUlpcTVVU0E0QkJ6dG1JNDd4ajFRaDBfSmo1UGZ2WUtBaEJMeUUyWDNVTDhNU1ZkcXYxaHAwejBRVUhoZHZxUnoxOXhrbmg5dTZOSUs2WW1Ub05yd3lnXzMyNUVrckxqVDJlcXB0X1ZqWUJVc2Jka1RBSzBMQWhuYXM0ZWFKeUlHODV2dVl4Ym82ZWJaYk1fcmVsb3ZvWHA4WXV2RG9SREFHQQ?oc=5",
+   "fecha": "2026-11-24T09:51:00.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Estadísticas de Goles de Instituto (Córdoba)",
@@ -897,7 +1447,19 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "CONVOCATORIA SELECCIÓN COLOMBIA FEMENINA DE MAYORES PARA LA FECHA FIFA DE NOVIEMBRE 2026",
+   "medio": "DXT CAPITAL",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHpPbXUyUXRUTnkyUUJibUttdWs5X0EyUnBSUHNEc0xIbEU1V2tDeTV3UzJ6dE1aekFBOVBmUHhwZXJSTUZ2dEdlUmMzSmprZlpmaW9hWkZMVWpyZFg2YU1GRlBGaFpTa09vN25KcmFBMjhTazlmWGhaa1l4UndsUkkwSGVJVmlaU2ROWFhfOVZTbkMtNUhhU3BsZ3lYZUFoZkIzUFdnYXhsRlNCUmVkQUpSRElxZS05eEk0?oc=5",
+   "fecha": "2026-11-24T05:25:27.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Con Davinson recuperado, Galatasaray busca frenar al Aston Villa en Champions",
@@ -907,7 +1469,8 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "I. Córdoba 2-2 Boca Juniors: resultado, resumen y goles",
@@ -917,7 +1480,19 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "El rival de Selección Colombia Sub-17, entre lío y escándalo; todo por reclamo de papá de jugador",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOXJSek5RUUtCTzdvUkQ0YXBqbXF4MGFYV1RiWXRsY1BndTVyb0RReW1BYTdwYWZqcnVIMm1FS2ctMnJBWVlSMmFqZmJvQ0lNZTZXN2J6QjFqTHBXQVBoN1FIaW41OUZJb0N6dFJxWVE3VXZjNFdXTnozeElhY2VsUkM1RzBqQ2tNNWotU3dXODgyMVlsVU0zcExaYk8tZ2FzTnZJNVlER19Qb2tYeG8zY0NabU5hVGJGYk1WX0FYRzNMR01DZ3Zac0pYUDV3VW9xdjN4QTQyVm0zQ1FpX1NRSm1qZnZjeFJfa1N3RUNYQ1dVUDBF0gGCAkFVX3lxTE1heDdZWXFON1FacFlvei1xQlh6cl9jUFNsRzhHRFI1TzNvdHVjTVVPQ3JjNnpkelczYkVoX1luUk9pZ1VUc0FXbGdxMzV3WDlUeDRUWElBaVpZNkxCTWhEZFBBd1NQYkhETUY3RHg3dlRfd2haMGZ6SXBVQ082cXhZVlVVemk4SVpBLWJSQmxCRl9hVlUtaXZCY1V3LTg4R1JCaE5EOWtwNnlTMm1wU2FwYU5lQWJSM0ZnWjM5eG5kMmlyOU83U0ZXRkgwYTA5UWg4b2poZ2lJRHd5Z0tiWU0tNkp2QWRzVDlnakRzWXJKTlVkcmpQVUtKTzN0R0JHRUNOdw?oc=5",
+   "fecha": "2026-11-24T02:55:28.000Z",
+   "etiquetas": [
+    "Daniel Muñoz"
+   ],
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "‘El VAR Central’ cuestionó la roja a Felipe Marín, jugador de Atlético Nacional, ante Once Caldas y criticó el arbitraje colombiano: “Seguro está dolido”",
@@ -927,7 +1502,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Los colombianos que podrían jugar la final de la Copa Libertadores 2026",
@@ -937,7 +1513,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Davinson y su aporte al Galatasaray: “Traje la experiencia de haber jugado en otros países”",
@@ -947,7 +1524,8 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Díaz hace revelación sobre su estado de salud: ¿será el salvavidas del Bayern tras la lesión de Kane? | El Colombiano",
@@ -957,7 +1535,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Díaz, a tapar problema del Bayern Múnich apenas vuelva; ya lo hizo en Liverpool",
@@ -967,7 +1546,41 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Bayern Múnich estudia utilizar a Luis Díaz como delantero centro ante la prolongada ausencia de Harry Kane por lesión",
+   "medio": "El Tiempo",
+   "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZVN3VTMwc3Y1UzRLZnU5QXFzcTQzQ1BLX1cxXzIwN25oNXFTcnVaMUlOQ0V6b01IQ3lZZnNISHBDbnlHR3VyQl9pMVZQWVozcFN3WHIzbnBOQlFBbEh0UWM1VmhGVnpzRUpuN19NZk5WQTdnaE1TMnBSV3pqb1d2WFdjTno1Mk5MQV9RUWU2MnY5eUdMMWZZXzBKMll3UlNQM3I5Z09fbS1DXzc3eGg1LWZqbEtJVk50U0w3SFRTM1AwamR5NTBZcGdBUkdhQXRNa0lHTWE0R1RCYW5TcXNrRm1nbWZfdW5MYmJpbzVJUldsSHAxa1d1d2NpQ3B1VzlsSnRxUU10aDk3WW9S0gGSAkFVX3lxTE1mb0FGdEhyeER1SEZHa1pXU1A3b2ZZNWl0bDhMLTczZm9QTE92UER6WDVmcEhGbmpBWm5nd0R3RnFtQTBuQU9wcUdFMVY1VjZfRDQxUjFiY1o0N3h1d1FBWVhEY1NjeWdsbnUxa2J0MmEyTjIydDQzYlBLQlB5Q3djQ09kbjhuSkJKRG5vOExlRkUzaElZMGd3X29WeURnN0xaWVpOa1UzSTdaN1ZsM1FCNTdSR2J0SEN0d21tdXpCb1Nqd1poMWExbzl5dGpramhWNnlHZ2RZSVlVc0dfRnBHclducHRIVktfdndoNTRBVl9NMmxPS0FmeUVZQVNudEpTb3ZXQW4yOWM3WUJrQ3ZiUlE?oc=5",
+   "fecha": "2026-11-23T23:37:19.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Sub-17 cerró su preparación para enfrentar a Honduras",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUFHT0VnU2JJajZWcFJSSEVVQW9seFNXRzBIcjRORUZaV2owT3ZqMzRyWVdXTmU4THpxODIxNDF0T1lFVVFxX0ZiaVdEQTZsMGlPT09nSV9YdmJndUJUTG1GU25LMllucVh2clRyMmJXMFlkdDQ1ek9lT2FuUk1oMnRfeXoyNVF2Y3ZzX1pIdThfWDF6X1ZkakEyX0tBcDFrclB2UE9LcFJEZw?oc=5",
+   "fecha": "2026-11-23T21:54:42.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "\"En Selección Colombia Sub-17 los jugadores saben que esto es competir, descansar y volver a jugar\"",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObHpPaW80WlpYVnQ3NlBsZFlyYldYVDBKWVFDcF9aNkFRbmwwc2NBN3QwMy1ob05UUWJxSm1wUlpycHlnM0dTcHFPdWc0azFmS24wbElUNy1uSGJTXzcxaHF6ZkZ5b2xPRWdKQzNQSWdSUWJvb1Rxa1ZnWEF5S1BNbzJxYUsyaElKYU01X1F3RVBVN3NJTkhpTDBjWTRKb1FobjZNY2hsTVo5aDI2enRSejA2ZjZ5bzVpQ2tsZ0ZvdVgzVGxnSVVhOElmQjBNZ3E3UThMdmlxYk9OdTNRTGpTMmJsMkRSZWozRUI1bHg3dC1MZjVKUEHSAYMCQVVfeXFMTWxPd0FuYXNMdFpiZTBzWkVWa2RSc19ET0lPcEVCNHhoZWh5V24wdk5pQkllX19fMExaZHFsX2pkMVlTNV9oUExtTHRWQWd0YnZVWnI1X2pSZC10OU83RmZvRkxpdW9CeVp2WjdNSmRnbEhpYlFRUXNVLVdtTExIUjNEU3UxbHVlald0UURrTl9zT2pmT3BBc3hZNzVRdjZzUEdyS2tZYnR5cWJNUjRiSFR1WDVqbHBESS1LNjZiX3MwM09kMTdxanF1azBoMXBNakZ0ODJQVnpCR2FxM3k4U2h1NTIwZng0aUtfWE1lYm95WVBLUzhBbjEwNzFZQklMMTRUbw?oc=5",
+   "fecha": "2026-11-23T21:33:24.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Davinson Sánchez: \"Emery está haciendo un gran trabajo\"",
@@ -977,7 +1590,8 @@
    "etiquetas": [
     "Davinson Sánchez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Junior confirmó qué fichajes buscará tras la llegada de Jorge Bava",
@@ -987,7 +1601,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Jhon Durán se puso alta la vara en Benfica y mostró su lado más humano",
@@ -997,7 +1612,8 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Mayra Ramírez continúa sin fecha de regreso al Chelsea y su DT explicó cómo avanza su recuperación",
@@ -1007,7 +1623,8 @@
    "etiquetas": [
     "Mayra Ramírez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Durán mostró su lado más humilde y se trazó ambicioso objetivo tras marcar gol con el Benfica: 'Tengo que esforzarme más'",
@@ -1017,7 +1634,8 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "La espera continúa para Mayra Ramírez en Chelsea: habló su DT",
@@ -1027,7 +1645,19 @@
    "etiquetas": [
     "Mayra Ramírez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La selección Colombia Femenina llegó a Australia para cerrar su 2026 con dos partidos amistosos: Linda Caicedo regresó a la Tricolor",
+   "medio": "Infobae",
+   "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMVNfWnc0LUk1V1FpNUhTTDJNcTFMNDhyX0ZMMDdBZkRBT1FVaFZ6Z2N4YWJMNHJkRUlvUDlKRzJwLVJKSmZTUlBYdWRjQmtibUlpVzU0VkVaeGVGYUUwSXlOdGl5Q3hFUDZ4a3BNMi1MU2FDVkZWM3MyNGtRLW9aZkU2YVJwRlJjeVlOZlJPUUEySXpKbVdWS3k4anl6SUs1akxVTDdKOERoM19iOC1XZTFDXy1maWRIZFNlT015NjRSSVZWZGZESmpwYkh3SlAtMEdONUlJWi1VaEQwdW1yc2Fad2N1bjZWWUFYN1RXeVBGVlA5YWlLQ2VSOENLZHBudFFIMkdMTE44cW91cFZac0hZONIBrgJBVV95cUxQeEx5THVWdFRHXzlVZF9FNU1PaXBicXpJOWVOblphdkZ4bEJSUDhtUmNEN3RvRWRsVzZ5bkdpME9SckluUDBPSk1pc3hRM21PN2ZMbFBPNl9heTRpWm90YjlsSTNZX0ZIbmVUU2hwQXRXdHZrVnRQMFJvblhXVFNiaURPQ2pHTjNlLU5hNmdjOGZObVB5VW90Z2lHdVMweUZUbUUyWi1PUkF1WlVMZTRLQ3VMYkZnX1EtNHlJRFB5QXBaRWRHTU5mTm40cFZUZUNoZzA4aGFFb3pKX0U3YmFGaDJVY0F5enE5Z2VJTzVFa0dRVTM4ZW5NZmpSbFRxaV9rMVZrQUt3bDNrTlc2ZWJ2NDFlYVZhdFI4TEZLZllMYmdqQWhWLVl5QzN4dUxodw?oc=5",
+   "fecha": "2026-11-23T20:46:00.000Z",
+   "etiquetas": [
+    "Linda Caicedo"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Durán muestra otra cara en el Benfica; “creo que lo estoy haciendo bien, aprendiendo”",
@@ -1037,7 +1667,8 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "ATENCIÓN: Jugador del Junior de Barranquilla rechazó jugar en el Deportes Tolima",
@@ -1047,7 +1678,8 @@
    "etiquetas": [
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Jhon Jáder Durán, delantero colombiano, habló sobre su presente en Benfica tras marcar ante Torreense: “Siempre hay cosas que mejorar”",
@@ -1057,7 +1689,8 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Mayra Ramírez sigue sin jugar en Chelsea: Sonia Bompastor revela detalles de su recuperación",
@@ -1067,7 +1700,8 @@
    "etiquetas": [
     "Mayra Ramírez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Durán prepara otra jornada de UEFA Europa League tras su sexto gol en Benfica",
@@ -1077,7 +1711,20 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Atención Selección Colombia femenina; la FIFA designó las sedes para el Mundial Femenino 2031",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3czWEpnOWFlRXJLdkhBNkV2SkhodDJPb3NmR1dSYWNLWDFSaU9iWW1wRVhsNWN5OHpzbmpmVFVicDVXaU1xVnhvb2lmSjgzZFBMQmVFQVhsR24xYVBnaDQ0QV80VngxallPS2NUT3UxZExtZ004T1ZEXzF5ZlhIX2xpZmVzdTBlbWRrbU92STF2LVFOSUhMWENpUmd5WUdfc0hBMktHWjRBaGsySHZUVjN4dGs2Ym9YRnEwdHBQN2poNnJZMDFLbThoNTUzQjBYdWJEOUtfWdIB5AFBVV95cUxQMlhDSXVBNzQwOWw1LXBYaDNHS0xnZlZnbEhmNVJDVVY5eUxfY0FIbGVYbWpQQzlqVVdQeTBYWV9wRXl2dVdEU2hDN2E1bERSV2c5bkNSZlRHYnV4c2llQ3VabXp4UUFvQVAweUdGMldkbmowX1NDaUZyWmQ0Qk12ZGJPUkxoVWd0YVNzcklkZVIwSHdBTlR5OURVTmlXN0lIdjd3aldwZHhPdTNBU3R1LTQ3b0JMem9fVkxxWDNkc212OGlxOXdTRGFDX1lSVUdXaFRNVDd1TDBhNGFsWHJuZzl5RVg?oc=5",
+   "fecha": "2026-11-23T17:42:11.000Z",
+   "etiquetas": [
+    "Selección Colombia",
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Selección Colombia femenina anunció sus 23 convocadas para enfrentar a Australia",
@@ -1086,9 +1733,11 @@
    "fecha": "2026-11-23T16:45:16.000Z",
    "etiquetas": [
     "Linda Caicedo",
-    "Mayra Ramírez"
+    "Mayra Ramírez",
+    "Selección Colombia femenina"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Medellín encendió las alarmas: Juanfer Quintero podría perderse el clásico ante Nacional",
@@ -1098,7 +1747,8 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Linda Caicedo encabeza la convocatoria de Colombia para finalizar 2026",
@@ -1108,7 +1758,19 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Mary Álvarez regresa a la Selección Colombia femenina para los amistosos ante Australia",
+   "medio": "PrimerTiempo.CO",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDVRejhrRENIZUlzVjBiM01xeUdBSnllRlFsX2g5MC1FYlFvSHVVSUt6Y19sQ1VwNlRjUmFGTHBVR3dTYlZzZmFrQWI4dEVsWTNqMW9VdG1xTnYzN1FjZXNGUEQ3LVRzZ3NqUXBZc2xpMkhVcWhTcnRHVWpicU5Wb3JNaFZmYmF3YlJycEhzZXc4ckVuRksyVUthOGxRQzVfS2djUFNIejYxZHV5TjNOaWRRc2V6enRwRWJ3?oc=5",
+   "fecha": "2026-11-23T15:57:44.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "BOMBA: Figura de Millonarios está en los planes de un grande de Sudamérica",
@@ -1118,7 +1780,8 @@
    "etiquetas": [
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "«Me siento muy bien ahora mismo»: el guajiro ya está disponible para el Bayern, que juega el miércoles",
@@ -1128,7 +1791,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Mayra Ramírez, sin fecha de retorno en el Chelsea",
@@ -1138,17 +1802,19 @@
    "etiquetas": [
     "Mayra Ramírez"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
-   "titulo": "Colombia juega su segundo partido en el Mundial Sub-17: hora y canal para VER EN VIVO",
-   "medio": "Futbolred",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUVFXzhLT1F3NmRTdDk2UW1zVV9PQUY3VmhRX3Rhdmw3OC1ZcWExTVdCejhiajhTa0lBU0JOTEdFOVR2bEVxaFBVZlhZQV90dXBHX3NLdG5WMGJuOG5aUHJ2V25YSmczY3BuX0ZGLUQtRi1QbGxaTnY0VUZKN1ZZMWNLaFBrRGowTkVONFN0XzVoMTU4TjlEcGNCbVo5RTJnejA4aW5XdjdxMkIyUldLQW85bnROWU5MNEZKYmZleVdCMXFVRDNxdNIBzgFBVV95cUxPY2JRZDQwYWd4QXRVMVY1VE5ucmdfaTk2dS1NVHlobzg0akQzYVFwMlZraFhDUjh5ZURta19KQ2hJUzhXSFhtV2M2bHE4eXdZdzFQbXlJRDlBclNFd1BBZmsyblB0a3J0Y0pHbTlzbV9nOXQ0d0FrZ2NxcF9fM2h3R2JiOFplMFlwTVlwLXZnVzRxbnFFSGlkeVhBUFVvU2JTT2RURUdYN3RtbGoyVnhpVzhfWmdRUzdvQ3hSTDl6b1BJY05YX0lvdFNHa0RkQQ?oc=5",
-   "fecha": "2026-11-23T14:32:37.000Z",
+   "titulo": "La Selección Colombia Femenina llega a Australia para cerrar el 2026",
+   "medio": "AS Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWNveE4yNHdVYUwyOHJxZHFvMVdzSTFzcG9LR0tEWktCQWpKaVhIcXJnOHB4TmhMZi1kaVd2S0VCd05KRGJBQU41dlRHR2NZbmU3TXlyNkdLMjF4REdvVlMyWFU1LWk5Mk1sY0lMWFFqVHg4d3RDaVdGSk5pcjhpRjltVWZSbmhIZmVZU3NJM2ltV2FaNk1EaGRMalZXbnJvZ3VfRksycGpNWTV6S3lJ0gHDAUFVX3lxTFA2V1BCNTVWYm96dWp1NVplb05WMk9HajZxc0Q1MGlSYXRUamtBUWlZaEw5UTJYUVpXT3hFdW1MbUlWT0lBUXhRZWduM3VKR3Z1SXFKQ0hzLWRzcFl1RmtJZ2EtRERYYWtUUTlNT2ZhMEFHeHNDR3RyOWV2NGpZcndfeHpUWEFWTnhfOXE3c0t3cFZta2wxTWlFTXJ0TWpSUU0xSElKTFMzQWtMWU4zT0Y3S3ROV0doQ2xaT2pDMEZTRWFtTQ?oc=5",
+   "fecha": "2026-11-23T14:04:51.000Z",
    "etiquetas": [
-    "Selección Colombia"
+    "Selección Colombia femenina"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "La Selección Colombia Femenina cierra el año con dos amistosos ante Australia",
@@ -1156,9 +1822,22 @@
    "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXZWajNUUW1DQ1NHRk9OTEphWGV1aHYweGRfYnQ5LWhaNTBxSDJPaEI0ckRoaWt1QUU0N19UdUFFLXFFWUgwWXZGVWp2VG1kZ2MwYlQxU19KeF9wTnBxbU5vVlBQYmtvbnBNMmxJM2paaGFaM3dQVHhjck9IWVhnQlhORUxDN05mREFucDlHMGkzNFBxTmxwRWlCNmh0VTdoOHRudC1rRHZiVUg2RmZSbGp5LVVZUXhBREhlMFRVclZjMkstaXpDV2ZfRnM0UzAtN3Vndw?oc=5",
    "fecha": "2026-11-23T13:51:21.000Z",
    "etiquetas": [
-    "Linda Caicedo"
+    "Linda Caicedo",
+    "Selección Colombia femenina"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Colombia vs. Honduras, EN VIVO: hora y dónde ver por TV el partido por el Mundial Sub-17",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXRxZF96aDFGZDZMRnJGN1E3a3E1X1d1dEpLWXY0cVBGTTZnSVc2cV9ZNEVIQmZxbHVJa0pqcWRsRWtHc2RWTWl4ZXRrRHhKQkVSNXBUb29FaDBlNm4wTmVhMWlaa0E3Q1pmekZ5Z2JiQWh1Z3BZVXQyNC0xaEZ2MUctQnNybkY3RTlhR2ItM2pVUG9qUnhSLTZpOW9aX1A0NTVlWEdpZXI3TFIxcXRlOVY3TVBCb0IwZllmMjVYLUFoUzVwNHlrMWJRbXBPa3dvUjN5ZUVnN0ZRbDJtbklDdlgzRVpkY1HSAfQBQVVfeXFMTjN0ZWt6TUpaemhpNFQ2ellxam5JX0hybEktZG9uOFEyS19mUkZXd2tINTNjMl9pazVUdEpHRGQxT29hNGtPWXMtRGVRNkplZE1IeHZuZWtTZWNDUlhkMWhEWVlTd2xrZ1FNZFM0Mmlkdi1LZExrU0NMWkhPNGZkeldmbVVsWlVFakNTMEY0X2ZlZUhsaHlzTDlmczExbURORm1ScDl6ZjlnX2ljbGZoS0NHQVQxV29FVHpuNmN6c3NTYV9leGs0V2FTS2dEdkpIQmpwZzVFN1FhLXo2S2Z2OW5HWjRUNHU2azdQS093dGRJeUpPWA?oc=5",
+   "fecha": "2026-11-23T13:50:23.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Designaciones arbitrales Fecha 2 Cuadrangulares Semifinales Liga BetPlay DIMAYOR ll-2026",
@@ -1168,17 +1847,19 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Así fue el fin de semana del deporte sevillano: Daniel Muñoz se estrena como ganador en Moto2",
-   "medio": "Diario de Sevilla",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmZZODFsak1hUUJ3TjhWNDRmNm05c0JtbTktQi1mbXlkRVFVdnFrZVB1Y0RPQjAzNHFVcEFqT2dZQzd3SEJFMXFsRy1CTDQwaFpwdzFMVmllMlFqajNUdUEtVG91SFVSQUluaEdpZ1R4UkxPVGZHQ0M4RHhSM0ZVSHVkU09fTmRMMEx4c1R5QzZNemhNcnlONlVtMURqYTdrRDFoMllzeVpmdnBkcjlxSE5na3dUNkE?oc=5",
-   "fecha": "2026-11-23T11:29:57.000Z",
+   "titulo": "Liga BetPlay 2026-2: programación de la fecha 2 de cuadrangulares",
+   "medio": "Win Sports",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzVmcW5yQ3M1YTgtbEdXaXlUbXZma09MOGJMbVppRlBySXk5cFZiZktKUjI1OG84akIyTTVfbnVDQlBQb0o5Wk5XQ3NXN3djMDFnOHg4Rm4wRTZQckVsZ2dBY0JjRURHMk9EV1pOTkx6b290Q0dkNEtUY3JaQXlBZkJPMDliV20xQjQzc3pYZFRtcWE4RU5HQjZPdTBkdUJfcUNwaVFEYlpPUnVIYTJTcjFKN0FfRWlMQWpxcVZCREs?oc=5",
+   "fecha": "2026-11-23T12:47:05.000Z",
    "etiquetas": [
-    "Daniel Muñoz"
+    "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Selección Colombia femenina anuncia convocadas para los partidos amistosos contra Australia y confirma ausencia de Mayra Ramírez",
@@ -1188,17 +1869,8 @@
    "etiquetas": [
     "Mayra Ramírez"
    ],
-   "fichaje": false
-  },
-  {
-   "titulo": "Plantel de Genk 2022/23: jugadores, dorsales y estadísticas de la Liga de Bélgica | All Football",
-   "medio": "懂球帝",
-   "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iTEFqQnp0aDRET0xXRHJnQXAycVc0T29aSkhkeHh0Y3hweFJ5NXpZNk5ERmtWNUt4VG5GVVpLOGhXelg5U0RVUlNwc24yd3R2SXBzOGwtb29Lamc?oc=5",
-   "fecha": "2026-11-23T09:43:12.000Z",
-   "etiquetas": [
-    "Daniel Muñoz"
-   ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Macron y el FC Viktoria Plzeň presentan la nueva equipación ‘local’ para la temporada 2022-2023",
@@ -1208,17 +1880,53 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "David Alonso rozó el podio en el GP de Portugal de Moto2",
-   "medio": "PrimerTiempo.CO",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajdsSzNiM0QtOHBxaFJpSDBZQ1I0cEVCNmdMaVRGWkV5Ny0tXzFzMTN2VW9sN2h2WlVYTWZDSnhselktd0JKNG5PODBsanl6MnBYMEw2ckJiM1UwOEpGNnoxcVkyVGVFbFV2VVZBOTJFOW93WHVuR2J5cnB4XzhWOTJNeElBYkhqMi1tdURnblpQR09xTWdDdC1mYng?oc=5",
-   "fecha": "2026-11-23T03:18:41.000Z",
+   "titulo": "Luis Díaz, víctima de una cómica primiparada en Alemania: le hicieron trampa y no aguantó la risa",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDZVbTFjQ3dPNWZCOGZfSkYtb3d4dzJnRTRod25hOEJfeGs5a0NfMGpmVDB5VVk2TnJtVk1MNmVWeG82OTVTdXpwTWRrRVRJejhJSVM5eTRlQVdnLW9fXzBaU1FTbDRrZ0JtUGFCQVhlT3R4VzlfbHY2ZW43STVDSlRUcE9lejI4WGFYbGxTdlFTdUo3RmI5NVNUVGJYa2dJUGRQUDlpODJjZU1WdGlRZFpZejlhZTN3ZnBmRmZERnJqNTM0QW8tbkwtbXZfZ1Zsd3ZrNGxNbWsxc3Q00gHiAUFVX3lxTE5sSGpaZ2tESmo3X0p1Vmtxem1Cbmc0ck1IZ2RONF82dkhVMmVuSW55UmRHMnN2YWdaUTJUM1FnS0drV2dTNFg5MlI1VUt3Rnd5Tlh0WGRsaVd4dEVPTFlxcnpmT29NS1UzNWh4Nlk1MERvc3JFdWlYanZzcWtxcTBXZGVZN1VEMEFGS3NzSTdXcTBXSGJsYkZUZjNnVnBnTEJaS3l6aDVXSEpzM1FtN3pHNlBTMjZ3TUI3ZTZIeldRc3FWTDk1MGNzMGE2MEtENnZhdUdmemNVYXJJNlpuaDJYWmc?oc=5",
+   "fecha": "2026-11-23T02:56:52.000Z",
    "etiquetas": [
-    "Daniel Muñoz"
+    "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Selección Colombia Femenina: convocatoria oficial para enfrentar a Australia en Fecha FIFA",
+   "medio": "Deportes RCN",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMVBoQ1pBbFdfV1ZTQVFna3k4UGREVjRyb05MU1ZlcXZmVnJQcklYNUI4ckJWeDBYYnJLU1FpT3hrSk1iTEE1aW1pbjZ5M1lrMG5wTUFLXzdSRHpVRHNYUHAwNkhSbWIzRnlJenExMFVaTmdwVG11d1VETWtZMUxzYTZpb3RNT3pfRk1meGo3VWVmaUJYWkpsU3NuNnhvNEx4QmdqdXo3UkxBSWNmMHFpdC1ibHFRNmp6eVVQNUdSSmdGQ1JKRUxOSmVxX0EtdUdoWmhCTUhXdFd6WENVR2tVbUs4NWbSAeQBQVVfeXFMT2dQVFZJSGl1ZUtsSEFzejE2cXlKSmNLcFllZUZCMFhJNW0wSXhodGtfNVpHU01FOWxCZ0xGTEg4UExMYW9BZjlKa2JUMmZNbTZ2ZS1IWEpaVFZZdnBUb0k5a21mQ1NZdmtoM0RsbmdPSUtXNHBGdFNfcGFtTHZLRjF5ejIyRWRMa2h4N01mZDM0VGNCaXlNWFFzVU9lbFBNTGpuWFV2cTNrQURMQjR3WS0yb2VUQ0dlRUItQk5jdE5pOXNYaEhOSERtVmdIYnVUc3lSSjRIRzFjSlQ3blNQSjgyOU9Q?oc=5",
+   "fecha": "2026-11-23T01:52:43.000Z",
+   "etiquetas": [
+    "Linda Caicedo"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia femenina cerrará el año con dos amistosos: fechas y rivales",
+   "medio": "Colombia.com",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1g4WnNwdVJNcUdGVHpwZTlBdTFVUmFwbVpPckZXMUU0Vks2TWtEME15elVNd2dxZnIxbWZSSEI3a0w5YWhZeHVjQVp0M1lnY1R2blVQbXpGQ3NkYnlua0duUkp6c0FvWmU2ZEJGTVluckpOQzVyekllZFhrUkZkNGV1WFBpY0lIX2FKcDdyWVdrNHlTZ2h4SnpnT3paeEQtOVFaNUpfV1dCVHpzWnMxbFpXbmplbVNHZE1OZEdB?oc=5",
+   "fecha": "2026-11-23T01:24:35.000Z",
+   "etiquetas": [
+    "Linda Caicedo",
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Selección Colombia Femenina lista para enfrentar a Australia: balance y expectativas",
+   "medio": "PrimerTiempo.CO",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTA0YmZlYVNQX2R4MXl5M3JZMzh5bGgwRGtycDRqZVZzbF9JYVpoNnBuX1lIeVRyTUVSRWVVVEFHRmo5WDluTXBsRG4tRGE2WmNGREtZaVNjUXVMUkJyR3VsYUx3SmNQLXFGZlFyUnJyckdsYVVXdmZDNFhCaTdMeVNjdHRNZHNfbks0RE5DRFhQS04zRENSSXFhQzRlc3ZhSmYzTXJrRm9NX002bHlwQW83T2VfQQ?oc=5",
+   "fecha": "2026-11-23T01:10:10.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "La Selección Colombia anunció el listado de convocadas para doble duelo de fogueo, contra Australia",
@@ -1228,7 +1936,8 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Lorenzo, atento a la ráfaga de goles colombianos: Jhon Durán, Jaminton Campaz, Juan Cabal y más",
@@ -1239,7 +1948,8 @@
     "Jhon Durán",
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "La cabeza de Jhon Durán encamina la clasificación de Benfica",
@@ -1249,7 +1959,19 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Selección Colombia Femenina define convocatoria para enfrentar a Australia",
+   "medio": "Win Sports",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcWJQaHFkR3FycXFkMV9fSlIyVE5Pd1hHRENwUk4xcmRVSDBNelVFNVhkeVhCbkhQYTVCS2xtZ1AxTzNXOUxHd24tMi1GTElSV3Q2UXV0OGo2OFlPZE0zdzNpU3NYaTAxbmgyLS1xSUVNQmk5UEFDUThyZGoxSk9wNzgzR2pfWktXT3pORFZUSW5vb1FaRVNfTXVYRzNTTnR5RnN2cHRkTnJDQ21oWVY5QUxFY1g5bmJ5X0xWMXRPOUFVa1Jnc2swTGd2UGlFQUk?oc=5",
+   "fecha": "2026-11-22T23:35:12.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Durán sigue pidiendo pista en Selección Colombia: gol en la victoria de Benfica en Copa de Portugal",
@@ -1259,7 +1981,8 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Jhon Durán volvió al gol con Benfica: marcó de cabeza en la Copa de Portugal",
@@ -1269,7 +1992,19 @@
    "etiquetas": [
     "Jhon Durán"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "¡Regresa Linda Caicedo! Las 23 convocadas de la Selección Colombia femenina para enfrentar a Australia",
+   "medio": "Minuto30",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjhrc2RJZFpUN29Wd1ZSMWRLOWdRcC0td0NsZzZreExYTHZrUHc0b1BLc3J3bDV2Ujh4S0VsaXMxVndXWkZmUVRxbXpaMG9MazdMSldVd01CU2o0OHNyUmlEeV8zc3dZaGdNWkd3RHZJNkRHeU1vVnBPejdZU0kzVkdwakZsblVJdUtTNnNjS0liaUdLQmdBSkJJUnVWU05wRV9jMURFUFRDQ0JzZ0c1SWx5VkNxNlVDTGZWZlh1WFkyRkdjR0xSY1IzOTVBV00?oc=5",
+   "fecha": "2026-11-22T22:40:38.000Z",
+   "etiquetas": [
+    "Linda Caicedo"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "La selección Colombia femenina presentó su convocatoria para los amistosos contra Australia: Linda Caicedo es novedad",
@@ -1279,7 +2014,19 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Selección Colombia femenina enfrentará a Australia en amistosos: las convocadas",
+   "medio": "Futbolred",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOXBtWVNOWFJ0eHhmRHI1VUJnS3lHLVhHSnA5OUtjRnVGamVmY2lXTXNKM3c4dXlLVVRxbzRWRHhiNi1ZdHUyYm9nYkZ3YXhhalhSOHB4NGVXU0h1R0ZacDZkdlRQamxsMmI4STZCejFBbHJGd2pYSkpjTkVWR0lOLWtoN1IyZjlBbTE1S3FCaGNtakE3R3NwUWhoZklERnZwRDh4NDRZbklUVzNKSllHaHduRVg2dldCLVZTdHliMTV1TFNMVEUyQktYTlBoRGF0bEFCMlh4clc2NW9UVkHSAeMBQVVfeXFMT1JOVzlJWWtObm53Tk1YVlJjOVlKSmRybjg3RWJ4bzhMVDlOemdyYVVSSFdacS01MFJqVGtudnd5bmhUMGd2S0JmSkFFSkJVTE5qajZHRllYOGJNYzFmbWpTRTNXckVDbDA2MlhsUU9VMFpIaG5Hc3RHYW5RUDViOXhSVHBUWW5iYjV3MWs5NVBiNHZlaXlPdEx3R05HTjRQTUF0UWhxajZ5cGNKMndIQ1JYTS0tSi1fUENCc3V6X2lITk0xYVlwSG85a1EzUHlrcFo1bUwtZ3kzWnFJTWNjUXlfZVk?oc=5",
+   "fecha": "2026-11-22T22:24:36.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Convocatoria de la Selección Colombia femenina para jugar dos amistosos de alta exigencia y de preparación para el Mundial",
@@ -1287,9 +2034,11 @@
    "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMXBHalRmQWprWTNubUZFQ05vOEZlVVUwSFNtenVXT3R0el9sbU9EWGZ5cXQ5c1ZaR2hiY2JNZktsajUxdlhaMnJLYlV1azBIN0tIRldWMHJnWmZoZUx1eGpuTUpMWkdodzU3cGJ5dWx5RS1JT0xtdTd5c3k3UENWcHRTdzZzY0hvOGZhRExqZDExanY1N1JFRjNNUS1JSXVDczRnQmQxWHVkVWtkVzJwQWExVWlvVEd4MHVTUVMxX3I1RkJZMmtsLXlXRXQwd1JEVUpEN3FLX3JOMkNhSGlYdko0cnlzd1pXZVBUNkY3cjRKeE9VeUxtc3VEWXZWOF96NDRhUlMyQm5VekIwdzNoaUh6UdIBmAJBVV95cUxORktHZHFsc3F5MkxuNF9SSEt0OE14d0t3MUwyUHByV21Na2NBeExUVDM0MG9PUGY2aXZkbENxWWoxa1VBUlcweUNoLWZoYWhkWUFBQlA2S0x2TWIyci1kMC1PSmZVZXBLMTJILUJ5Si13LXptckxqdWpMekxVWDVCdldwa3pLSjJNY05FdjRQX0tSZ0ExaDFnNG5NVFVZLUJqOU5oWHpyNDlSNXJNUHNrU2hjdlVWaDluSF8zcllFbjhMOEdQb1FLMXNPdVIwLXlnVFJfdDJwUDdDOE05NFFKTzVSNjUwVUg3dDM3UEJ2N1lHbTVPMFlSb3hYV2dISUJMc3hrSGFYVTVWalhOcVdvVFdSaUhNcERI?oc=5",
    "fecha": "2026-11-22T22:14:58.000Z",
    "etiquetas": [
-    "Linda Caicedo"
+    "Linda Caicedo",
+    "Selección Colombia femenina"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Linda Caicedo regresa a la Selección: Marsiglia anunció las convocadas para enfrentar a Australia",
@@ -1299,17 +2048,19 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
-   "titulo": "Estos serían los finalistas de la Liga BetPlay, según nueva predicción: habría sorpresa con uno de los clubes",
-   "medio": "Infobae",
-   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWWpUX01DeExuVUFKaHk4a2k5MzVWQkxIWnU2RF9tQ1BlZ3d6NkxqOGNyZEkxMER1QlBmcE9VR3NVa1pGQ3liNk9qMUJJLTFWdUVWQ2dmZEZVR3hJSlp4a1c3TVByTmpVSURETDNsS0VGbE1zc0V3UE80X21oVlNmN01GalNJd1hMeWdld0VpQTAwOTJaUmJxR2dOTG14U2I5clJYLXUzMTRKMUtVSW1ZVEV3Rl85VDRSZG5DNU9udVd0SmpYRGFxcERibXFZa21nbE81R3lrOVM0R01JOWwyRW1NRnVONDAzZktVcWk3dTEtYWfSAY4CQVVfeXFMTlRfVDdkTzRBMW9MYzVJVm9sLV90elZwSWlBSFZ2REVpckVBSzdMazFmdDNTZThLWlNJdWZoWkl1d0ljSVk3ekpLQnNkMTRXSXM3RW1pZF90TmRjdzRyNWxpYXFTOWdka04yVFdLQUhaamNaSWxnMGpndEc0WmJUTlliR0tLeE5FcFJYMnZhal9ibmhpRTFwYWtNVnZ5cF9nbG91V3Q2WVRlNHI4NG5nR2VpOWExQUN6cXdpeERhQUV2OV8xalQxemJEVUtBelM3eTZCUWlnZGVYRGgxcE03dUFneWt6OFZ3dnNoMFdBY205dU9WVG02Y3ItQmVZaG50TG1uTkVMbjY0eDVUZU93?oc=5",
-   "fecha": "2026-11-22T22:01:00.000Z",
+   "titulo": "Selección Colombia Masculina Sub-17: Entre recuperación y táctica",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzhuS2lydnk5R0dBTnRFQXlnaXN4RURGWk00S2MyREhVbXhwZUdyTC1FWjgyakx2eUhNRTk3UnQxa2hFUXdiVlVkUHpTZFIzYUxoempOcTRFYi1JMGRUb21KclM3UUhFZzl3djh0blZ2SFVKenduUzRmLWo0TjhzTFU5M05TUEd1Z0g1Q2gtd2NLQmViQWtMQUZoNA?oc=5",
+   "fecha": "2026-11-22T21:42:07.000Z",
    "etiquetas": [
-    "Liga BetPlay"
+    "Selección Colombia"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Linda Caicedo brilló con doble asistencia en la goleada del Real Madrid ante Granada",
@@ -1319,7 +2070,19 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Colombia Sub 17 debutó con victoria ante Japón en el Mundial de Qatar 2026",
+   "medio": "Radio Nacional de Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkZnNWJuQllod2lqTDBlRjczQnFqVjRfeGFUejZKMWc5c2pxSDJvb2JxZGFudV85ZGVWRjFXSUVMNVhteUVjN3FHdTJHT28zRUV0TjlXMkNWNmFmRGh6UUZLZGpkVndKOUlrOW5sOTlvX0g5U085Y09Ya3l4SHIwSA?oc=5",
+   "fecha": "2026-11-22T20:43:25.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "La selección femenina de Colombia anunció sus convocadas para enfrentar a Australia",
@@ -1329,7 +2092,8 @@
    "etiquetas": [
     "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Córdoba no pierde el olfato goleador, pese a su ausencia en la Selección Colombia",
@@ -1339,7 +2103,8 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Cuadrangulares de Liga BetPlay: programación de la fecha 2 y dónde ver EN VIVO",
@@ -1349,7 +2114,8 @@
    "etiquetas": [
     "Liga BetPlay"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "¡Carrascal nuevamente campeón!: El colombiano alzó el Brasileirao con Flamengo ante el Palmeiras de Jhon Arias | El Colombiano",
@@ -1359,7 +2125,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Díaz alivia al Bayern y anuncia que está listo para dar una mano: 'Quiero jugar ya, estoy ansioso'",
@@ -1369,7 +2136,19 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Luis Díaz sorprendió con noticia sobre su regreso a Bayern Múnich",
+   "medio": "Win Sports",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3R5VmtNZ25XY1FNTmc1cW95RGxqX3BIN2k2OWI0YnNtYm9kS0MyZ0FwdWN3YzhXc0d2SEIxcHdFdE1CUW5nZ1l1S3EzN0xDSnl1azljTVFaWnJ5UHV2RTdrQ2JtbEhZNkl2YmlpUWgyWllZYnJOd3p0dTNMeGFnY3pwQ0szbk9yZWU3blR5Y2dvU1ctbkFycnpKOEZZdWN6ZmZlSUhtNS1LTXVwNU0zOE9wQ1dVNVZCeUhzOGRNWVZkdWkyREE?oc=5",
+   "fecha": "2026-11-22T17:17:07.000Z",
+   "etiquetas": [
+    "Luis Díaz"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Jhon Córdoba y Juan Cabal marcaron de cabeza en Rusia e Italia",
@@ -1379,7 +2158,8 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "La nueva camiseta de visitante 23-24 del Club Brugge",
@@ -1389,7 +2169,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Acá el gol de Jhon Córdoba de cabeza en Dinamo Moscú 1-1 Krasnodar, en la Liga de Rusia",
@@ -1399,7 +2180,8 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Video: Juan David Cabal anotó un golazo en triunfo de la Juventus",
@@ -1409,7 +2191,8 @@
    "etiquetas": [
     "Jhon Lucumí"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Macron y el Crystal Palace FC presentan la equipación local de la temporada 2025/26 | Acerca de Macron",
@@ -1419,7 +2202,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Daniel Muñoz logra en Portugal su primera victoria en Moto2 tras una bandera roja",
@@ -1429,17 +2213,30 @@
    "etiquetas": [
     "Daniel Muñoz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
-   "titulo": "Daniel Muñoz suma su primer triunfo mundialista en una carrera accidentada y sin el líder",
-   "medio": "Infobae",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdURmJuVlJZd3BKMENoaEQ0SF9ZVndfRzRZdWF6YWxHNjBqMEJuM051ODVGdkpEVG5JMHZzWUxndktDaTlaTWNDdGMtZFJNTkctSVBPMm8tOVNXcnE0eUp1UlRxN0xPWUlMZ0ItNVZDaHNTeGV2cmt5X211TkdXY211ZlEtcFhlOGNmOVljTmtXUW43VS1FMDUtUkpMZFNtakpGcVZ3aVd6SUcwbG9NZUw3WW5LQk9uZ0g2dmtydDllelZQd3c4blhaUEN1b0RhVnJyQlJsaHTSAfMBQVVfeXFMTS1HeTFLaEw1THJTTzRXalpyVkZaSU9UaVpmcm9YQm5VVUZVWGlIRHdNLTRlcXB5MDJfbGVmd2Q0UDBQbGNNZ3pUZlFSZjZIblJBSlVneDB3SHZrUFRhNkRpeW9UcGpTQ0I1LWtidGdWZUp3Y3pLTnkyYVhUT1FsdEQzX29lNjRidV9oSUZ1TVpQUXNQLUp2bkswN2ZNb2JMNm45QUdzdXNfT2tTQVVack9iOVhsVnVXa1BDNGJ6OWMxb0xyUnJVWHJxT3NZR3hucGhfZW5uMkRUUnlfTEpaMVk2dldWRTNxUWhJY2NlMHJWQ0lF?oc=5",
-   "fecha": "2026-11-22T12:30:00.000Z",
+   "titulo": "Ipswich Town 1-1 Nottingham Forest: resultado, resumen y goles",
+   "medio": "AS Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVVMczRSQmQ0alAzX0hWYkRRTlJzcTlLUVNhdFFERE44WW5ReEZvQU5wQVJZd2trX0VBeFRFQUhvNW1EdUxVNDR3N3pFQUducGNQanBwUnVFSFd6OFJqTlNPRUJJaXBmdGN2WVYzdFN6LUhEa0RjTlVOYndNT0M0V3BCRDhUMjNYNE50M1JQNWhUNDd2NEVIRWpLZmxOWFRp?oc=5",
+   "fecha": "2026-11-22T10:09:39.000Z",
    "etiquetas": [
     "Daniel Muñoz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Un toque artístico en la nueva camiseta de visitante del Club Brugge",
+   "medio": "About Macron",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbV9BLWt3QlF0WU5ybDlsX0ZBQ3g0TWdZRFg5OHRFdjNhdFR3Q0twR1B0bkJ4ZjlOcWlTbVhjOUptQ0NFenZhZWxmUGUzbVdoakN4SFBJeTVZc2RCVjIzVFlJTGUtXzBodXRaTG9mT0Q0MlpfSU5Idk5teVpWVTFUZlZjM3ZOcmpZQ1NPT0hBNFdGRUZQakZhaUU2QXJYTGtwWHc2YWo2LV93NWt0VkNTZHBmZ09Xa3dnWFZCcm9wOTB3dktUenRz?oc=5",
+   "fecha": "2026-11-22T08:00:00.000Z",
+   "etiquetas": [
+    "Camisetas nuevas"
+   ],
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "MACRON Y EL MELBOURNE VICTORY FC HAN PRESENTADO LAS NUEVAS CAMISETAS DE LA TEMPORADA 2021-2022",
@@ -1449,7 +2246,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Identidad, orgullo, pasión e historia en la nueva equipación local de Macron del Bristol Rovers FC",
@@ -1459,7 +2257,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Jorge Carrascal le ganó un título a Jhon Arias: Flamengo se coronó campeón del Brasileirao",
@@ -1469,7 +2268,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "El colombiano Jorge Carrascal es campeón del Brasileirao con Flamengo, tras derrotar a su compatriota Jhon Arias de Palmeiras",
@@ -1479,7 +2279,19 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Colombia Sub-17 se enfrenta a Honduras en un duelo decisivo",
+   "medio": "PrimerTiempo.CO",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXN6ZTRzOFdMZ21Wd2NVUExTd0gzYkREMWpMYmdlLTg4ejJYWVNYdFN6bGhpT0h3YlljOXI4cnducFVGY3ktTkRQVXVnZFdiWnJBX09paVpGY1Y3aW9xQUU2Q3NqWmNIMkNkWElrUjBPdTdPODFscjRFTlNpLTBfa294YW4wY2R5ektBaGZfTGMxSFBmT2c?oc=5",
+   "fecha": "2026-11-22T01:28:15.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Díaz (FC Bayern München): biografía y palmarés | VAVEL",
@@ -1489,7 +2301,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "BOMBAZO: Junior de Barranquilla ya tiene su primer fichaje para el 2027",
@@ -1499,7 +2312,8 @@
    "etiquetas": [
     "Mercado de pases FPC"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Golazo de Jhon Arias no evitó el campeonato de Flamengo: Jorge Carrascal se corona en Brasil",
@@ -1509,7 +2323,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Jhon Arias lo lamenta, Jorge Carrascal celebra: Palmeiras cede ante Flamengo y se despide del título del Brasileirao",
@@ -1519,7 +2334,30 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Fecha, hora y rival para el próximo partido de Colombia en el Mundial Sub-17",
+   "medio": "Colombia.com",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUC1xbWZudWYza01oekpDdU9OY01MVVJOc0pzb3lKdTk4eDVkaTNfb1FfS2RUcXRXZXNEcVNfdkFRTVdaNjQ1Wm9PSVpldGRfOWV0enhCeUJaSzV2eHpUam92OEJEbDJQd2ZqWWdWZk41S0plaWJucmxkSTIyN21ZcGR4aUpORnlGNXJCZXZnQkFQSWpNTjRZMWFCOWc3UkZxUUhYQTI1bTJEZmI0SzlKbmdn?oc=5",
+   "fecha": "2026-11-21T22:20:33.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Bournemouth - Nottingham Forest, en directo | Premier League",
+   "medio": "Mundo Deportivo",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGtwZ3UtVjNrMVNiYTZoNjFyN3cyS05aYXhNQ0pSQWt4VFdscXo2V1hfLTl0d1dCbFdOSmlWQUFJeDQ3WkdyOEZKczAzMEpXQzFpNTdyRi1ubml4MGVyTTIwQ2h5RVU1dVFyRWNoeldybWxwSzFUbG1oSERZNnFhSHRKTlhfeVNvVjF0dWdISDF3eHFhcE1oT2JIajBVdm5odlU3MkI0MGkwUHZnbFpXSTFxMVRWcDNKNVE3UDdZVHd2NFpFRXJRYTV30gHXAUFVX3lxTE1wZGlMTFBWbkJibEtzQ0VGR0RmejJ1NUhoTHQ1UDA3ZGp3ME9wQWtJSzlaY3lJNUtWMmJUb0FSeTl1TjJDZDA3T2FpM01tVUdENEtrNkMwa2oxUTVaMW9RVUFOUWxocXFDVFlRdGRBam4wVUcxOXdpSUN5aTAwakltTFAxQzhFWklIQVkxeGEwUVB6b3Q0M3JZSnpUZ1ctUDFIS1dLWW5BUEp5Z0g3Y3A2bEVDN1dvTjlMaXR0Vk1mLS1DMjZid2JJSUd3YUc0RURDbVlIMXlJ?oc=5",
+   "fecha": "2026-11-21T22:06:03.000Z",
+   "etiquetas": [
+    "Daniel Muñoz"
+   ],
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Video | Jhon Arias martilló contra el suelo para el delirio de Palmeiras y la tristeza de Flamengo",
@@ -1529,7 +2367,8 @@
    "etiquetas": [
     "Jhon Arias"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Coventry City - Crystal Palace, en directo | Premier League",
@@ -1539,7 +2378,8 @@
    "etiquetas": [
     "Jefferson Lerma"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Tabla de posiciones en Premier League: Manchester City y Arsenal tropiezan; Chelsea sufre goleada",
@@ -1549,7 +2389,19 @@
    "etiquetas": [
     "Jefferson Lerma"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Samuel Martínez, gol con la Selección Colombia Sub-17 y festejo con su barra propia",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVNGZGVMQ3ZrdXE2a2FnZEJBVVMzWFJIeVB1U09sX29FR3FfSTN5cW01RHJ6Y18wcmJZajhYbGRQYkVQc0JGWC1XQ19tZnhuME5nS2FBQnF4aFFjMHFVNHdKdy0tSkRlSGp2Vm5TQk9PZENrbnZaaVFEZTNqbGVmVk5ObnRyNE1UQ1ZyRXo0VFAtYWVBOTBPOGRadjJmaXNuNFdHUVdLX1R6MW44RUVHODA2Nlg5cGJEYk1PellhWHpVMmFGeVZfeTdSYnd2Ql9vZ1NWWUF2N3F5elRObTRVa2JXd9IB8AFBVV95cUxOWmpnT2w0X001bzJJTXR1NlJMMWlNT2ZzTkduMThNYUkzMHczaTdHVi1QQ3BwUDFTblh1c09lSTdveElTOTRfY0VsWDd3STJ6N0hvNXd1STFQYmk3R1FSMTk4MFNmUmxBU1pWX3JfSW0tX1gwLWpPekMxLXFBUWZ5Qk5BNWNTbUZ4WktrYzViaC1adDlQVGp1V0h0YmRQVkhmbXV1aGtzTS15SUYtRkZKV0gzaU82dnpHS0ZRcmZ3TDRyTXBQTnZMWlFsdFJtc3hPbmJWZGJhOVBUcnhxUHdGYmJ0SnNTdUNweGd2RVZJWU8?oc=5",
+   "fecha": "2026-11-21T19:09:34.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Representante de Juan Fernando Quintero desmintió que el colombiano quiera regresar al fútbol argentino y afirmó que está contento en Medellín",
@@ -1559,7 +2411,8 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Nottingham Forest no levanta cabeza y Daniel Muñoz siente la presión del descenso",
@@ -1569,7 +2422,63 @@
    "etiquetas": [
     "Daniel Muñoz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Así quedó la tabla de posiciones del grupo L, tras Selección Colombia Sub-17 2-1 Japón",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLVFFcFFFR2NIREpHRlRjRWk3SXVPZmVpLVUzblJlc09EaE1FMGIzdFgxRDNINU9qeUxpVWxxR1VtWkpDVlltVDJPdDZuNFBkWWdnajRkeGo0Q1BCQ0FjOUhreHM3ajQ4UzBIU1JPdloxM0ZOdVF4UjhaLVloRm1mS0tyN0pqOHIwdzVkclgtVHVKQnljV1dWNmJLVk93c0ZJMG5fcDYzZkNUeGFHeUM1d19kS2JUakNteXFwa0VyWkxIQWRKNDlrd1BGZ1g0XzljUER4N2NzbUptTmEwSHQyU3poWkJ2WjjSAfQBQVVfeXFMTWRCT2NsY3RlZlRsRGN2M3llQ2k1VzdVMzlnRzV4NFJPeU9lU1F1WGxGTEdERlRueDJqamdiT18zYWI5a2dPdnNvbUZNQ3AxUU9NMWNBOEFacl93Z1lLYmVUdkd1eU1jbk1mTzlHb3JBOWFzaDJFZm5GZWQxWURoRDZ2bExNSFppSVdiR01rOTNpemktZ3g4WUI4aEo4MS15R0t1U2R3QlBDVFhKWEdSd2dXUVU2aUY4V3NQVEhBaV95eXlUQmIyWWZZRWRydzlSYkNhYUNCLXI1a2E3akNidFpMWHZfeXlwdHk3NHlpQm4ya19MVA?oc=5",
+   "fecha": "2026-11-21T17:38:42.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Masculina Sub-17 debutó con triunfo ante Japón en la Copa Mundial de la FIFA Qatar 2026",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZG0wUXNqRXV5dTBQQ3RvVEpiWEVobFI2cXZHbVpnc3pYRU1jMGVrSDcweU5TY1ZzdmowWjRvTHNRZndiMDJkUHVMSzV2NmN6Ty1MMGo3R0hBQzhVWU1DUkVmVEQ1S3VETHl4d2lPcjdxSXRCVUY5Y21lTUhRSC1oS2dpSlZQbjVjdXVOWVRRTlRWbUZvR3Jsc2poXzY0TXFaaFlFem0wTF82c3ZyVnZyVXRYYmwxbTlta2VEckc1anRKX2dLWHJPQ3dVTG9MZ2ZFTEYwdlpsdw?oc=5",
+   "fecha": "2026-11-21T16:36:13.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "El bendito minuto 90: Colombia marcó agónico gol ante Japón en el Mundial Sub-17",
+   "medio": "Colombia.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWVCNFFZTXJJREdHaVVOTHNLRVl6bWtlb0lDcFRYanJkbDZQVy1ub2lxQlFXVW0zWkdTY00tYWRiNzFRR1pISGJBdWRfNkJpQ1VkTE1PQ0lyOV9GLXl1SDdaNG5IUXktd2F4dkc4Qk43cXpZaHZMQzhfN2RxTG1Vb2tiY0t1aXpXUGx0WE9sMkd5WDlmREY3b1dNVm5uRTh3aEhEQV9VTnVCbElKUS1zckR0ZC03a2JqX0E?oc=5",
+   "fecha": "2026-11-21T15:20:57.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "Con gol agónico de Samuel Martínez, Colombia sub-17 venció a Japón en el debut mundialista; vea aquí los goles | El Colombiano",
+   "medio": "El Colombiano",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDB2MjJHMlNhcVU0d1VRNUVxVXNBX3g3UjZUdUdCUk9zUU5KeDJGR3h5YkhvcWEydkg3emxWZi1LVWRCNjlfWEpTODhPaldXMmpWLXFYTXQ5dmZGUzhNXzE0eDN5S2dpdWl3RXNib2tSYjdrcjRPMjA3Ym45eGozaDFTcFFjUTFZWW9tRDNESU83TmxuaXZMcmtZdUJ1czg5OEF0SWNHMGhEUjdLVEo3WWh4a9IBuAFBVV95cUxONk0xM3h1SXpQRGxGdUR3WVFyWmt5dmt0WUVfQU5MbnZOWFhfM3VlN0pwVm52OXJxTTA5QlE4M2tmWW0xbDllcnlnX2dCR1pVYWZKY0ZIX0xzWjNtZU1UQzcyaDlqbXhPeTdLMFR0ZnZGTnZpajFBQXJWLVFCaUdlX2ZXVHN3bkE2R2dIZ1dHeW9ROFN3VHFTc1MzQ1VqUXRJUWh0bzQwdXNxbEtWcnYxWU8tZXgxVkJt?oc=5",
+   "fecha": "2026-11-21T15:19:26.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Sub-17 debutó pegando duro; 2-1 sobre un duro Japón, en el Mundial 2026",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNjg5SWxXTFhPcUFFVXYxclBNNHRvLVhLaUNXZFZrMmw3Qzh0cU45Um5SNTZ2TzlMT3FrRmF3MXYxVDlaSDJCNXBxTjlTMk5nZmJmN2VhZHhrWENkUExDdHI5dlE1dlBVLVN1cVJTb3NjTzVUQ0xtVWxiN0ZpaklFN2JsdW5tR2FMSHB1eERrcVhLZVlZSHBXRm5JUEh3VTlNOXd6WFc0MEE1Z083OTFzY1lOSEJDbWxaUF9hMVRWRmNyTldSUy1vbjZaTHg5RlV2OHB6ZktiazhiOHRpcXRnWFRadUQ3SGxvdU9VemNFSQ?oc=5",
+   "fecha": "2026-11-21T14:35:07.000Z",
+   "etiquetas": [
+    "Selección Colombia Sub-17"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Juan Fernando Quintero volvió a sonar en cercanías de River Plate; ¿se alarman en el DIM?",
@@ -1579,7 +2488,19 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Nómina de Colombia Sub17 para el debut en el Mundial vs Japón Sub17: quiénes son y dónde juegan",
+   "medio": "365Scores",
+   "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1cnV4R05jemo1dWJGbVJXUHlzQUNqSkJaSHVRaFdmcDU1emZfSlRVVWNEc1NiWTJQWGlGdld1MlgtbWNtTzgxalZzNEswaWdtMHJTblh4ZkRxU2NTV2ZQWjJXR3pMalM0dExiTFdmc0tNQU5sZzRFR2RldUcxQQ?oc=5",
+   "fecha": "2026-11-21T12:00:20.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "América de Cali vs Millonarios",
@@ -1589,7 +2510,8 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Primer fichaje en el Junior de Jorge Bava: volante de experiencia sería oficializado pronto",
@@ -1599,7 +2521,19 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
+  },
+  {
+   "titulo": "A qué hora juega HOY Colombia vs. Japón en el Mundial Sub-17 y dónde ver EN VIVO por TV",
+   "medio": "Noticias Caracol",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcWVJVk9VZE1vdnNYYzcxUG9SbVlBOWtjcnVTR1lhNWJvcno0OHFLS2kxSGNxVDVjSlNvaUkwYkhyY1M5ZVkzVzBqUnZXYmJMbXVtZGZuZXZ3TmhRbm5xQnJ1UlpqOUlxUEI4dVZUNzVvZ3dVM0VNYndQMkN0V1UtRUQ2VkpCVzMxYlRORUY4eEtiSEVPS0hWNDNHQVR6SUltckhFcGgyQmJhMzFuMUl0N3hBTThYbWIzTzNOdjBsUVJScVVET1hTX0d5ZjZ2enUwOHhEc29DREhOaTNwelpDNFJLSTRUQW9w0gH2AUFVX3lxTFBjOG42MHNaT3ZWejdmVC1FSHl4d2M4eDR5cnB6TGdxLWFHY1paQktOLXNQaGVjVFVvdERlcWVnWGJTWUtZNXM4ZnRlV2Rva19ScHhRUjFCaEJCU3hyczZ0amNUVXRmTDU5VUY4eWFMdTNtUlcxVmo5MTU1UFQ3cWJnOXhKNjhUaEJiOC1VUzZCeHlrMmIwVTV1ZlB3aU44a1p5bFgybGg4ZkFBby1yTFRKcFowRE5KWGdzQXRFeXF6aEdIWVVBMXpFUkZ2dzlLMllsR2tRQzU2dGtZbW8yRE9OT1M4QTNWTHpGS1dVZjc3ZGdfOUlXUQ?oc=5",
+   "fecha": "2026-11-21T05:52:15.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Una camiseta del Iberia, antecedente del Real Zaragoza, a la venta por una cifra astronómica",
@@ -1609,7 +2543,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Macron y el FC Viktoria Plzeň presentan la nueva equipación local para la temporada 2026/27 | Acerca de Macron",
@@ -1619,7 +2554,8 @@
    "etiquetas": [
     "Camisetas nuevas"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Niegan insólita versión sobre otro regreso de JuanFer Quintero a River",
@@ -1630,7 +2566,8 @@
     "Juan Fernando Quintero",
     "Mercado de pases FPC"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Luis Díaz suma otra nominación a los Globe Soccer, pero Falcao y James aún tienen algo que él no ha ganado",
@@ -1638,19 +2575,35 @@
    "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOODBfQWx3WU90eUVTeFlVMWZQcG44WHpZUzg5Si1UbWJQN2pFRjh4QWtkNk15WW9KTzlPVV9zOEhnZVBEOXBlZlNzRVVRY0ZZeFRiSllSMDJjSHloQVQ0NExSSEplRHA0ZnlfTktRaXRRSDYyWTAyMXJVVFV1WkRoTmN4RFE1OGJRMU5JZnJvSU9SM190TzlkODRLVnBSb2REZi1TWXV1cF9wbGpVTGF5czlfdlRZNkh2YWN2MVpDSWx1alFMUmtFaTF4RHRaR1M1N3M2US1OaFoxVVdUcXNlOVh4cXpZWVE4NFd3UWp6QmpWcTA?oc=5",
    "fecha": "2026-11-20T22:30:01.000Z",
    "etiquetas": [
-    "Radamel Falcao"
+    "Radamel Falcao",
+    "Linda Caicedo"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
-   "titulo": "Atlético Nacional va con todas sus figuras a Manizales: James lidera convocatoria",
-   "medio": "Futbolred",
-   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOWY3STh6WG52YXBhVlJjSEZZM1F0blo5N08ySWxZckw0MV84VTR0WThKUWZneFpZbzh3TGhoMkhzaEExYklUdFI5Z2VhTnJTM3ViZUhfZjRRS3RwQ1J0OFo1OTdYRFZrT1ozUEZQZ19MalQzMkdMUTRyZU1uTDNqZS1JT09RRFpRYWtBWHQxM25PZ3VPVmVBMDRWZlN5ckF1TDI3TkUxZ01wU1B1Vkp0c0F2bjczQUdfbjZFMkl3OFB5SVZ5T2tRLUlfRS1XcVlCUVpVS1YxbUVSX0RTcDJjeEIwV0FXNHZSc0xR0gHwAUFVX3lxTE9kN0xFOEgzckY4TWFqVHZ1alBPRHZpZ3kyc3FmUzRlcUdWQ1gtaE82bF9qSEZvVzQxRzZ3UXBxVzNUMHlCd0Z5c1k3cjJuV2NkekZQWll0ODF0cEtsR0RzMkVMWVNZYzk0b1BPM0tOX2I5WU9haGM3azlUNVVDX2NvV01URUhHVUFsLXVMWEVxQ19XbzlhNG9NQTl6OFZsNEJScUtpX3dkWnBEV0FvcGl4OXhvLW1sZzhPUXg0Wk9HdURRRWtVNnRrckwtTkgtM1EyU3JFX0pCc1ozVkdsdks1dGZ6S2Rfb2tqMXI0V1lPcQ?oc=5",
-   "fecha": "2026-11-20T21:29:43.000Z",
+   "titulo": "Convocatoria de la Selección Colombia Femenina Sub-17 para microciclo de trabajo – Noviembre 2026",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUZnR1hrQTR5R25GWVZXR0RxUXlKb3NiNmpjOWZtYVhZaThwb0VzN0ZGTkZZNGxuTUpoRmswZW85QmFHVGI2emVxcC0zbVRJYnJiZWV6ZHd0X21CbWFFZGlaTkd2ZS15cTNKNWRrbVRIcGk1Nzc1N25vRmxTN1hDeGVJdTNqUDBPeDF2cV8tYUlTQUlqeVIwaUZINjBrMktpeEtCdEN5MW54T2FCOTNFY1FQLWhYbXRMX1k1UTR5TEh0Rmxf?oc=5",
+   "fecha": "2026-11-20T21:26:49.000Z",
    "etiquetas": [
-    "James Rodríguez"
+    "Selección Colombia femenina",
+    "Selección femenina juvenil"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
+  },
+  {
+   "titulo": "La Selección Colombia Femenina Sub-17 adelanta su segundo microciclo de preparación en Bogotá",
+   "medio": "Federación Colombiana de Futbol",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbXhiUzA0dG9kWkk5SVFOeGl1bDhQNExESHZ6WGpzVGVBVkFqdXRZRVNXdlpsTk9nanNkZTBoNDFyS1JZZVp0ZHNCU1N2R3FtT0RlOEFzRFNBV2FiX0diMlVoTFM3T3VyV1VrM3kzQTJPSXQxZW5LaTZaSVVYRFBUY013cDBwOEEzNGlfM2NtSExpdF90dDZsT0ZmbU1tdWhYejdOOEtVRlNReG9NUFNKYWZLYk95T2otckt3bHh5R2luUQ?oc=5",
+   "fecha": "2026-11-20T21:16:13.000Z",
+   "etiquetas": [
+    "Selección Colombia femenina",
+    "Selección femenina juvenil"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Luis Díaz compite con Kane y Olise: el Bayern también disputa los Globe Soccer",
@@ -1660,7 +2613,8 @@
    "etiquetas": [
     "Radamel Falcao"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Juan Fernando Quintero fue relacionado con River Plate y su representante aclaró su futuro",
@@ -1670,7 +2624,8 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Bayern vs. Colonia: ¿Por qué no jugó Luis Díaz y qué se sabe de él?",
@@ -1680,7 +2635,8 @@
    "etiquetas": [
     "Luis Díaz"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Dayro Moreno, a la caza de los 400 goles en los cuadrangulares",
@@ -1690,7 +2646,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Representante de Juanfer Quintero responde versiones sobre su regreso a River Plate",
@@ -1700,7 +2657,8 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "I. Córdoba 3-1 Talleres: resultado, resumen y goles",
@@ -1710,7 +2668,19 @@
    "etiquetas": [
     "Jhon Córdoba"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
+  },
+  {
+   "titulo": "Colombia vs. Japón, en el Mundial Sub-17: hora, TV y dónde ver el partido de la selección",
+   "medio": "El Espectador",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUENfNVA4OUJPNG90MEtGajFNSnJ2RG1DeHBCQm1vLTR0ZHdpZzVIdVRfNGVqdXh2YVBoNkg5RFg3bFl5eGZKUXFud0ZxS3Nha2hweFJXbXk1d2dfcXFyWmlwQTgyTXZiMkVBY2E1YUNMT0NuWHIzNjVPdDQ1eWZtdEE1NUFTbDRGSVAyb0RCd0FLYXlScDI3YndXRXDSAbABQVVfeXFMTnJZZDZmT04wQ19Ca2VWZVRkM0JoTFJ2WFpNOTlFcjI2N3hSWkxGemN4Y2dPSDhkbGdlbE5TLTVtcksxV0F1aXlNSnFiOU14Q0JZMGFmNk5ZbmdJYnE1Snc2ZWRmM2poOURrdUxpdzVfLUlCcjVLcG1MX3k5ZXlyc3NKWm9DUEZHR0FvOXJ2NXhKamkwZWctVG9fQ3ZnaUlVYVdMdmpQbUNDT2o2WU5CSUo?oc=5",
+   "fecha": "2026-11-20T17:57:00.000Z",
+   "etiquetas": [
+    "Selección Colombia"
+   ],
+   "fichaje": false,
+   "prioridad": true
   },
   {
    "titulo": "Juanfer Quintero: respondió su representante por salida del DIM para volver a River Plate",
@@ -1720,7 +2690,8 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   },
   {
    "titulo": "Millonarios evalúa fichajes para 2027 mientras disputa los cuadrangulares: jugador de Junior aparece en el radar",
@@ -1730,7 +2701,8 @@
    "etiquetas": [
     "Fichajes colombianos"
    ],
-   "fichaje": true
+   "fichaje": true,
+   "prioridad": false
   },
   {
    "titulo": "Representante de Juanfer Quintero aclaró su futuro ante rumores de River",
@@ -1740,7 +2712,8 @@
    "etiquetas": [
     "Juan Fernando Quintero"
    ],
-   "fichaje": false
+   "fichaje": false,
+   "prioridad": false
   }
  ]
 }
