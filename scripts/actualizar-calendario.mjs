@@ -20,7 +20,7 @@ const bloqueado = (txt) => bloqueados.some((b) => sinTildes(txt).includes(sinTil
 
 async function traer(url, tipo = 'json') {
   const r = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (LF10 calendario)' } });
-  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  if (!r.ok) throw new Error(`HTTP ${r.status} ${(await r.text()).slice(0, 160).replace(/\s+/g, ' ')}`);
   return tipo === 'json' ? r.json() : r.text();
 }
 
@@ -46,6 +46,14 @@ const FASE = /final|semifinal|cuartos|quarter|semi|play-?off|cuadrangular|octavo
 
 // ---------- Partidos (ESPN) ----------
 const partidos = [];
+if (process.env.DIAG) {
+  for (const u of ['https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard',
+                   'https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard',
+                   `https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=${ymd(diasDesde(3))}`,
+                   `https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=${ymd(diasDesde(0))}-${ymd(diasDesde(13))}`]) {
+    try { const j = await traer(u); console.log('DIAG OK', u, (j.events || []).length); } catch (e) { console.log('DIAG FAIL', u, e.message); }
+  }
+}
 // ESPN no acepta rangos largos: se consulta por tramos de 14 días.
 const tramos = [];
 for (let d = -(cfg.dias_atras ?? 2); d < (cfg.dias_adelante ?? 120); d += 14) {
