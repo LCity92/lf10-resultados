@@ -46,28 +46,25 @@ const FASE = /final|semifinal|cuartos|quarter|semi|play-?off|cuadrangular|octavo
 
 // ---------- Partidos (ESPN) ----------
 const partidos = [];
-if (process.env.DIAG) {
-  for (const u of ['https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=202612',
-                   'https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard',
-                   'https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard']) {
-    try { const j = await traer(u); const c = j.leagues?.[0]?.calendar || []; console.log('DIAG OK', u, (j.events || []).length, 'cal', c.length, JSON.stringify(c.slice(0, 3)).slice(0, 200), 'last', JSON.stringify(c.slice(-2)).slice(0,150)); } catch (e) { console.log('DIAG FAIL', u, e.message); }
-  }
+
+// ESPN no acepta rangos de días, pero sí meses completos (dates=AAAAMM).
+const meses = [];
+for (let d = new Date(Date.UTC(diasDesde(-(cfg.dias_atras ?? 2)).getUTCFullYear(), diasDesde(-(cfg.dias_atras ?? 2)).getUTCMonth(), 1)); d <= diasDesde(cfg.dias_adelante ?? 120); d.setUTCMonth(d.getUTCMonth() + 1)) {
+  meses.push(`${d.getUTCFullYear()}${String(d.getUTCMonth() + 1).padStart(2, '0')}`);
 }
-// ESPN no acepta rangos largos: se consulta por tramos de 14 días.
-const tramos = [];
-for (let d = -(cfg.dias_atras ?? 2); d < (cfg.dias_adelante ?? 120); d += 14) {
-  tramos.push(`${ymd(diasDesde(d))}-${ymd(diasDesde(Math.min(d + 13, cfg.dias_adelante ?? 120)))}`);
-}
+const minFecha = diasDesde(-(cfg.dias_atras ?? 2)).toISOString(), maxFecha = diasDesde(cfg.dias_adelante ?? 120).toISOString();
 async function eventosLiga(id) {
   const out = new Map();
   let fallos = 0, ultimo = '';
-  for (const t of tramos) {
+  for (const m of meses) {
+    const base = `https://site.api.espn.com/apis/site/v2/sports/soccer/${id}/scoreboard?dates=${m}`;
     try {
-      const j = await traer(`https://site.api.espn.com/apis/site/v2/sports/soccer/${id}/scoreboard?dates=${t}`);
-      (j.events || []).forEach((e) => out.set(e.id, e));
+      let j;
+      try { j = await traer(base + '&limit=500'); } catch { j = await traer(base); }
+      (j.events || []).forEach((e) => { if (e.date >= minFecha && e.date <= maxFecha) out.set(e.id, e); });
     } catch (e) { fallos++; ultimo = e.message; }
   }
-  if (fallos === tramos.length) throw new Error(ultimo || 'sin respuesta');
+  if (fallos === meses.length) throw new Error(ultimo || 'sin respuesta');
   return [...out.values()];
 }
 for (const liga of cfg.ligas || []) {
