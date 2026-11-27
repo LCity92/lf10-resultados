@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-27T17:11:52.179Z",
+ "actualizado": "2026-11-27T17:13:57.117Z",
  "errores": [],
- "total": 503,
+ "total": 501,
  "eventos": [
   {
    "id": "espn-col.1-401877953",
@@ -2465,17 +2465,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "m-fem-aus1",
-   "fecha": "2026-11-28",
-   "hora": "03:30",
-   "tipo": "seleccion",
-   "competencia": "Amistosos femeninos",
-   "titulo": "Australia vs Colombia (Selección femenina de mayores)",
-   "detalle": "GIO Stadium, Canberra · amistoso rumbo a Brasil 2027",
-   "prioridad": 3,
-   "fuente": "LF10"
-  },
-  {
    "id": "espn-fifa.friendly.w-401914355",
    "fecha": "2026-11-28",
    "hora": "03:35",
@@ -2885,17 +2874,6 @@
    "tipo": "lf10",
    "titulo": "Inicio de expectativa del aniversario de LF10",
    "prioridad": 2,
-   "fuente": "LF10"
-  },
-  {
-   "id": "m-fem-aus2",
-   "fecha": "2026-12-01",
-   "tipo": "seleccion",
-   "competencia": "Amistosos femeninos",
-   "titulo": "Australia vs Colombia, 2.º amistoso femenino (fecha y sede por confirmar)",
-   "detalle": "Tentativo: FCF anunció un segundo partido a inicios de diciembre",
-   "prioridad": 2,
-   "tentativa": true,
    "fuente": "LF10"
   },
   {
