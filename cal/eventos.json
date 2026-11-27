@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-27T14:56:40.909Z",
+ "actualizado": "2026-11-27T14:59:04.698Z",
  "errores": [],
- "total": 347,
+ "total": 333,
  "eventos": [
   {
    "id": "espn-uefa.champions-401915378",
@@ -11,7 +11,7 @@
    "competencia": "Champions League",
    "titulo": "Sabah FK vs Barcelona",
    "detalle": "Baku Olympic Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 1-4",
    "fuente": "ESPN"
@@ -24,7 +24,7 @@
    "competencia": "Champions League",
    "titulo": "Slavia Prague vs Villarreal",
    "detalle": "Fortuna Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 0-1",
    "fuente": "ESPN"
@@ -37,7 +37,7 @@
    "competencia": "Champions League",
    "titulo": "Atlético Madrid vs Viking FK",
    "detalle": "Riyadh Air Metropolitano",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 2-0",
    "fuente": "ESPN"
@@ -50,7 +50,7 @@
    "competencia": "Champions League",
    "titulo": "Club Brugge vs Liverpool",
    "detalle": "Jan Breydel Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 0-3",
    "fuente": "ESPN"
@@ -63,7 +63,7 @@
    "competencia": "Champions League",
    "titulo": "Internazionale vs VfB Stuttgart",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 2-0",
    "fuente": "ESPN"
@@ -91,7 +91,7 @@
    "competencia": "Champions League",
    "titulo": "Paris Saint-Germain vs AS Roma",
    "detalle": "Parc des Princes",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 2-2",
    "fuente": "ESPN"
@@ -104,7 +104,7 @@
    "competencia": "Champions League",
    "titulo": "Shakhtar Donetsk vs Fenerbahce",
    "detalle": "Stamford Bridge",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 0-1",
    "fuente": "ESPN"
@@ -147,7 +147,7 @@
    "competencia": "Liga de Argentina",
    "titulo": "Boca Juniors vs Independiente Rivadavia",
    "detalle": "Alberto José Armando (La Bombonera)",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Adidas en inventario"
    ],
@@ -203,7 +203,7 @@
    "competencia": "Europa League",
    "titulo": "Olympiacos vs AC Milan",
    "detalle": "Georgios Karaiskakis Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -250,7 +250,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "Final: 4-1",
    "fuente": "ESPN"
@@ -290,21 +290,6 @@
    "detalle": "Descuentos hasta el lunes 30 de noviembre",
    "prioridad": 3,
    "fuente": "LF10"
-  },
-  {
-   "id": "espn-ita.1-401875004",
-   "fecha": "2026-11-27",
-   "hora": "14:45",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Venezia vs Bologna",
-   "detalle": "Stadio Pier Luigi Penzo",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
   },
   {
    "id": "espn-col.1-401936055",
@@ -594,7 +579,7 @@
    "competencia": "Premier League",
    "titulo": "Arsenal vs Manchester City",
    "detalle": "Emirates Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -609,7 +594,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs Bayer Leverkusen",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -626,7 +611,7 @@
    "detalle": "Giuseppe Sinigaglia",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -739,7 +724,7 @@
    "competencia": "Serie A",
    "titulo": "Cagliari vs AC Milan",
    "detalle": "Unipol Domus",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -857,7 +842,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Leeds United",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1037,21 +1022,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "espn-ita.1-401874984",
-   "fecha": "2026-12-04",
-   "hora": "14:45",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Bologna vs AS Roma",
-   "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
    "id": "espn-por.1-401885376",
    "fecha": "2026-12-04",
    "hora": "15:15",
@@ -1104,7 +1074,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "Santa Clara vs FC Porto",
    "detalle": "Estádio de São Miguel",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -1119,7 +1089,7 @@
    "competencia": "Premier League",
    "titulo": "Brentford vs Manchester City",
    "detalle": "Gtech Community Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1134,7 +1104,7 @@
    "competencia": "Bundesliga",
    "titulo": "Schalke 04 vs Borussia Dortmund",
    "detalle": "Veltins Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1166,7 +1136,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -1179,7 +1149,7 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Parma",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1213,7 +1183,7 @@
    "competencia": "Champions League",
    "titulo": "Viking FK vs Feyenoord Rotterdam",
    "detalle": "Viking Stadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1226,7 +1196,7 @@
    "competencia": "Champions League",
    "titulo": "Villarreal vs Sabah FK",
    "detalle": "Estadio de la Cerámica",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1269,7 +1239,7 @@
    "competencia": "Champions League",
    "titulo": "Aston Villa vs Paris Saint-Germain",
    "detalle": "Villa Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1282,7 +1252,7 @@
    "competencia": "Champions League",
    "titulo": "Barcelona vs Manchester City",
    "detalle": "Spotify Camp Nou",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1312,7 +1282,7 @@
    "competencia": "Champions League",
    "titulo": "Manchester United vs RB Leipzig",
    "detalle": "Old Trafford",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1325,7 +1295,7 @@
    "competencia": "Champions League",
    "titulo": "Napoli vs Club Brugge",
    "detalle": "Stadio Diego Armando Maradona",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1338,7 +1308,7 @@
    "competencia": "Champions League",
    "titulo": "Real Betis vs Como",
    "detalle": "Estadio La Cartuja",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1351,7 +1321,7 @@
    "competencia": "Champions League",
    "titulo": "Slovan Bratislava vs Shakhtar Donetsk",
    "detalle": "Národny Futbalovy Stadión",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1379,7 +1349,7 @@
    "competencia": "Champions League",
    "titulo": "Borussia Dortmund vs Internazionale",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1394,7 +1364,7 @@
    "competencia": "Champions League",
    "titulo": "LASK Linz vs Fenerbahce",
    "detalle": "Raiffeisen Arena (Linz)",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1407,7 +1377,7 @@
    "competencia": "Champions League",
    "titulo": "Lens vs Bodo/Glimt",
    "detalle": "Stade Bollaert-Delelis",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1420,7 +1390,7 @@
    "competencia": "Champions League",
    "titulo": "Liverpool vs FC Porto",
    "detalle": "Anfield",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -1435,7 +1405,7 @@
    "competencia": "Champions League",
    "titulo": "PSV Eindhoven vs Atlético Madrid",
    "detalle": "Philips Stadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1448,7 +1418,7 @@
    "competencia": "Champions League",
    "titulo": "VfB Stuttgart vs Lille",
    "detalle": "MHPArena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -1463,7 +1433,7 @@
    "detalle": "Giulesti Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -1491,7 +1461,7 @@
    "competencia": "Europa League",
    "titulo": "AC Milan vs Sunderland",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1521,7 +1491,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs FC Augsburg",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1551,24 +1521,9 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Chelsea",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401874821",
-   "fecha": "2026-12-12",
-   "hora": "14:45",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Como vs Bologna",
-   "detalle": "Giuseppe Sinigaglia",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -1638,7 +1593,7 @@
    "competencia": "Serie A",
    "titulo": "Napoli vs AC Milan",
    "detalle": "Stadio Diego Armando Maradona",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1668,7 +1623,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs Estrela",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -1685,7 +1640,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -1749,7 +1704,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Hull City",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1779,7 +1734,7 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Como",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1794,7 +1749,7 @@
    "competencia": "Bundesliga",
    "titulo": "RB Leipzig vs Borussia Dortmund",
    "detalle": "Red Bull Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1811,22 +1766,7 @@
    "detalle": "Olimpico",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401874836",
-   "fecha": "2026-12-20",
-   "hora": "06:30",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Fiorentina vs Bologna",
-   "detalle": "Stadio Artemio Franchi",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -1884,7 +1824,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Famalicao vs FC Porto",
    "detalle": "Estádio Municipal 22 de Junho",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -1933,7 +1873,7 @@
    "competencia": "Premier League",
    "titulo": "Newcastle United vs Manchester City",
    "detalle": "St. James' Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -1963,7 +1903,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs C.D. Nacional",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -1978,7 +1918,7 @@
    "competencia": "Premier League",
    "titulo": "Everton vs Manchester City",
    "detalle": "Hill Dickinson Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2058,7 +1998,7 @@
    "competencia": "Serie A",
    "titulo": "Monza vs AC Milan",
    "detalle": "U-Power Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2088,7 +2028,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Tottenham Hotspur",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2105,8 +2045,7 @@
    "detalle": "Renato Dall'Ara",
    "prioridad": 2,
    "motivos": [
-    "Jhon Lucumí",
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -2134,7 +2073,7 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Fiorentina",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2151,22 +2090,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401875087",
-   "fecha": "2027-01-06",
-   "hora": "09:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Frosinone vs Bologna",
-   "detalle": "Stadio Benito Stirpe",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -2194,7 +2118,7 @@
    "competencia": "Premier League",
    "titulo": "Leeds United vs Manchester City",
    "detalle": "Elland Road",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2209,7 +2133,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs Mainz",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2224,7 +2148,7 @@
    "competencia": "Serie A",
    "titulo": "AS Roma vs AC Milan",
    "detalle": "Olimpico",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2247,21 +2171,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "espn-ita.1-401874997",
-   "fecha": "2027-01-09",
-   "hora": "14:45",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Bologna vs Genoa",
-   "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
    "id": "espn-ita.1-401875035",
    "fecha": "2027-01-10",
    "hora": "14:45",
@@ -2271,7 +2180,7 @@
    "detalle": "San Siro",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -2314,7 +2223,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "Braga vs FC Porto",
    "detalle": "Estádio Municipal de Braga",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -2329,7 +2238,7 @@
    "competencia": "Bundesliga",
    "titulo": "FC Cologne vs Borussia Dortmund",
    "detalle": "RheinEnergieStadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2370,7 +2279,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "Alverca vs FC Porto",
    "detalle": "Complexo Desportivo FC Alverca",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -2385,7 +2294,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs SC Freiburg",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2415,7 +2324,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Nottingham Forest",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2490,7 +2399,7 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Torino",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2507,22 +2416,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401874796",
-   "fecha": "2027-01-17",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Lazio vs Bologna",
-   "detalle": "Olimpico",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -2550,7 +2444,7 @@
    "competencia": "Champions League",
    "titulo": "Bodo/Glimt vs Atlético Madrid",
    "detalle": "Aspmyra Stadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2578,7 +2472,7 @@
    "competencia": "Champions League",
    "titulo": "AEK Athens vs AS Roma",
    "detalle": "OPAP Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2591,7 +2485,7 @@
    "competencia": "Champions League",
    "titulo": "Aston Villa vs Borussia Dortmund",
    "detalle": "Villa Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2606,7 +2500,7 @@
    "competencia": "Champions League",
    "titulo": "FC Porto vs Slavia Prague",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -2621,7 +2515,7 @@
    "competencia": "Champions League",
    "titulo": "Internazionale vs Liverpool",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2634,7 +2528,7 @@
    "competencia": "Champions League",
    "titulo": "Lille vs Slovan Bratislava",
    "detalle": "Decathlon Arena - Stade Pierre-Mauroy",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2662,7 +2556,7 @@
    "competencia": "Champions League",
    "titulo": "VfB Stuttgart vs Club Brugge",
    "detalle": "MHPArena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2675,7 +2569,7 @@
    "competencia": "Champions League",
    "titulo": "Fenerbahce vs Villarreal",
    "detalle": "Şükrü Saracoğlu Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2688,7 +2582,7 @@
    "competencia": "Champions League",
    "titulo": "Sabah FK vs Napoli",
    "detalle": "Baku Olympic Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2701,7 +2595,7 @@
    "competencia": "Champions League",
    "titulo": "Como vs Paris Saint-Germain",
    "detalle": "Giuseppe Sinigaglia",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2714,7 +2608,7 @@
    "competencia": "Champions League",
    "titulo": "Lens vs Manchester City",
    "detalle": "Stade Bollaert-Delelis",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2744,7 +2638,7 @@
    "competencia": "Champions League",
    "titulo": "RB Leipzig vs Shakhtar Donetsk",
    "detalle": "Red Bull Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2757,7 +2651,7 @@
    "competencia": "Champions League",
    "titulo": "Real Betis vs Arsenal",
    "detalle": "Estadio La Cartuja",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2785,7 +2679,7 @@
    "competencia": "Champions League",
    "titulo": "Viking FK vs PSV Eindhoven",
    "detalle": "Viking Stadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -2800,7 +2694,7 @@
    "detalle": "Groupama Arena",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -2843,7 +2737,7 @@
    "competencia": "Europa League",
    "titulo": "Levski Sofia vs AC Milan",
    "detalle": "Vasil Levski National Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2873,7 +2767,7 @@
    "competencia": "Bundesliga",
    "titulo": "Hamburg SV vs Borussia Dortmund",
    "detalle": "Volksparkstadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2888,7 +2782,7 @@
    "competencia": "Premier League",
    "titulo": "Brighton & Hove Albion vs Manchester City",
    "detalle": "American Express Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2926,21 +2820,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "espn-ita.1-401875024",
-   "fecha": "2027-01-24",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Bologna vs Atalanta",
-   "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
    "id": "espn-ita.1-401875061",
    "fecha": "2027-01-24",
    "hora": "15:00",
@@ -2948,7 +2827,7 @@
    "competencia": "Serie A",
    "titulo": "Frosinone vs AC Milan",
    "detalle": "Stadio Benito Stirpe",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -2965,7 +2844,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -2993,7 +2872,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs Rio Ave",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -3047,7 +2926,7 @@
    "competencia": "Champions League",
    "titulo": "Arsenal vs Sabah FK",
    "detalle": "Emirates Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3060,7 +2939,7 @@
    "competencia": "Champions League",
    "titulo": "AS Roma vs Lille",
    "detalle": "Olimpico",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3073,7 +2952,7 @@
    "competencia": "Champions League",
    "titulo": "Atlético Madrid vs Fenerbahce",
    "detalle": "Riyadh Air Metropolitano",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3086,7 +2965,7 @@
    "competencia": "Champions League",
    "titulo": "Barcelona vs Como",
    "detalle": "Spotify Camp Nou",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3114,7 +2993,7 @@
    "competencia": "Champions League",
    "titulo": "Borussia Dortmund vs AEK Athens",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3129,7 +3008,7 @@
    "competencia": "Champions League",
    "titulo": "Club Brugge vs Bodo/Glimt",
    "detalle": "Jan Breydel Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3142,7 +3021,7 @@
    "competencia": "Champions League",
    "titulo": "Feyenoord Rotterdam vs RB Leipzig",
    "detalle": "De Kuip",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3155,7 +3034,7 @@
    "competencia": "Champions League",
    "titulo": "LASK Linz vs FC Porto",
    "detalle": "Raiffeisen Arena (Linz)",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -3170,7 +3049,7 @@
    "competencia": "Champions League",
    "titulo": "Liverpool vs Lens",
    "detalle": "Anfield",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3199,7 +3078,7 @@
    "competencia": "Champions League",
    "titulo": "Napoli vs Viking FK",
    "detalle": "Stadio Diego Armando Maradona",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3227,7 +3106,7 @@
    "competencia": "Champions League",
    "titulo": "PSV Eindhoven vs VfB Stuttgart",
    "detalle": "Philips Stadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3255,7 +3134,7 @@
    "competencia": "Champions League",
    "titulo": "Slavia Prague vs Aston Villa",
    "detalle": "Fortuna Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3268,7 +3147,7 @@
    "competencia": "Champions League",
    "titulo": "Slovan Bratislava vs Internazionale",
    "detalle": "Národny Futbalovy Stadión",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3281,7 +3160,7 @@
    "competencia": "Champions League",
    "titulo": "Villarreal vs Manchester United",
    "detalle": "Estadio de la Cerámica",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -3294,7 +3173,7 @@
    "competencia": "Europa League",
    "titulo": "AC Milan vs Ararat-Armenia",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3326,7 +3205,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -3369,7 +3248,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs TSG Hoffenheim",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3399,7 +3278,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Arsenal",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3432,22 +3311,7 @@
    "prioridad": 2,
    "motivos": [
     "Camisetas Puma en inventario",
-    "Camisetas Adidas en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401875102",
-   "fecha": "2027-01-31",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Udinese vs Bologna",
-   "detalle": "Stadio Friuli",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -3475,7 +3339,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "Arouca vs FC Porto",
    "detalle": "Estádio Municipal de Arouca",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -3535,7 +3399,7 @@
    "competencia": "Premier League",
    "titulo": "Fulham vs Manchester City",
    "detalle": "Craven Cottage",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3565,7 +3429,7 @@
    "competencia": "Bundesliga",
    "titulo": "SC Paderborn 07 vs Borussia Dortmund",
    "detalle": "Home Deluxe Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3580,9 +3444,8 @@
    "competencia": "Serie A",
    "titulo": "Bologna vs AC Milan",
    "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
-    "Jhon Lucumí",
     "Camisetas Puma en inventario"
    ],
    "estado": "",
@@ -3598,7 +3461,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -3626,7 +3489,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs Académico de Viseu",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -3686,7 +3549,7 @@
    "competencia": "Premier League",
    "titulo": "Tottenham Hotspur vs Manchester City",
    "detalle": "Tottenham Hotspur Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3716,7 +3579,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs VfB Stuttgart",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3739,21 +3602,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "espn-ita.1-401875116",
-   "fecha": "2027-02-14",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Bologna vs Como",
-   "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
    "id": "espn-ita.1-401875105",
    "fecha": "2027-02-14",
    "hora": "15:00",
@@ -3761,7 +3609,7 @@
    "competencia": "Serie A",
    "titulo": "Internazionale vs AC Milan",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3778,7 +3626,7 @@
    "detalle": "Stadio Diego Armando Maradona",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -3821,7 +3669,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "Moreirense vs FC Porto",
    "detalle": "Estádio Comendador Joaquim de Almeida Freitas",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -3866,7 +3714,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Newcastle United",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3896,7 +3744,7 @@
    "competencia": "Bundesliga",
    "titulo": "Werder Bremen vs Borussia Dortmund",
    "detalle": "Weserstadion",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3941,7 +3789,7 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Genoa",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -3958,8 +3806,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario",
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -3972,7 +3819,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs Casa Pia",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -4047,7 +3894,7 @@
    "competencia": "Premier League",
    "titulo": "Hull City vs Manchester City",
    "detalle": "The MKM Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4062,7 +3909,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs 1. FC Union Berlin",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4115,21 +3962,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "espn-ita.1-401875090",
-   "fecha": "2027-02-28",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Bologna vs Lecce",
-   "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
    "id": "espn-ita.1-401875077",
    "fecha": "2027-02-28",
    "hora": "15:00",
@@ -4137,7 +3969,7 @@
    "competencia": "Serie A",
    "titulo": "Como vs AC Milan",
    "detalle": "Giuseppe Sinigaglia",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4154,7 +3986,7 @@
    "detalle": "U-Power Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -4228,7 +4060,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Everton",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4258,7 +4090,7 @@
    "competencia": "Bundesliga",
    "titulo": "Eintracht Frankfurt vs Borussia Dortmund",
    "detalle": "Deutsche Bank Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4319,7 +4151,7 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Cagliari",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4336,22 +4168,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401874845",
-   "fecha": "2027-03-07",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Sassuolo vs Bologna",
-   "detalle": "Mapei Stadium",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -4364,7 +4181,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs Maritimo",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -4432,7 +4249,7 @@
    "competencia": "Premier League",
    "titulo": "Coventry City vs Manchester City",
    "detalle": "Coventry Building Society Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4477,7 +4294,7 @@
    "competencia": "Bundesliga",
    "titulo": "SV Elversberg vs Borussia Dortmund",
    "detalle": "URSAPHARM-Arena an der Kaiserlinde",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4522,24 +4339,9 @@
    "competencia": "Serie A",
    "titulo": "AC Milan vs Sassuolo",
    "detalle": "San Siro",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401874825",
-   "fecha": "2027-03-14",
-   "hora": "13:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Bologna vs Napoli",
-   "detalle": "Renato Dall'Ara",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -4554,7 +4356,7 @@
    "detalle": "Olimpico",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -4597,7 +4399,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "FC Porto vs Gil Vicente",
    "detalle": "Estádio do Dragão",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
@@ -4657,7 +4459,7 @@
    "competencia": "Premier League",
    "titulo": "Manchester City vs Manchester United",
    "detalle": "Etihad Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4672,7 +4474,7 @@
    "competencia": "Bundesliga",
    "titulo": "Borussia Dortmund vs Borussia Mönchengladbach",
    "detalle": "Signal Iduna Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4732,7 +4534,7 @@
    "competencia": "Serie A",
    "titulo": "Atalanta vs AC Milan",
    "detalle": "New Balance Arena",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Puma en inventario"
    ],
@@ -4749,22 +4551,7 @@
    "detalle": "Allianz Stadium",
    "prioridad": 2,
    "motivos": [
-    "Camisetas Adidas en inventario"
-   ],
-   "estado": "",
-   "fuente": "ESPN"
-  },
-  {
-   "id": "espn-ita.1-401874860",
-   "fecha": "2027-03-21",
-   "hora": "13:00",
-   "tipo": "partido",
-   "competencia": "Serie A",
-   "titulo": "Monza vs Bologna",
-   "detalle": "U-Power Stadium",
-   "prioridad": 2,
-   "motivos": [
-    "Jhon Lucumí"
+    "Jhon Lucumí y Juan David Cabal · camisetas Adidas en inventario"
    ],
    "estado": "",
    "fuente": "ESPN"
@@ -4792,7 +4579,7 @@
    "competencia": "Liga de Portugal",
    "titulo": "Estoril vs FC Porto",
    "detalle": "Estádio António Coimbra da Mota",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas New Balance en inventario"
    ],
