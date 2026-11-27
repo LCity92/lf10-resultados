@@ -1,31 +1,286 @@
 {
- "actualizado": "2026-11-27T14:54:49.404Z",
- "errores": [
-  "Partidos Liga BetPlay: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Copa Colombia: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Copa Libertadores: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Copa Sudamericana: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Amistosos internacionales: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Eliminatoria Sudamericana: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Mundial Femenino: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Mundial de Clubes: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Champions League: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Europa League: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Premier League: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos LaLiga: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Serie A: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Bundesliga: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Ligue 1: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Liga de Portugal: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Superliga de Turquía: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Liga de Arabia Saudita: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos MLS: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Liga MX: HTTP 403 <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;site&#46;api&#46;espn&#",
-  "Partidos Liga de Argentina: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}",
-  "Partidos Brasileirão: HTTP 400 {\"code\":400,\"message\":\"Failed to get events endpoint.\"}"
- ],
- "total": 29,
+ "actualizado": "2026-11-27T14:56:40.909Z",
+ "errores": [],
+ "total": 347,
  "eventos": [
+  {
+   "id": "espn-uefa.champions-401915378",
+   "fecha": "2026-11-25",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Sabah FK vs Barcelona",
+   "detalle": "Baku Olympic Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 1-4",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915293",
+   "fecha": "2026-11-25",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Slavia Prague vs Villarreal",
+   "detalle": "Fortuna Arena",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915291",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Atlético Madrid vs Viking FK",
+   "detalle": "Riyadh Air Metropolitano",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915292",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Club Brugge vs Liverpool",
+   "detalle": "Jan Breydel Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 0-3",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915376",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Internazionale vs VfB Stuttgart",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915377",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Lille vs Bayern Munich",
+   "detalle": "Decathlon Arena - Stade Pierre-Mauroy",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915374",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Paris Saint-Germain vs AS Roma",
+   "detalle": "Parc des Princes",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915375",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Shakhtar Donetsk vs Fenerbahce",
+   "detalle": "Stamford Bridge",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 0-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915373",
+   "fecha": "2026-11-25",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Sporting CP vs Manchester United",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "Final: 2-2",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934687",
+   "fecha": "2026-11-25",
+   "hora": "18:20",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Independiente Santa Fe vs Once Caldas",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 3-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401933757",
+   "fecha": "2026-11-25",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Boca Juniors vs Independiente Rivadavia",
+   "detalle": "Alberto José Armando (La Bombonera)",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931986",
+   "fecha": "2026-11-25",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "Toluca vs Atlas",
+   "detalle": "1st Leg · Estadio Nemesio Díez Riega",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 2-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401934705",
+   "fecha": "2026-11-25",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Nacional vs Independiente Medellín",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "Final: 3-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931998",
+   "fecha": "2026-11-25",
+   "hora": "22:10",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "Monterrey vs América",
+   "detalle": "1st Leg · Estadio BBVA",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 0-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915521",
+   "fecha": "2026-11-26",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Olympiacos vs AC Milan",
+   "detalle": "Georgios Karaiskakis Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "Final: 2-4",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915518",
+   "fecha": "2026-11-26",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Viktoria Plzen vs Benfica",
+   "detalle": "Doosan Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "Final: 4-0",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915504",
+   "fecha": "2026-11-26",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Crystal Palace vs Real Sociedad",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915502",
+   "fecha": "2026-11-26",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Juventus vs Omonia Nicosia",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "Final: 4-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931982",
+   "fecha": "2026-11-26",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "Pachuca vs Guadalajara",
+   "detalle": "1st Leg · Estadio Hidalgo",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 2-1",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931995",
+   "fecha": "2026-11-26",
+   "hora": "22:10",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "León vs Cruz Azul",
+   "detalle": "1st Leg · Estadio León",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "Final: 0-4",
+   "fuente": "ESPN"
+  },
   {
    "id": "m-bf-2026",
    "fecha": "2026-11-27",
@@ -35,6 +290,118 @@
    "detalle": "Descuentos hasta el lunes 30 de noviembre",
    "prioridad": 3,
    "fuente": "LF10"
+  },
+  {
+   "id": "espn-ita.1-401875004",
+   "fecha": "2026-11-27",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Venezia vs Bologna",
+   "detalle": "Stadio Pier Luigi Penzo",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936055",
+   "fecha": "2026-11-27",
+   "hora": "18:35",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Deportivo Cali vs Atlético Bucaramanga",
+   "detalle": "Deportivo Cali",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933727",
+   "fecha": "2026-11-27",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Columbus Crew vs Inter Miami CF",
+   "detalle": "CLB leads series 1-0 · ScottsMiracle-Gro Field",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936054",
+   "fecha": "2026-11-27",
+   "hora": "20:40",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Millonarios vs América de Cali",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933725",
+   "fecha": "2026-11-27",
+   "hora": "22:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Real Salt Lake vs Vancouver Whitecaps",
+   "detalle": "VAN leads series 1-0 · America First Field",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884722",
+   "fecha": "2026-11-28",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Hamburg SV vs Bayern Munich",
+   "detalle": "Volksparkstadion",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933737",
+   "fecha": "2026-11-28",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Charlotte FC vs Chicago Fire FC",
+   "detalle": "CLT leads series 1-0 · Bank of America Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933724",
+   "fecha": "2026-11-28",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Houston Dynamo FC vs San Jose Earthquakes",
+   "detalle": "SJ leads series 1-0 · Shell Energy Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-lib-final-2026",
@@ -48,6 +415,153 @@
    "fuente": "LF10"
   },
   {
+   "id": "espn-conmebol.libertadores-401912519",
+   "fecha": "2026-11-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Copa Libertadores",
+   "titulo": "Palmeiras vs Estudiantes de La Plata",
+   "detalle": "Estadio Centenario",
+   "prioridad": 3,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882789",
+   "fecha": "2026-11-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Alavés",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933723",
+   "fecha": "2026-11-28",
+   "hora": "16:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Philadelphia Union vs New England Revolution",
+   "detalle": "NE leads series 1-0 · Subaru Park",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401936353",
+   "fecha": "2026-11-28",
+   "hora": "18:00",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Vélez Sarsfield vs Independiente",
+   "detalle": "José Amalfitani",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933722",
+   "fecha": "2026-11-28",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "FC Cincinnati vs Nashville SC",
+   "detalle": "CIN leads series 1-0 · TQL Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936045",
+   "fecha": "2026-11-28",
+   "hora": "19:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Independiente Santa Fe vs Atlético Nacional",
+   "detalle": "Estadio Nemesio Camacho El Campín",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931997",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "Atlas vs Toluca",
+   "detalle": "2nd Leg - Toluca lead 2-0 on aggregate · Estadio Jalisco",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401936413",
+   "fecha": "2026-11-28",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Instituto (Córdoba) vs River Plate",
+   "detalle": "Monumental Presidente Perón",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933726",
+   "fecha": "2026-11-28",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "LAFC vs St. Louis CITY SC",
+   "detalle": "STL leads series 1-0 · BMO Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931996",
+   "fecha": "2026-11-28",
+   "hora": "22:10",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "América vs Monterrey",
+   "detalle": "2nd Leg - Tied on aggregate · Estadio Banorte",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933721",
+   "fecha": "2026-11-28",
+   "hora": "22:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Portland Timbers vs FC Dallas",
+   "detalle": "DAL leads series 1-0 · Providence Park",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-cuad-f4",
    "fecha": "2026-11-29",
    "tipo": "partido",
@@ -56,6 +570,196 @@
    "prioridad": 3,
    "tentativa": true,
    "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
+  },
+  {
+   "id": "espn-eng.1-401879230",
+   "fecha": "2026-11-29",
+   "hora": "09:05",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Hull City",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878753",
+   "fecha": "2026-11-29",
+   "hora": "11:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Arsenal vs Manchester City",
+   "detalle": "Emirates Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884727",
+   "fecha": "2026-11-29",
+   "hora": "13:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs Bayer Leverkusen",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874994",
+   "fecha": "2026-11-29",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Como vs Juventus",
+   "detalle": "Giuseppe Sinigaglia",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401936373",
+   "fecha": "2026-11-29",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Rosario Central vs Barracas Central",
+   "detalle": "Gigante de Arroyito",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885387",
+   "fecha": "2026-11-29",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Sporting CP",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario",
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936044",
+   "fecha": "2026-11-29",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Independiente Medellín vs Once Caldas",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-arg.1-401936657",
+   "fecha": "2026-11-29",
+   "hora": "18:30",
+   "tipo": "partido",
+   "competencia": "Liga de Argentina",
+   "titulo": "Boca Juniors vs Gimnasia La Plata",
+   "detalle": "Alberto José Armando (La Bombonera)",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401931983",
+   "fecha": "2026-11-29",
+   "hora": "20:07",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "Guadalajara vs Pachuca",
+   "detalle": "2nd Leg - Pachuca lead 2-1 on aggregate · Estadio Akron",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-mex.1-401932000",
+   "fecha": "2026-11-29",
+   "hora": "22:00",
+   "tipo": "partido",
+   "competencia": "Liga MX",
+   "titulo": "Cruz Azul vs León",
+   "detalle": "2nd Leg - Cruz Azul lead 4-0 on aggregate · Estadio Banorte",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888237",
+   "fecha": "2026-11-30",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Besiktas vs Galatasaray",
+   "detalle": "Vodafone Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875019",
+   "fecha": "2026-11-30",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Cagliari vs AC Milan",
+   "detalle": "Unipol Domus",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885386",
+   "fecha": "2026-11-30",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs FC Famalicao",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-lotto-50",
@@ -75,6 +779,36 @@
    "fuente": "LF10"
   },
   {
+   "id": "espn-col.1-401936053",
+   "fecha": "2026-12-01",
+   "hora": "18:20",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Bucaramanga vs Deportivo Cali",
+   "detalle": "Estadio Alfonso López",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936046",
+   "fecha": "2026-12-01",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "América de Cali vs Millonarios",
+   "detalle": "Pascual Guerrero",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-cuad-f5",
    "fecha": "2026-12-02",
    "tipo": "partido",
@@ -86,12 +820,371 @@
    "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
   },
   {
+   "id": "espn-esp.1-401882698",
+   "fecha": "2026-12-02",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Sociedad vs Real Madrid",
+   "detalle": "Reale Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879222",
+   "fecha": "2026-12-02",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Chelsea vs Crystal Palace",
+   "detalle": "Stamford Bridge",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879218",
+   "fecha": "2026-12-02",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Leeds United",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936043",
+   "fecha": "2026-12-02",
+   "hora": "18:20",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Once Caldas vs Independiente Medellín",
+   "detalle": "Palogrande",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933719",
+   "fecha": "2026-12-02",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "New England Revolution vs Philadelphia Union",
+   "detalle": "NE leads series 1-0 · Gillette Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933720",
+   "fecha": "2026-12-02",
+   "hora": "19:30",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Inter Miami CF vs Columbus Crew",
+   "detalle": "CLB leads series 1-0 · Nu Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933718",
+   "fecha": "2026-12-02",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Chicago Fire FC vs Charlotte FC",
+   "detalle": "CLT leads series 1-0 · SeatGeek Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933716",
+   "fecha": "2026-12-02",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "FC Dallas vs Portland Timbers",
+   "detalle": "DAL leads series 1-0 · Toyota Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933736",
+   "fecha": "2026-12-02",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Nashville SC vs FC Cincinnati",
+   "detalle": "CIN leads series 1-0 · GEODIS Park",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933735",
+   "fecha": "2026-12-02",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "St. Louis CITY SC vs LAFC",
+   "detalle": "STL leads series 1-0 · Energizer Park",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-col.1-401936042",
+   "fecha": "2026-12-02",
+   "hora": "20:30",
+   "tipo": "partido",
+   "competencia": "Liga BetPlay",
+   "titulo": "Atlético Nacional vs Independiente Santa Fe",
+   "detalle": "Atanasio Girardot",
+   "prioridad": 3,
+   "motivos": [
+    "Liga BetPlay"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933717",
+   "fecha": "2026-12-02",
+   "hora": "21:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Vancouver Whitecaps vs Real Salt Lake",
+   "detalle": "VAN leads series 1-0 · BC Place",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401933715",
+   "fecha": "2026-12-02",
+   "hora": "22:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "San Jose Earthquakes vs Houston Dynamo FC",
+   "detalle": "SJ leads series 1-0 · PayPal Park",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-aniv",
    "fecha": "2026-12-04",
    "tipo": "lf10",
    "titulo": "Aniversario 2 años de LF10",
    "prioridad": 3,
    "fuente": "LF10"
+  },
+  {
+   "id": "espn-tur.1-401888231",
+   "fecha": "2026-12-04",
+   "hora": "12:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Caykur Rizespor",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884718",
+   "fecha": "2026-12-04",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs SC Paderborn 07",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874984",
+   "fecha": "2026-12-04",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs AS Roma",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885376",
+   "fecha": "2026-12-04",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Maritimo",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879215",
+   "fecha": "2026-12-05",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Aston Villa vs Crystal Palace",
+   "detalle": "Villa Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885379",
+   "fecha": "2026-12-05",
+   "hora": "10:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "C.D. Nacional vs Benfica",
+   "detalle": "Estádio da Madeira",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885377",
+   "fecha": "2026-12-05",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Santa Clara vs FC Porto",
+   "detalle": "Estádio de São Miguel",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879214",
+   "fecha": "2026-12-05",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Brentford vs Manchester City",
+   "detalle": "Gtech Community Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884711",
+   "fecha": "2026-12-06",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Schalke 04 vs Borussia Dortmund",
+   "detalle": "Veltins Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882785",
+   "fecha": "2026-12-06",
+   "hora": "10:15",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Athletic Club vs Real Madrid",
+   "detalle": "San Mamés",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875006",
+   "fecha": "2026-12-06",
+   "hora": "12:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Udinese",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874995",
+   "fecha": "2026-12-06",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Parma",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-velitas",
@@ -113,6 +1206,389 @@
    "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
   },
   {
+   "id": "espn-uefa.champions-401915290",
+   "fecha": "2026-12-08",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Viking FK vs Feyenoord Rotterdam",
+   "detalle": "Viking Stadion",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915372",
+   "fecha": "2026-12-08",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Villarreal vs Sabah FK",
+   "detalle": "Estadio de la Cerámica",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915289",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "AEK Athens vs Galatasaray",
+   "detalle": "OPAP Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915288",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "AS Roma vs Sporting CP",
+   "detalle": "Olimpico",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915286",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Aston Villa vs Paris Saint-Germain",
+   "detalle": "Villa Park",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915285",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Barcelona vs Manchester City",
+   "detalle": "Spotify Camp Nou",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915284",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Bayern Munich vs Slavia Prague",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915371",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Manchester United vs RB Leipzig",
+   "detalle": "Old Trafford",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915287",
+   "fecha": "2026-12-08",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Napoli vs Club Brugge",
+   "detalle": "Stadio Diego Armando Maradona",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915283",
+   "fecha": "2026-12-09",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Real Betis vs Como",
+   "detalle": "Estadio La Cartuja",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915282",
+   "fecha": "2026-12-09",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Slovan Bratislava vs Shakhtar Donetsk",
+   "detalle": "Národny Futbalovy Stadión",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915367",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Arsenal vs Real Madrid",
+   "detalle": "Emirates Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915368",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Borussia Dortmund vs Internazionale",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915281",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "LASK Linz vs Fenerbahce",
+   "detalle": "Raiffeisen Arena (Linz)",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915370",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Lens vs Bodo/Glimt",
+   "detalle": "Stade Bollaert-Delelis",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915369",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Liverpool vs FC Porto",
+   "detalle": "Anfield",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915366",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "PSV Eindhoven vs Atlético Madrid",
+   "detalle": "Philips Stadion",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915365",
+   "fecha": "2026-12-09",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "VfB Stuttgart vs Lille",
+   "detalle": "MHPArena",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915499",
+   "fecha": "2026-12-10",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Hapoel Be'er vs Juventus",
+   "detalle": "Giulesti Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915496",
+   "fecha": "2026-12-10",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Jagiellonia Bialystok vs Crystal Palace",
+   "detalle": "Stadion Miejski Bialystok",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915493",
+   "fecha": "2026-12-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "AC Milan vs Sunderland",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915491",
+   "fecha": "2026-12-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Benfica vs OFI Crete",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884709",
+   "fecha": "2026-12-12",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs FC Augsburg",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888227",
+   "fecha": "2026-12-12",
+   "hora": "11:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Eyupspor vs Galatasaray",
+   "detalle": "Esenyurt Necmi Kadioglu Stadi",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878742",
+   "fecha": "2026-12-12",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Chelsea",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874821",
+   "fecha": "2026-12-12",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Como vs Bologna",
+   "detalle": "Giuseppe Sinigaglia",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885372",
+   "fecha": "2026-12-12",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Gil Vicente vs Sporting CP",
+   "detalle": "Estádio Cidade de Barcelos",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-final-betplay",
    "fecha": "2026-12-13",
    "fin": "2026-12-20",
@@ -123,6 +1599,111 @@
    "prioridad": 3,
    "tentativa": true,
    "fuente": "https://www.clarosports.com/colombia/liga-bet-play/estas-serian-las-fechas-de-las-finales-de-la-liga-betplay-2026-ii-y-la-copa-colombia-2026/"
+  },
+  {
+   "id": "espn-ger.1-401884707",
+   "fecha": "2026-12-13",
+   "hora": "11:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "TSG Hoffenheim vs Bayern Munich",
+   "detalle": "PreZero Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879207",
+   "fecha": "2026-12-13",
+   "hora": "14:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Manchester United",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875028",
+   "fecha": "2026-12-13",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Napoli vs AC Milan",
+   "detalle": "Stadio Diego Armando Maradona",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882769",
+   "fecha": "2026-12-13",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Osasuna",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885369",
+   "fecha": "2026-12-13",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Estrela",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874783",
+   "fecha": "2026-12-14",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Monza",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885368",
+   "fecha": "2026-12-14",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Braga",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-prima-dic",
@@ -146,6 +1727,171 @@
    "fuente": "LF10"
   },
   {
+   "id": "espn-ger.1-401884700",
+   "fecha": "2026-12-18",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs Werder Bremen",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879199",
+   "fecha": "2026-12-19",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Hull City",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888216",
+   "fecha": "2026-12-19",
+   "hora": "11:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Alanyaspor",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875044",
+   "fecha": "2026-12-19",
+   "hora": "12:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Como",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884699",
+   "fecha": "2026-12-19",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "RB Leipzig vs Borussia Dortmund",
+   "detalle": "Red Bull Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874813",
+   "fecha": "2026-12-19",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AS Roma vs Juventus",
+   "detalle": "Olimpico",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874836",
+   "fecha": "2026-12-20",
+   "hora": "06:30",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Fiorentina vs Bologna",
+   "detalle": "Stadio Artemio Franchi",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878738",
+   "fecha": "2026-12-20",
+   "hora": "09:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Sunderland vs Crystal Palace",
+   "detalle": "Stadium of Light",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882763",
+   "fecha": "2026-12-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Deportivo vs Real Madrid",
+   "detalle": "Riazor",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885360",
+   "fecha": "2026-12-21",
+   "hora": "13:45",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Rio Ave vs Benfica",
+   "detalle": "Estádio do Rio Ave",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885362",
+   "fecha": "2026-12-21",
+   "hora": "15:45",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Famalicao vs FC Porto",
+   "detalle": "Estádio Municipal 22 de Junho",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-final-copa-col",
    "fecha": "2026-12-22",
    "tipo": "partido",
@@ -156,6 +1902,21 @@
    "fuente": "https://www.clarosports.com/colombia/liga-bet-play/estas-serian-las-fechas-de-las-finales-de-la-liga-betplay-2026-ii-y-la-copa-colombia-2026/"
   },
   {
+   "id": "espn-por.1-401885358",
+   "fecha": "2026-12-22",
+   "hora": "15:45",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Estoril",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-navidad",
    "fecha": "2026-12-24",
    "fin": "2026-12-25",
@@ -163,6 +1924,97 @@
    "titulo": "Navidad",
    "prioridad": 3,
    "fuente": "LF10"
+  },
+  {
+   "id": "espn-eng.1-401878732",
+   "fecha": "2026-12-26",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Newcastle United vs Manchester City",
+   "detalle": "St. James' Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878735",
+   "fecha": "2026-12-27",
+   "hora": "14:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Arsenal",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885352",
+   "fecha": "2026-12-28",
+   "hora": "15:45",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs C.D. Nacional",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879192",
+   "fecha": "2026-12-29",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Everton vs Manchester City",
+   "detalle": "Hill Dickinson Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885350",
+   "fecha": "2026-12-29",
+   "hora": "15:45",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Sporting CP",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos",
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879193",
+   "fecha": "2026-12-30",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs AFC Bournemouth",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-anionuevo",
@@ -184,6 +2036,322 @@
    "fuente": "LF10"
   },
   {
+   "id": "espn-eng.1-401879184",
+   "fecha": "2027-01-02",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Brentford vs Crystal Palace",
+   "detalle": "Gtech Community Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874986",
+   "fecha": "2027-01-02",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Monza vs AC Milan",
+   "detalle": "U-Power Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885340",
+   "fecha": "2027-01-02",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Santa Clara",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879180",
+   "fecha": "2027-01-03",
+   "hora": "11:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Tottenham Hotspur",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875000",
+   "fecha": "2027-01-03",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs Juventus",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí",
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882749",
+   "fecha": "2027-01-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Getafe",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875034",
+   "fecha": "2027-01-05",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Fiorentina",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875070",
+   "fecha": "2027-01-06",
+   "hora": "06:30",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Torino",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875087",
+   "fecha": "2027-01-06",
+   "hora": "09:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Frosinone vs Bologna",
+   "detalle": "Stadio Benito Stirpe",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879175",
+   "fecha": "2027-01-06",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Chelsea",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879171",
+   "fecha": "2027-01-06",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Leeds United vs Manchester City",
+   "detalle": "Elland Road",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884691",
+   "fecha": "2027-01-08",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs Mainz",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875089",
+   "fecha": "2027-01-09",
+   "hora": "12:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AS Roma vs AC Milan",
+   "detalle": "Olimpico",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884687",
+   "fecha": "2027-01-09",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Mönchengladbach vs Bayern Munich",
+   "detalle": "BORUSSIA-PARK",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874997",
+   "fecha": "2027-01-09",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs Genoa",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875035",
+   "fecha": "2027-01-10",
+   "hora": "14:45",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Internazionale vs Juventus",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882739",
+   "fecha": "2027-01-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Levante",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885345",
+   "fecha": "2027-01-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Arouca vs Benfica",
+   "detalle": "Estádio Municipal de Arouca",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885344",
+   "fecha": "2027-01-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Braga vs FC Porto",
+   "detalle": "Estádio Municipal de Braga",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884676",
+   "fecha": "2027-01-12",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "FC Cologne vs Borussia Dortmund",
+   "detalle": "RheinEnergieStadion",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884682",
+   "fecha": "2027-01-13",
+   "hora": "14:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs Bayer Leverkusen",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-liga-2027",
    "fecha": "2027-01-15",
    "tipo": "partido",
@@ -195,6 +2363,674 @@
    "fuente": "LF10"
   },
   {
+   "id": "espn-por.1-401885334",
+   "fecha": "2027-01-15",
+   "hora": "15:15",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Alverca vs FC Porto",
+   "detalle": "Complexo Desportivo FC Alverca",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884673",
+   "fecha": "2027-01-16",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs SC Freiburg",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879166",
+   "fecha": "2027-01-16",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Liverpool vs Crystal Palace",
+   "detalle": "Anfield",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878722",
+   "fecha": "2027-01-16",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Nottingham Forest",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884669",
+   "fecha": "2027-01-16",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Eintracht Frankfurt vs Bayern Munich",
+   "detalle": "Deutsche Bank Park",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885339",
+   "fecha": "2027-01-16",
+   "hora": "15:30",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Estrela",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885332",
+   "fecha": "2027-01-17",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Académico de Viseu vs Benfica",
+   "detalle": "Estádio do Fontelo",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882730",
+   "fecha": "2027-01-17",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Málaga vs Real Madrid",
+   "detalle": "La Rosaleda",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875010",
+   "fecha": "2027-01-17",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Torino",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875059",
+   "fecha": "2027-01-17",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Genoa",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874796",
+   "fecha": "2027-01-17",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Lazio vs Bologna",
+   "detalle": "Olimpico",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888213",
+   "fecha": "2027-01-17",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Gaziantep FK vs Galatasaray",
+   "detalle": "Gaziantep Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915364",
+   "fecha": "2027-01-19",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Bodo/Glimt vs Atlético Madrid",
+   "detalle": "Aspmyra Stadion",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915363",
+   "fecha": "2027-01-19",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Galatasaray vs Feyenoord Rotterdam",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915362",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "AEK Athens vs AS Roma",
+   "detalle": "OPAP Arena",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915279",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Aston Villa vs Borussia Dortmund",
+   "detalle": "Villa Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915278",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "FC Porto vs Slavia Prague",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915360",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Internazionale vs Liverpool",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915361",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Lille vs Slovan Bratislava",
+   "detalle": "Decathlon Arena - Stade Pierre-Mauroy",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915280",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Real Madrid vs LASK Linz",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915359",
+   "fecha": "2027-01-19",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "VfB Stuttgart vs Club Brugge",
+   "detalle": "MHPArena",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915277",
+   "fecha": "2027-01-20",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Fenerbahce vs Villarreal",
+   "detalle": "Şükrü Saracoğlu Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915358",
+   "fecha": "2027-01-20",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Sabah FK vs Napoli",
+   "detalle": "Baku Olympic Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915273",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Como vs Paris Saint-Germain",
+   "detalle": "Giuseppe Sinigaglia",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915274",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Lens vs Manchester City",
+   "detalle": "Stade Bollaert-Delelis",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915357",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Manchester United vs Bayern Munich",
+   "detalle": "Old Trafford",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915276",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "RB Leipzig vs Shakhtar Donetsk",
+   "detalle": "Red Bull Arena",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915275",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Real Betis vs Arsenal",
+   "detalle": "Estadio La Cartuja",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915356",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Sporting CP vs Barcelona",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915272",
+   "fecha": "2027-01-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Viking FK vs PSV Eindhoven",
+   "detalle": "Viking Stadion",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915484",
+   "fecha": "2027-01-21",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Ferencvaros vs Juventus",
+   "detalle": "Groupama Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915433",
+   "fecha": "2027-01-21",
+   "hora": "12:45",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "NEC Nijmegen vs Benfica",
+   "detalle": "Goffertstadion",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915472",
+   "fecha": "2027-01-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Crystal Palace vs Sparta Prague",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915473",
+   "fecha": "2027-01-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Levski Sofia vs AC Milan",
+   "detalle": "Vasil Levski National Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884664",
+   "fecha": "2027-01-23",
+   "hora": "09:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "VfB Stuttgart vs Bayern Munich",
+   "detalle": "MHPArena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884659",
+   "fecha": "2027-01-23",
+   "hora": "12:30",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Hamburg SV vs Borussia Dortmund",
+   "detalle": "Volksparkstadion",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879164",
+   "fecha": "2027-01-23",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Brighton & Hove Albion vs Manchester City",
+   "detalle": "American Express Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879163",
+   "fecha": "2027-01-24",
+   "hora": "09:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Tottenham Hotspur",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882719",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Real Betis",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875024",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs Atalanta",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875061",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Frosinone vs AC Milan",
+   "detalle": "Stadio Benito Stirpe",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875012",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Cagliari",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885326",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Casa Pia",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885323",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Rio Ave",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885322",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Vitória de Guimaraes vs Sporting CP",
+   "detalle": "Estádio D. Afonso Henriques",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888358",
+   "fecha": "2027-01-24",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Çorum FK vs Galatasaray",
+   "detalle": "Çorum Sehir Stadyumu",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-clases",
    "fecha": "2027-01-25",
    "tipo": "comercial",
@@ -204,12 +3040,1794 @@
    "fuente": "LF10"
   },
   {
+   "id": "espn-uefa.champions-401915346",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Arsenal vs Sabah FK",
+   "detalle": "Emirates Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915354",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "AS Roma vs Lille",
+   "detalle": "Olimpico",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915347",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Atlético Madrid vs Fenerbahce",
+   "detalle": "Riyadh Air Metropolitano",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915264",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Barcelona vs Como",
+   "detalle": "Spotify Camp Nou",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915348",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Bayern Munich vs Real Betis",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915265",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Borussia Dortmund vs AEK Athens",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915266",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Club Brugge vs Bodo/Glimt",
+   "detalle": "Jan Breydel Stadium",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915271",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Feyenoord Rotterdam vs RB Leipzig",
+   "detalle": "De Kuip",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915355",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "LASK Linz vs FC Porto",
+   "detalle": "Raiffeisen Arena (Linz)",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915353",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Liverpool vs Lens",
+   "detalle": "Anfield",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915352",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Manchester City vs Sporting CP",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario",
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915268",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Napoli vs Viking FK",
+   "detalle": "Stadio Diego Armando Maradona",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915267",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Paris Saint-Germain vs Galatasaray",
+   "detalle": "Parc des Princes",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915350",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "PSV Eindhoven vs VfB Stuttgart",
+   "detalle": "Philips Stadion",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915270",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Shakhtar Donetsk vs Real Madrid",
+   "detalle": "Stamford Bridge",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915351",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Slavia Prague vs Aston Villa",
+   "detalle": "Fortuna Arena",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915269",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Slovan Bratislava vs Internazionale",
+   "detalle": "Národny Futbalovy Stadión",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.champions-401915349",
+   "fecha": "2027-01-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Champions League",
+   "titulo": "Villarreal vs Manchester United",
+   "detalle": "Estadio de la Cerámica",
+   "prioridad": 2,
+   "motivos": [],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915456",
+   "fecha": "2027-01-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "AC Milan vs Ararat-Armenia",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915468",
+   "fecha": "2027-01-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Benfica vs AZ Alkmaar",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915462",
+   "fecha": "2027-01-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "Juventus vs Real Sociedad",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-uefa.europa-401915466",
+   "fecha": "2027-01-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Europa League",
+   "titulo": "RB Salzburg vs Crystal Palace",
+   "detalle": "Red Bull Arena Salzburg",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884655",
+   "fecha": "2027-01-30",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs Schalke 04",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884654",
+   "fecha": "2027-01-30",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs TSG Hoffenheim",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879156",
+   "fecha": "2027-01-31",
+   "hora": "09:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Hull City vs Crystal Palace",
+   "detalle": "The MKM Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879154",
+   "fecha": "2027-01-31",
+   "hora": "11:30",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Arsenal",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882709",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Rayo Vallecano vs Real Madrid",
+   "detalle": "Estadio de Vallecas",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875078",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Juventus",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario",
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875102",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Udinese vs Bologna",
+   "detalle": "Stadio Friuli",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885314",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Alverca vs Sporting CP",
+   "detalle": "Complexo Desportivo FC Alverca",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885316",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Arouca vs FC Porto",
+   "detalle": "Estádio Municipal de Arouca",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885317",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Moreirense",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888194",
+   "fecha": "2027-01-31",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Erzurum BB",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879152",
+   "fecha": "2027-02-06",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Coventry City",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879150",
+   "fecha": "2027-02-06",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Fulham vs Manchester City",
+   "detalle": "Craven Cottage",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884646",
+   "fecha": "2027-02-06",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs SV Elversberg",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884638",
+   "fecha": "2027-02-06",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "SC Paderborn 07 vs Borussia Dortmund",
+   "detalle": "Home Deluxe Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874871",
+   "fecha": "2027-02-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs AC Milan",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí",
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875069",
+   "fecha": "2027-02-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Sassuolo",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885304",
+   "fecha": "2027-02-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Estoril vs Benfica",
+   "detalle": "Estádio António Coimbra da Mota",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885312",
+   "fecha": "2027-02-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Académico de Viseu",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885305",
+   "fecha": "2027-02-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Rio Ave",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888189",
+   "fecha": "2027-02-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Goztepe vs Galatasaray",
+   "detalle": "Göztepe Gürsel Aksel Stadi",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878708",
+   "fecha": "2027-02-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Brentford",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879140",
+   "fecha": "2027-02-10",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Tottenham Hotspur vs Manchester City",
+   "detalle": "Tottenham Hotspur Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884631",
+   "fecha": "2027-02-13",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "1. FC Union Berlin vs Bayern Munich",
+   "detalle": "Stadion An der Alten Försterei",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884637",
+   "fecha": "2027-02-13",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs VfB Stuttgart",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882691",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Athletic Club",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875116",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs Como",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875105",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Internazionale vs AC Milan",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874829",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Napoli vs Juventus",
+   "detalle": "Stadio Diego Armando Maradona",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885299",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Maritimo",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885296",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "C.D. Nacional vs Sporting CP",
+   "detalle": "Estádio da Madeira",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885298",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Moreirense vs FC Porto",
+   "detalle": "Estádio Comendador Joaquim de Almeida Freitas",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888186",
+   "fecha": "2027-02-14",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Istanbul Basaksehir",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879139",
+   "fecha": "2027-02-20",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "AFC Bournemouth vs Crystal Palace",
+   "detalle": "Vitality Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879135",
+   "fecha": "2027-02-20",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Newcastle United",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884628",
+   "fecha": "2027-02-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs FC Augsburg",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884622",
+   "fecha": "2027-02-20",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Werder Bremen vs Borussia Dortmund",
+   "detalle": "Weserstadion",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401932547",
+   "fecha": "2027-02-20",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Houston Dynamo FC vs Sporting Kansas City",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882678",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Sevilla vs Real Madrid",
+   "detalle": "Ramón Sánchez Pizjuán Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875066",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Genoa",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874816",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Bologna",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario",
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885291",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Casa Pia",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885286",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Gil Vicente vs Benfica",
+   "detalle": "Estádio Cidade de Barcelos",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885290",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs FC Famalicao",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888179",
+   "fecha": "2027-02-21",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Kocaelispor vs Galatasaray",
+   "detalle": "Yildiz Entegre Kocaeli Stadyumu",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878701",
+   "fecha": "2027-02-27",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Sunderland",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878698",
+   "fecha": "2027-02-27",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Hull City vs Manchester City",
+   "detalle": "The MKM Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884619",
+   "fecha": "2027-02-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs 1. FC Union Berlin",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884618",
+   "fecha": "2027-02-27",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "RB Leipzig vs Bayern Munich",
+   "detalle": "Red Bull Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401932535",
+   "fecha": "2027-02-27",
+   "hora": "16:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Sporting Kansas City vs Vancouver Whitecaps",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882668",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Valencia",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875090",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs Lecce",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875077",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Como vs AC Milan",
+   "detalle": "Giuseppe Sinigaglia",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875088",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Monza vs Juventus",
+   "detalle": "U-Power Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885278",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Arouca vs Sporting CP",
+   "detalle": "Estádio Municipal de Arouca",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885280",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs FC Porto",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos",
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888177",
+   "fecha": "2027-02-28",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Trabzonspor",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878696",
+   "fecha": "2027-03-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Arsenal vs Crystal Palace",
+   "detalle": "Emirates Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879124",
+   "fecha": "2027-03-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Everton",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884610",
+   "fecha": "2027-03-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs SC Freiburg",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884608",
+   "fecha": "2027-03-03",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Eintracht Frankfurt vs Borussia Dortmund",
+   "detalle": "Deutsche Bank Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884601",
+   "fecha": "2027-03-06",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs Bayern Munich",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario",
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401932511",
+   "fecha": "2027-03-06",
+   "hora": "20:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Sporting Kansas City vs Minnesota United FC",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882657",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Villarreal vs Real Madrid",
+   "detalle": "Estadio de la Cerámica",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875100",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Cagliari",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874834",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs AS Roma",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874845",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Sassuolo vs Bologna",
+   "detalle": "Mapei Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885271",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Maritimo",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885274",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Braga",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885268",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Vitória de Guimaraes vs Benfica",
+   "detalle": "Estádio D. Afonso Henriques",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888120",
+   "fecha": "2027-03-07",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Kasimpasa vs Galatasaray",
+   "detalle": "Recep Tayyip Erdogan Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
    "id": "m-mujer",
    "fecha": "2027-03-08",
    "tipo": "comercial",
    "titulo": "Día de la Mujer",
    "prioridad": 1,
    "fuente": "LF10"
+  },
+  {
+   "id": "espn-eng.1-401878692",
+   "fecha": "2027-03-13",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Coventry City vs Manchester City",
+   "detalle": "Coventry Building Society Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401878691",
+   "fecha": "2027-03-13",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Crystal Palace vs Fulham",
+   "detalle": "Selhurst Park",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884592",
+   "fecha": "2027-03-13",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Bayern Munich vs Mainz",
+   "detalle": "Allianz Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884584",
+   "fecha": "2027-03-13",
+   "hora": "15:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "SV Elversberg vs Borussia Dortmund",
+   "detalle": "URSAPHARM-Arena an der Kaiserlinde",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401932495",
+   "fecha": "2027-03-13",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Seattle Sounders FC vs Sporting Kansas City",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882647",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Real Madrid vs Espanyol",
+   "detalle": "Santiago Bernabéu",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875144",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "AC Milan vs Sassuolo",
+   "detalle": "San Siro",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874825",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Bologna vs Napoli",
+   "detalle": "Renato Dall'Ara",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874865",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Lazio vs Juventus",
+   "detalle": "Olimpico",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885260",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Académico de Viseu vs Sporting CP",
+   "detalle": "Estádio do Fontelo",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885261",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Benfica vs Santa Clara",
+   "detalle": "Estádio da Luz",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885264",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "FC Porto vs Gil Vicente",
+   "detalle": "Estádio do Dragão",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888168",
+   "fecha": "2027-03-14",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Galatasaray vs Genclerbirligi",
+   "detalle": "RAMS Park",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401932487",
+   "fecha": "2027-03-17",
+   "hora": "21:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "LAFC vs Sporting Kansas City",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879109",
+   "fecha": "2027-03-20",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Ipswich Town vs Crystal Palace",
+   "detalle": "Portman Road",
+   "prioridad": 2,
+   "motivos": [
+    "Daniel Muñoz y Jefferson Lerma"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-eng.1-401879108",
+   "fecha": "2027-03-20",
+   "hora": "10:00",
+   "tipo": "partido",
+   "competencia": "Premier League",
+   "titulo": "Manchester City vs Manchester United",
+   "detalle": "Etihad Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884583",
+   "fecha": "2027-03-20",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "Borussia Dortmund vs Borussia Mönchengladbach",
+   "detalle": "Signal Iduna Park",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ger.1-401884576",
+   "fecha": "2027-03-20",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Bundesliga",
+   "titulo": "FC Cologne vs Bayern Munich",
+   "detalle": "RheinEnergieStadion",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Díaz / camisetas Adidas"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-usa.1-401932478",
+   "fecha": "2027-03-20",
+   "hora": "19:00",
+   "tipo": "partido",
+   "competencia": "MLS",
+   "titulo": "Sporting Kansas City vs San Jose Earthquakes",
+   "detalle": "",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-esp.1-401882645",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "LaLiga",
+   "titulo": "Celta Vigo vs Real Madrid",
+   "detalle": "Balaidos",
+   "prioridad": 2,
+   "motivos": [
+    "Camiseta James 14/15"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875142",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Atalanta vs AC Milan",
+   "detalle": "New Balance Arena",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Puma en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401875083",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Juventus vs Como",
+   "detalle": "Allianz Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas Adidas en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-ita.1-401874860",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Serie A",
+   "titulo": "Monza vs Bologna",
+   "detalle": "U-Power Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Jhon Lucumí"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885250",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Alverca vs Benfica",
+   "detalle": "Complexo Desportivo FC Alverca",
+   "prioridad": 2,
+   "motivos": [
+    "Richard Ríos"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885251",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Estoril vs FC Porto",
+   "detalle": "Estádio António Coimbra da Mota",
+   "prioridad": 2,
+   "motivos": [
+    "Camisetas New Balance en inventario"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-por.1-401885255",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Liga de Portugal",
+   "titulo": "Sporting CP vs Casa Pia",
+   "detalle": "Estádio José Alvalade",
+   "prioridad": 2,
+   "motivos": [
+    "Luis Javier Suárez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
+  },
+  {
+   "id": "espn-tur.1-401888162",
+   "fecha": "2027-03-21",
+   "hora": "13:00",
+   "tipo": "partido",
+   "competencia": "Superliga de Turquía",
+   "titulo": "Fenerbahce vs Galatasaray",
+   "detalle": "Şükrü Saracoğlu Stadium",
+   "prioridad": 2,
+   "motivos": [
+    "Davinson Sánchez"
+   ],
+   "estado": "",
+   "fuente": "ESPN"
   },
   {
    "id": "m-fifa-mar",
