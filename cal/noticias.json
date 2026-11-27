@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-11-27T17:05:28.020Z",
+ "actualizado": "2026-11-27T17:07:33.553Z",
  "errores": [],
- "total": 174,
+ "total": 173,
  "noticias": [
   {
-   "titulo": "Estos son los dos primeros fichajes del Junior de Barranquilla de Jorge Bava",
-   "medio": "Colombia.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1lqNjRLWGE1Qm5hM0xGekZST2pOQkYzWXotY3NDX2FDVHA4eU1xcXI0TzRPNzlTTHpyOVFISXg0Z1ZpeUxJM3RrMExjbTBJUDROM1R3LWJyWDgwekF6VTdwaTZndzNpWVJzYTZCWEtoemlUWmFqMlJ3Z25ZSV81SDZkYmdsc3lZNi1ieDJ4UGlpYjNVeEhUMVdmdVNuTGlvYXVUQUM2RkdHQTJsbTVSUVhMRjMtZw?oc=5",
-   "fecha": "2026-11-27T16:27:42.000Z",
+   "titulo": "Colombia perdió con Serbia y quedó segunda del Grupo L en el Mundial",
+   "medio": "ESPN Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcjRkX3hLUG02ZEhMR3B6UWpDNks4ak5lMXhHM3hGeWFwSW5uR0RIN0xsekszLUI3MEI0MTVqQlhPMUZ5bzgtTGVRRUc1RGpMVUlScjdFVjFYbkw2Ri12M3IxNEk2TUpHT3Y2TG1TcHB0STBpZ1dVZTI5SzIxNkp0RHdaMzR3b1N6UXk1aWVXaUhDYkllLW05RUpPcmFWc2VaZW9Za19BRk1zRmtDSjdxdGRtc2FrX0ZBLUw1eXcxZXJkVDhpcWVxMUhB?oc=5",
+   "fecha": "2026-11-27T16:14:05.000Z",
    "etiquetas": [
-    "Fichajes colombianos"
+    "Selección Colombia"
    ],
-   "fichaje": true
+   "fichaje": false
   },
   {
    "titulo": "Hamburgo Vs. Bayern Múnich: Día y hora del posible regreso a la titular de Luis Díaz",
@@ -20,16 +20,6 @@
    "fecha": "2026-11-27T14:35:03.000Z",
    "etiquetas": [
     "Luis Díaz"
-   ],
-   "fichaje": false
-  },
-  {
-   "titulo": "¡EN VIVO! Colombia vs Serbia por fecha 3 de grupos del Mundial Sub 17",
-   "medio": "ESPN Colombia",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcjRkX3hLUG02ZEhMR3B6UWpDNks4ak5lMXhHM3hGeWFwSW5uR0RIN0xsekszLUI3MEI0MTVqQlhPMUZ5bzgtTGVRRUc1RGpMVUlScjdFVjFYbkw2Ri12M3IxNEk2TUpHT3Y2TG1TcHB0STBpZ1dVZTI5SzIxNkp0RHdaMzR3b1N6UXk1aWVXaUhDYkllLW05RUpPcmFWc2VaZW9Za19BRk1zRmtDSjdxdGRtc2FrX0ZBLUw1eXcxZXJkVDhpcWVxMUhB?oc=5",
-   "fecha": "2026-11-27T14:03:45.000Z",
-   "etiquetas": [
-    "Selección Colombia"
    ],
    "fichaje": false
   },
@@ -175,7 +165,7 @@
    "fichaje": false
   },
   {
-   "titulo": "Tras una noche brillante en el Atanasio Girardot, James Rodríguez dejó un mensaje claro sobre su verdadero objetivo con Atlético Nacional en esta recta final del campeonato. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+   "titulo": "Tras una noche brillante en el Atanasio Girardot, James Rodríguez dejó un mensaje claro sobre su verdadero objetivo con Atlético Nacional en esta recta final del campeonato.\n\n🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
    "medio": "Facebook",
    "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNThWNkJDd0RZaWgyaWszemlSc2p5eUxlcGFYLVN4cE1sTHZSQXFfSlpmYUVBdWYxRVhIRGJkYkJBb2tQZzJyQlQ1SkdDaDd5WllvRTBscWYxbWluOHgxZ0dNdjZjUWxKQ0x3VHI5Yk5nOTROajNKQl9nRkF2OV9NTmFoLVpRVG45eVdSNGR2Sjh0NHBMd0g3N2txRXlBODhub1B6aUJ6dEMtNmgzek9EM1RLZVNuWHBiTmg5Zk55WmMzX05sWC1TSFg4SlNwS1hONjJWNUhFa1duc3VvVkxfMklnbWV6bWZ4TTNZRTVvYw?oc=5",
    "fecha": "2026-11-26T22:17:18.000Z",
@@ -191,6 +181,16 @@
    "fecha": "2026-11-26T22:00:25.000Z",
    "etiquetas": [
     "Jhon Lucumí"
+   ],
+   "fichaje": false
+  },
+  {
+   "titulo": "Daniel Muñoz le respondió a James Rodríguez: mensaje que ilusiona a hinchas de Nacional",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLTlIdlFRaW4yQ2NQdHotcE5PbFNOMnNJSnFydXdjYm9oZTF1MmYyaDFaUzBncHlUa2Y2eUQ0aERpNmp0X1B0Q1QxQTZHNURBWkpRM09iVmtyNDJhS1lmVHNHUlNtbWxHc3ZDZUNjQnlMdVBDcWdHTlRPOTJRTTZDR2pjRU9sbXF2RGlnSEZYYXE2WDJmYWZHYXhoSU5SUUpLcjFRTlFXTzI3b1JXUjA4SlVUSDdNTWV2V1IzeGo0T29qWEc1TjNGdWlTcDhzSDFZ0gHWAUFVX3lxTFBuRzVMUEdpb1hZenU0Uk9IYk9vMHRFTXhZcTZCMTlIVFIxOTExeHFqZjVQQ2FjZFpQUl91UWVwWWNLa1pOSUhBZ3M4ZWZQV3Q4TmNQLTVoblN0TmhKT0Rjb0xwS2xvZWNhWlo1UGFIdXROUDFwbGVMR1pNZ3o4eWp2R3BRd1A5czFiZVNyMC1jUW12THpBNE94T0hVakZYdzNlQnhsR3hiSTdRV2xIRUlJdVdQTWlTQUtHdVdzUnBaaWJUazRTWWduTzNqcDE0ekE0dzF5TlE?oc=5",
+   "fecha": "2026-11-26T21:38:58.000Z",
+   "etiquetas": [
+    "Daniel Muñoz"
    ],
    "fichaje": false
   },
@@ -215,14 +215,14 @@
    "fichaje": false
   },
   {
-   "titulo": "Camilo Durán la rompe en el Celtic y ahora el colombiano entró en planes de un equipo de la Premier League",
-   "medio": "Bolavip",
-   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWW1LZXhzd0tuUEppMEZDRDBPeldKNnpVZmpONnVOcy15eTJhOTBLSHVkcWF4OWFpbjlzclRnUGFwV0x2VjU4NkI1XzZDbHJYWlFvRUMtdHRJRDFCbHpJeVVsUWRHTm8tUGdfd1dxQnZQQXdsaWhrQzBBTE1Cd0FjY0FiMllndldKaDMyMHUtenp2RE9ubUtoTDB0TThoMXJTSE13S1JUMWt6bzVWVlpqTEhQVC1kQmxubzcwNXU5cm56Q04xTGxoVXozZjNiTlREUnVpWDhkcF9mUdIB3wFBVV95cUxPMVY5WWRrc1pOcTdObkd1LUUzWjlzRlExaExmWV9MTC1fR2NxUFI1R3VmemROdnlfeFlkellVcTJOWXh3N0hQZE5DQUVBQy1xek0xZnpUaFlLVXlVZ3VUVE9BMFpxdFRnYUVSa2oyZFpja3pxdmlZcUVNbXRpZi0wWGtwZEU3cWhGejFuQmEyNHo0VGRseXRPYWNzb3ZoekxxWS1xWXhjYzB6N3dsa3A2ZG1DV3hubzYtYWxQYjZjcE45NzVyVXdUNlpCSUluUDM1NHdaREVkaHcwM3BXZnpv?oc=5",
-   "fecha": "2026-11-26T21:02:47.000Z",
+   "titulo": "Edwuin Cetré pelea con Fabricio Pérez el puesto de Baltasar Rodríguez para enfrentar a Jhon Arias",
+   "medio": "El Futbolero Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2VvYUEzMXYzMEJldmpIQW0ydF9iejRRYzdtNXYxRTBKdDZqbmdFZTA4S3dUcTl0Vjh4b0w4Q3JNbDZrRkQzbEd4ZDBmUHFkd1RpTTA5NW5IZjdWbzZPYnprUWtaTnJxcWxrMEhSODZGaTRJOXV1SFMtYnlicUtBRWdHT2VBQVZ6aTc4QVd4SEF0bGhvNF9lOVRTd2oxRDVxdEFUa3Nzd013NlUyQ2xZbFpXTkMyYThuTzdQeno4dExlWHVGR2JKYkEycnpiLUlXal80YktfaHh1aGNXUk04bnl1R0NWeURx?oc=5",
+   "fecha": "2026-11-26T21:00:02.000Z",
    "etiquetas": [
-    "Fichajes colombianos"
+    "Richard Ríos"
    ],
-   "fichaje": true
+   "fichaje": false
   },
   {
    "titulo": "Atlético Nacional tendría a este delantero muy cerca de ser su primer fichaje",
@@ -325,6 +325,16 @@
    "fichaje": false
   },
   {
+   "titulo": "DT del Sporting exalta a Suárez: “Es un jugador mentalmente fuerte”",
+   "medio": "AS Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXR4NlZOWWdsdTJBMVVuSTFBc2V1ZUdwRGhTUTZXcHViWFliZGQ1VVU4dk5LOUJCem9FUlRuU3hyWFpwWTRXUjBFMktDUnlncmFlSGlNWFphWHY1cWt0SHpyNHVJYzNOemNwOUk3SkRXc0JrMkl0dTJ5bER5U0hZRUwzcEozVmJEZDRSSkdhMTlHT0xTRXBMVktzSzlIUG9EczlPc0V2bTVwZ9IBvgFBVV95cUxPUUMzWGtEQlBOS3RCLUg3OFIxdm5KM1NXUnJKZ2ZGdWxXblFrR2hCUGRjNFRQajFtaWJUQ05OaE1SRkJ0Z2prSjVUU2lLeEpDbDVfVGtzaHFRZ1RkcjRGZUMxWEFDNXRtZWpMVjNOQ1dxTU04eXlhdGZuSG1lOFJvTVZEa2hTbm80V1QwMmUyOWhNNTRfbUxYakdLV2VsTkFwZ2hqY2gyTkFnYmJ4LTlFRkluZEVYdGd5WUFQMkhR?oc=5",
+   "fecha": "2026-11-26T15:13:19.000Z",
+   "etiquetas": [
+    "Fichajes colombianos"
+   ],
+   "fichaje": true
+  },
+  {
    "titulo": "Cuándo juegan Cali vs Bucaramanga por fecha 3 de cuadrangulares Liga BetPlay: equipo, fecha, hora y TV en vivo",
    "medio": "ESPN Colombia",
    "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2VtQXUzMzkzVTNiZlIyWUhRSllLOHNJd2NIWlNDV1ZBeWFRRjhvalVSOGV4OVNrSkNvc1FBbTVGcmlqTmJ2ZmtHV2xoZnI4REhIdnBkamh0WGRWcDRSZGEwWDRQWGpPUWZPTXhwS2sySzFNUzVtMDlNN19EbWZYaDhDYWY5eXRxWmFtZHQ3MkQwRHcxUWhlN1BZU1J3SWdXajhmbl80Uk03U1AzOXAyWlBacW8yVE5DQnNTWU42NHRRTTVtRlUxV1NLbnp1N1dOSTNHdDlCeEhtOWkySFE?oc=5",
@@ -395,16 +405,6 @@
    "fichaje": false
   },
   {
-   "titulo": "El fichaje de lujo que “fue ofrecido” a Junior, Millonarios y Santa Fe: jugó en Barcelona y Milan",
-   "medio": "Revista Semana",
-   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN1M0eVFkc3ZjdTRmX2J5VEE4UHp3NWUwVHphQVZ6S2l6ZldDanB0bnRDalpLQjF1U0NvcFdPRE1mVjFQNDd6Q1Vva2MwVlExUzVFX0p2QkxaZmNBWDY1aTNiUGRPbnE5U01DVkFmMWVWNHRUZGthdnJGQk9QVXlhT2Y0M050Nmd1aEh0VzFPSlRpbUE3bGxFUVo0OHpqNmNPdjY3aE11QmxJc2oyT2U4ZFBNVHJmS29leVFtRnVOUnlOQ21iOWxiRXJwckdZZjdiZlcyeFpiTDNUQdIB3wFBVV95cUxNbVNLcUZ0UDM3T05KNjlHaVJ2bkEzak5IUjNQRHU0SnA5MFZhWkZSaHNfbWZqeTZTRU14RURaYlBDT3JfRm5tRFhLZjhTTk1XTzZhNU5fWmw5enNIZ1c2THh2NWlxZ3B4c3h1ZG51OHVHX3RKY3pkMC11WXJyUTRBUE9IX1haMUd0cHd2WFNyOU9mbkNTNzJ4dGVkc1NsN2ZyTklPRng3QklXaU4xZE9DSlpRTmNscC1yTThFMjZWRV85SUxfWDEwNzFqSDZPTVBNMGF4dm5od2o5ZktDT3lz?oc=5",
-   "fecha": "2026-11-26T12:54:53.000Z",
-   "etiquetas": [
-    "Fichajes colombianos"
-   ],
-   "fichaje": true
-  },
-  {
    "titulo": "Liga BetPlay 2026-2: programación de la fecha 3 de cuadrangulares",
    "medio": "Win Sports",
    "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWW11MjU5cXllZ1YySGJBTlJLdF8yMjJQX25GYXdhLVlsSDl6VUdwNjZzYjlfSkYxVmFsNF9vZG5TVXhXQTVtYXpTSURJcWZjY0hDdVR4Wll2ZW5pTVpoUFpQVDlNUXlWQkZ3aDhHaVBpM1RvUFZwQ0ZGbWdOdGRWOG4wS2JHQzBhVEUzaVRZUEdoZVJkOFZVUGRkQkR1MFd2RFFBMllXS3pGbFNiTG9EcEJUc3RBMFU0RUd2aHViVlI?oc=5",
@@ -421,16 +421,6 @@
    "fecha": "2026-11-26T11:54:12.000Z",
    "etiquetas": [
     "James Rodríguez"
-   ],
-   "fichaje": false
-  },
-  {
-   "titulo": "Daniel Muñoz visita Copiapó por función de Mil pedazos",
-   "medio": "Radio Atacama",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnNPUkNJYUFDZkZuZEpFSTdpLV84QzFuZW5XWGpNekJmeV85MjVLaTZxeGI4S3B4OHJJb3pVWlhPeDhMQmdOTzZMXzFmRWdGUktNeW9NMFlPeWIxUF9iaEd5NnBpMVh4Tl9LVHVwVGNwdWxZU0ZFd2t0QkozclRxcG0zcUMtV1c1Z0N6ZUxjNldhZXNQWUEteTg1WFJjRV85Sm12N3pR?oc=5",
-   "fecha": "2026-11-26T10:31:00.000Z",
-   "etiquetas": [
-    "Daniel Muñoz"
    ],
    "fichaje": false
   },
@@ -465,22 +455,22 @@
    "fichaje": false
   },
   {
-   "titulo": "James Rodríguez ya hizo de las suyas; recibió su primera distinción en el fútbol colombiano",
-   "medio": "Noticias Caracol",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQVZ4UlJVWkVxU1hBQW1uWGFyNDJadHNGcGtveVlQaGl1VExzOEpCZVVBSkxiVFQwTVNHZUtKVi1FanllWFg5WmtEVV9KTmRKMEhoTk43QUpVZHNGRDU5RFA5czVVQldLSG8wY3otNmNyMkNtTE1wSEY2aGhTWFdudnpDdEZGa3FacG1fVTZhOW1GbWF2T3BWSTN6U2hhV2lnd3pkS2NQb1g2UU54YWFYVWRMNDBDcU10T2lLMGxiVXZvRGFvVHUzb2dlcnF5SW4yNExzRWVlS0FlQkZ5NnE4ejV1RHhBVjNwbTJKYdIB-gFBVV95cUxPcDNwRUp2RjNHXzBRTGVYRGo2eDhHMTg2bVN0MlJWX25oX0ROSnRaQUhVTWVmYnk4TmxUNjlWV1hvNGJUS0lBV2E2NjBnVzdqZXEyYlNUZEp6Qmo1R3BGbWxWdjl6bGtXTG85aEgyZ0NwcHhrdEdxR3ZQNnRSdFJUR2NIbGVZZU5uY0FSdF9YaHRUZFRNQ05BXzJ3SlR0VzlMSjZtY2xvLUM0Sy1JX0dtQXY2YWIxNHdTREtTQlhxa2R3M3JtNXdOWW5JbWNpaEhUa2VISjlvUDFBMmVkOGppTU1pX1MzaFQydEVWeHVHZ2EyMWNTbUJpd3Jn?oc=5",
-   "fecha": "2026-11-26T03:56:45.000Z",
-   "etiquetas": [
-    "James Rodríguez"
-   ],
-   "fichaje": false
-  },
-  {
    "titulo": "James Rodríguez, tras ser figura contra Medellín; \"sueño con ganar títulos en Nacional\"",
    "medio": "Noticias Caracol",
    "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ1BMd3lCbkhjd3JsamN0akpvVVYzX285V3JnYW1pMjM5c01fdlJ0ODBJMjNpUDhwQjE2cXEtY21hc2hSRG9tZkVpYk04X2xvenRPdDRwYWEzR2JLakhJT3ZDZVcyUTAzeGlJZHlMNUlnbmtVbzk2UXNjM0ROWTlad1lhcFBwMHBIcXdISGFlZ2tRSGZnaUNoNUUwMEwzSEJwSUlKcDFiclZXemQySnUyYjNUY2JYU3JBeDVITHJITkVhOGRhdVNaZHAxODNWdFdlRGRpLVg4QnhpZzlET3BGS28xc9IB8AFBVV95cUxQemxhRmw3Z3BScWZrcktLN2NPbTVSWWktQXRJdElkY2lsVmdBY292eloyQjAtSkRXZ19INkpoaUJnTWhYaWZFdE4wdlhNWEVlMVVuNEI5N0F2TUplMkdTSXE3Zk5BRGtKRjJaOEZxT2VVa0FaVjl6dGJieDFLU25VMUtuX1VjdUxWNFFpLXRrcDhJWVV5ZUtETGZ6eEhnX2RvODRHQ0ZyYnlUWm1DR2pSVVhhdEJMeVdfNUxNNWNhUVdBMFBhQTRxSkVDMU5taVBTb2x2c3ZVQWxqQnByRXNMaTNvN3A5NlE5dWt0bHN6V0Y?oc=5",
    "fecha": "2026-11-26T03:49:20.000Z",
    "etiquetas": [
     "James Rodríguez"
+   ],
+   "fichaje": false
+  },
+  {
+   "titulo": "Cuadrangulares Liga BetPlay 2026: Así quedó la tabla de posiciones del Grupo A",
+   "medio": "ESPN Deportes",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLTFJTXo0SGZtQzhVbzdLaXBzdUtoQ2YtemRVUUJuS3RoTzk0S2pZVEN4dFNCeWZwcnhfRFMtWk5MTDdockU0ZTZVMDBjcVZHdG5PNERCLXFWWjhJVk9vRjhKajJVX1BIcjgxN1VuTjFoTzBacHY1OEFSWW1TanRmQ3NoUFFjdW9rNm15bnB5STBQbl9ZTktMclMwTXBDNTlGVFdpdFEyR0g0NlM3S2RuVjJXNWFIdE9UOVhmcjJJeVJDd0d5VzZKX3hMRDYzUkZIMU5DNXhRUEJYRlZsd1E?oc=5",
+   "fecha": "2026-11-26T03:45:00.000Z",
+   "etiquetas": [
+    "Liga BetPlay"
    ],
    "fichaje": false
   },
@@ -521,16 +511,6 @@
    "fecha": "2026-11-25T23:00:11.000Z",
    "etiquetas": [
     "Luis Javier Suárez"
-   ],
-   "fichaje": false
-  },
-  {
-   "titulo": "Previa y posibles alineaciones del Crystal Palace - Real Sociedad",
-   "medio": "FútbolFantasy",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVDE0Umc3R3VwRnBDel96YTBFSTUwbHVEcVNwbGNMVTR3Y3FtRUZ5RmVWZmRiODE2R0hkZThReUdsY0tjQTlheG14NFF2dlFUa0txYk5aUEVjZ3lVWlhuZFhfbFlnbnZMdUtTT0ZZSnVHMVlYdEhJQzhRYndob1c2ZmREYUZSXzg2ZUV4QkdCb09DM1dWM1p6X21CRFR6ZUt5LVJvc055Z1Y5OXZMV0dQTVdhZzY5Z0lJSjFST9IBvAFBVV95cUxNVDE0Umc3R3VwRnBDel96YTBFSTUwbHVEcVNwbGNMVTR3Y3FtRUZ5RmVWZmRiODE2R0hkZThReUdsY0tjQTlheG14NFF2dlFUa0txYk5aUEVjZ3lVWlhuZFhfbFlnbnZMdUtTT0ZZSnVHMVlYdEhJQzhRYndob1c2ZmREYUZSXzg2ZUV4QkdCb09DM1dWM1p6X21CRFR6ZUt5LVJvc055Z1Y5OXZMV0dQTVdhZzY5Z0lJSjFSTw?oc=5",
-   "fecha": "2026-11-25T22:49:16.000Z",
-   "etiquetas": [
-    "Jefferson Lerma"
    ],
    "fichaje": false
   },
@@ -585,22 +565,22 @@
    "fichaje": false
   },
   {
-   "titulo": "¿Cuántas veces ha ganado la Liga BetPlay el último clasificado a los cuadrangulares? los equipos que lograron",
-   "medio": "AS Colombia",
-   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNFlsS1RCaGZiWGFZQWZGMzdCczZ0UER2Q0VoMEFIQnlaeVZoSVJrRlZJYVNuODFhR3pnUFlPMXNiUk1YNmFzdGZnLXExUXlmRi04UWFVNENmOEs4bkRWdV9nZjJLLWxmOTExOVNsRzRFSWJ3ZndheFhJazR0MkVBSS1XYUdSYWRMc1dJTkRRV1piT1dxN2NGWTdPTTdGbVl3NG1wTjgwN0tKc1NNclFVZy1ZMTdKVUUtNGpaNnpNVldjenJZZDBobEZaR3pHang1bjg4dERMcVVMN05OUGRlQm5iblA2WkxHQ19wUjhRRk3SAYQCQVVfeXFMTlVscUJHLWoyMmRaYUdpdkFDXzF5bXN4OUNXb25IV1BsY1E4WUp3SDd3SE11SWIwWmZwVU9SYXNzUEdhZmZoUGdfdDQyWG90YTRsakp3ZER0LWZiT0luUWw5aXJHOERCcS1yZDJYRjlXU09Fb25NRFNJMEswR3NGZ0FiYzJnWXRUaUhxcklSNlU2dkpLN3JJR3M0bHJJQnh4OVNPaEVGbnV3am5hMFA1aEF6VmlOM3JaWVZlMWxreFBaWFlJakpPVGdjUU93R3ltdkEzTlh0UXpyS05rNl9KaXBTRUNZQTV3UHc1Unk2OUpjMEE1eFExc2l3QVh6T2J6d0hxYmM?oc=5",
-   "fecha": "2026-11-25T21:22:09.000Z",
-   "etiquetas": [
-    "Liga BetPlay"
-   ],
-   "fichaje": false
-  },
-  {
    "titulo": "Luis Javier Suárez no perdonó dos veces: gol con Sporting de Lisboa en Champions",
    "medio": "El Espectador",
    "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdVJHaVdMMWlDWFVNaTRQNjRCd1FxREdqTllVdGZwUFdEdmNlT0l2a1hhWXhvbjdHZm1ZRGhJMERoS1J4akZxcTZxQ1pOdG5oMWZxemw5TWItRzhTTkNsZGlLSUY3dVByNDNyQXBkMVl0MURISUczY1dLdVhlNlB1Zno2SnVYcHNmTU5ocE9ZWTg3djFLNm9BWkxUbkJnY0lnUzV5X1pPNlJGZUtYTkFCNXBxNUh6czN1TzExYk5mYUhUOG9CRmI2dzZ2VzVwZ9IB4gFBVV95cUxOOFZpaUdmZHlfQ0tjUEYzSzZPckZuLVhUWTZPanNHQ3VuT3E2NlZTRkhlaV9INUpzdF8xNHdzd1BfdHRoX2IyaWV6X2hYdkJsTEZCTmo4d1pVNEtEaVR4OUR3S0Zua2VibElxSW5LVGZkV2VHOWpnb0dxbnZka3JiY2lEVVpIWGRmOExFQXZBcWp1dmREdGJLNWVCRld0N044cGhFRXBrWGlGemJPcE5POEVGYzNaMkpaNTA5VThRX1lVZEJ6VTJ5NGhaTVg0Y3FhS3NFYkJobElHa2NsdDQ2TVJR?oc=5",
    "fecha": "2026-11-25T20:48:21.000Z",
    "etiquetas": [
     "Luis Javier Suárez"
+   ],
+   "fichaje": false
+  },
+  {
+   "titulo": "Un toque artístico en la nueva camiseta de visitante del Club Brugge",
+   "medio": "About Macron",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbV9BLWt3QlF0WU5ybDlsX0ZBQ3g0TWdZRFg5OHRFdjNhdFR3Q0twR1B0bkJ4ZjlOcWlTbVhjOUptQ0NFenZhZWxmUGUzbVdoakN4SFBJeTVZc2RCVjIzVFlJTGUtXzBodXRaTG9mT0Q0MlpfSU5Idk5teVpWVTFUZlZjM3ZOcmpZQ1NPT0hBNFdGRUZQakZhaUU2QXJYTGtwWHc2YWo2LV93NWt0VkNTZHBmZ09Xa3dnWFZCcm9wOTB3dktUenRz?oc=5",
+   "fecha": "2026-11-25T18:41:32.000Z",
+   "etiquetas": [
+    "Camisetas nuevas"
    ],
    "fichaje": false
   },
@@ -1191,16 +1171,6 @@
    "fichaje": false
   },
   {
-   "titulo": "Liga BetPlay 2026-2: programación de la fecha 2 de cuadrangulares",
-   "medio": "Win Sports",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzVmcW5yQ3M1YTgtbEdXaXlUbXZma09MOGJMbVppRlBySXk5cFZiZktKUjI1OG84akIyTTVfbnVDQlBQb0o5Wk5XQ3NXN3djMDFnOHg4Rm4wRTZQckVsZ2dBY0JjRURHMk9EV1pOTkx6b290Q0dkNEtUY3JaQXlBZkJPMDliV20xQjQzc3pYZFRtcWE4RU5HQjZPdTBkdUJfcUNwaVFEYlpPUnVIYTJTcjFKN0FfRWlMQWpxcVZCREs?oc=5",
-   "fecha": "2026-11-23T12:47:05.000Z",
-   "etiquetas": [
-    "Liga BetPlay"
-   ],
-   "fichaje": false
-  },
-  {
    "titulo": "Así fue el fin de semana del deporte sevillano: Daniel Muñoz se estrena como ganador en Moto2",
    "medio": "Diario de Sevilla",
    "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmZZODFsak1hUUJ3TjhWNDRmNm05c0JtbTktQi1mbXlkRVFVdnFrZVB1Y0RPQjAzNHFVcEFqT2dZQzd3SEJFMXFsRy1CTDQwaFpwdzFMVmllMlFqajNUdUEtVG91SFVSQUluaEdpZ1R4UkxPVGZHQ0M4RHhSM0ZVSHVkU09fTmRMMEx4c1R5QzZNemhNcnlONlVtMURqYTdrRDFoMllzeVpmdnBkcjlxSE5na3dUNkE?oc=5",
@@ -1221,12 +1191,12 @@
    "fichaje": false
   },
   {
-   "titulo": "Cali recibirá a la Selección Colombia y el comercio se alista para el partido",
-   "medio": "Kienyke",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUNvNnQ5QXVfNWJ0WlUwLVdwZC1jdXNrRktmUzJUZjUwMGR0eXpUZ0VUbmxYQTlWN1h5cFJ3SEFBQ01Cc1RBbjJ2TU0xVy00T3V4aERMMUZDSzBvVkVYRURKdDlCTWJxbDduSTF4WEpNLV8tNzJXTi03QWdScXV3N1VSd3dSS0dmamZZ?oc=5",
-   "fecha": "2026-11-23T08:00:00.000Z",
+   "titulo": "Plantel de Genk 2022/23: jugadores, dorsales y estadísticas de la Liga de Bélgica | All Football",
+   "medio": "懂球帝",
+   "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iTEFqQnp0aDRET0xXRHJnQXAycVc0T29aSkhkeHh0Y3hweFJ5NXpZNk5ERmtWNUt4VG5GVVpLOGhXelg5U0RVUlNwc24yd3R2SXBzOGwtb29Lamc?oc=5",
+   "fecha": "2026-11-23T09:43:12.000Z",
    "etiquetas": [
-    "Jefferson Lerma"
+    "Daniel Muñoz"
    ],
    "fichaje": false
   },
@@ -1237,6 +1207,16 @@
    "fecha": "2026-11-23T06:58:11.000Z",
    "etiquetas": [
     "Camisetas nuevas"
+   ],
+   "fichaje": false
+  },
+  {
+   "titulo": "David Alonso rozó el podio en el GP de Portugal de Moto2",
+   "medio": "PrimerTiempo.CO",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajdsSzNiM0QtOHBxaFJpSDBZQ1I0cEVCNmdMaVRGWkV5Ny0tXzFzMTN2VW9sN2h2WlVYTWZDSnhselktd0JKNG5PODBsanl6MnBYMEw2ckJiM1UwOEpGNnoxcVkyVGVFbFV2VVZBOTJFOW93WHVuR2J5cnB4XzhWOTJNeElBYkhqMi1tdURnblpQR09xTWdDdC1mYng?oc=5",
+   "fecha": "2026-11-23T03:18:41.000Z",
+   "etiquetas": [
+    "Daniel Muñoz"
    ],
    "fichaje": false
   },
@@ -1318,6 +1298,16 @@
    "fecha": "2026-11-22T22:10:25.000Z",
    "etiquetas": [
     "Linda Caicedo"
+   ],
+   "fichaje": false
+  },
+  {
+   "titulo": "Estos serían los finalistas de la Liga BetPlay, según nueva predicción: habría sorpresa con uno de los clubes",
+   "medio": "Infobae",
+   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWWpUX01DeExuVUFKaHk4a2k5MzVWQkxIWnU2RF9tQ1BlZ3d6NkxqOGNyZEkxMER1QlBmcE9VR3NVa1pGQ3liNk9qMUJJLTFWdUVWQ2dmZEZVR3hJSlp4a1c3TVByTmpVSURETDNsS0VGbE1zc0V3UE80X21oVlNmN01GalNJd1hMeWdld0VpQTAwOTJaUmJxR2dOTG14U2I5clJYLXUzMTRKMUtVSW1ZVEV3Rl85VDRSZG5DNU9udVd0SmpYRGFxcERibXFZa21nbE81R3lrOVM0R01JOWwyRW1NRnVONDAzZktVcWk3dTEtYWfSAY4CQVVfeXFMTlRfVDdkTzRBMW9MYzVJVm9sLV90elZwSWlBSFZ2REVpckVBSzdMazFmdDNTZThLWlNJdWZoWkl1d0ljSVk3ekpLQnNkMTRXSXM3RW1pZF90TmRjdzRyNWxpYXFTOWdka04yVFdLQUhaamNaSWxnMGpndEc0WmJUTlliR0tLeE5FcFJYMnZhal9ibmhpRTFwYWtNVnZ5cF9nbG91V3Q2WVRlNHI4NG5nR2VpOWExQUN6cXdpeERhQUV2OV8xalQxemJEVUtBelM3eTZCUWlnZGVYRGgxcE03dUFneWt6OFZ3dnNoMFdBY205dU9WVG02Y3ItQmVZaG50TG1uTkVMbjY0eDVUZU93?oc=5",
+   "fecha": "2026-11-22T22:01:00.000Z",
+   "etiquetas": [
+    "Liga BetPlay"
    ],
    "fichaje": false
   },
@@ -1442,22 +1432,12 @@
    "fichaje": false
   },
   {
-   "titulo": "Daniel Muñoz se estrena en Moto2 e Izan Guevara recorta distancias tras la caída de Manu González",
-   "medio": "COPE",
-   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUEtiMTR0R2dEcWthVG5FV3czVmduaTZGLVhxbl9mQjdyVk8yVnRSR0xnb3NSYjhva1d2Zmk2dTZCTVM5V3hjQnpIOEJ6dzZVSVg5ZDM1Z0h0dy1tblBUQUFTQUVWZ1VaSjdFUkVMc0VoZld2aUlITDNyRGdvRnBrQ2o3WHZQUmMwRFc5UlBOZzlPb3p2OFEzWXBOOG4xQ3J6ZlNtS3RmWFZoUTQ4SnZQV05uNXdmbjVqZ25rREh0dG1rcmRueWlMYkdXZFZNX2lZZE51bWI4NnJFNTFWZnJlVDhLWVFKdnBEdXlINkN30gHzAUFVX3lxTE5Xc2JGa1J3X3pac1RaNHVxdWY0ZWVyRGVwTVpRLXVLano2bWZueVJMaHJQQTNQRlQ2YUN1dlphbjJ0d05hdFE0cU5BOXRJZUN4eHlPNXJuVmVMVGdJN0Z3aG04bDlCbHdhdmlZSEROeVFpZ2ZpNkItbTdIMGFnUmJQUlFnSDk3MzZtdWsxUTZYSzdZd1NqSUYzS0lkUjVfR29ac3pWYmI1YnBVaGFWeXNYdkhWVUtkMUpyaklZX2pmMW5OTUxPbzlqczNXaUdONzl0V2pxaUxJVHRVUnF0Z3cwVzQ0UXI5WFFwcXBrN0x3dGhiSQ?oc=5",
-   "fecha": "2026-11-22T12:43:41.000Z",
+   "titulo": "Daniel Muñoz suma su primer triunfo mundialista en una carrera accidentada y sin el líder",
+   "medio": "Infobae",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdURmJuVlJZd3BKMENoaEQ0SF9ZVndfRzRZdWF6YWxHNjBqMEJuM051ODVGdkpEVG5JMHZzWUxndktDaTlaTWNDdGMtZFJNTkctSVBPMm8tOVNXcnE0eUp1UlRxN0xPWUlMZ0ItNVZDaHNTeGV2cmt5X211TkdXY211ZlEtcFhlOGNmOVljTmtXUW43VS1FMDUtUkpMZFNtakpGcVZ3aVd6SUcwbG9NZUw3WW5LQk9uZ0g2dmtydDllelZQd3c4blhaUEN1b0RhVnJyQlJsaHTSAfMBQVVfeXFMTS1HeTFLaEw1THJTTzRXalpyVkZaSU9UaVpmcm9YQm5VVUZVWGlIRHdNLTRlcXB5MDJfbGVmd2Q0UDBQbGNNZ3pUZlFSZjZIblJBSlVneDB3SHZrUFRhNkRpeW9UcGpTQ0I1LWtidGdWZUp3Y3pLTnkyYVhUT1FsdEQzX29lNjRidV9oSUZ1TVpQUXNQLUp2bkswN2ZNb2JMNm45QUdzdXNfT2tTQVVack9iOVhsVnVXa1BDNGJ6OWMxb0xyUnJVWHJxT3NZR3hucGhfZW5uMkRUUnlfTEpaMVk2dldWRTNxUWhJY2NlMHJWQ0lF?oc=5",
+   "fecha": "2026-11-22T12:30:00.000Z",
    "etiquetas": [
     "Daniel Muñoz"
-   ],
-   "fichaje": false
-  },
-  {
-   "titulo": "Un toque artístico en la nueva camiseta de visitante del Club Brugge",
-   "medio": "About Macron",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbV9BLWt3QlF0WU5ybDlsX0ZBQ3g0TWdZRFg5OHRFdjNhdFR3Q0twR1B0bkJ4ZjlOcWlTbVhjOUptQ0NFenZhZWxmUGUzbVdoakN4SFBJeTVZc2RCVjIzVFlJTGUtXzBodXRaTG9mT0Q0MlpfSU5Idk5teVpWVTFUZlZjM3ZOcmpZQ1NPT0hBNFdGRUZQakZhaUU2QXJYTGtwWHc2YWo2LV93NWt0VkNTZHBmZ09Xa3dnWFZCcm9wOTB3dktUenRz?oc=5",
-   "fecha": "2026-11-22T08:00:00.000Z",
-   "etiquetas": [
-    "Camisetas nuevas"
    ],
    "fichaje": false
   },
@@ -1592,26 +1572,6 @@
    "fichaje": false
   },
   {
-   "titulo": "Frank alinea a Khalaili y McNeil en el once del Palace",
-   "medio": "Tu Futbolero",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUwxRzBMRnNtTUxSSjZBQ2thMlV0WjNSd3h0MEZkUVg4dWlrU3dvUnBFLURSbUtvUEVKMVByaXMtLW5oM3kwa0cxRlVSRWw4akhGZjExa1dDRjAwSHlMM3htZlpNbEtVM2JPOUNwUHJtU2NLOWRBM1E1Q3o5Rllqcmd4ejNqTUZNTXZwV2JFZlNNNjVLRHlfWXZ3eGs0dElL?oc=5",
-   "fecha": "2026-11-21T15:44:35.000Z",
-   "etiquetas": [
-    "Jefferson Lerma"
-   ],
-   "fichaje": false
-  },
-  {
-   "titulo": "Coventry vs Crystal Palace - marcador en vivo, alineaciones previstas y estadísticas H2H",
-   "medio": "FotMob",
-   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KajBROEZuNjFaS0pyX0NVdVFUWk5WV3BfaWFWUGtkVXZIUmNueGxoR0VvS0hhYXkxRmYzVk9vaEdENVNoQlBxaXpQSF9Pb09jM3dJenhUSndTRFlkSmM0aVZ2WVQyMHdUdTdkY1A3S0xEb3gtYmVZSnFNcVM?oc=5",
-   "fecha": "2026-11-21T15:00:00.000Z",
-   "etiquetas": [
-    "Jefferson Lerma"
-   ],
-   "fichaje": false
-  },
-  {
    "titulo": "Juan Fernando Quintero volvió a sonar en cercanías de River Plate; ¿se alarman en el DIM?",
    "medio": "Noticias Caracol",
    "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMzdZclR2d0RLNFllM041VWl1enBJTTh4UVNQdGFlb1JzX1BYSHA4NjktTGNGOHBWZmVXWU95RGFyV0dDOV9qTm5teUQwNE5nb2hVeG1EX2FKUHZJeUdralRWa2o2Z0hwR0pFYkdWaDBOcWE3RWx3NXpvU0JJdE1Ya2ZyQXRzekJXbVowUDVHak5JRTNqWFVTcnlwMENabm02SXRaRFk2dVdtSm13VUN1YlFYWUxxQ0NJSjhGVVpNWnh3Rk5TTnRYZzN2S1ZiWVpkbVNsWWtKU2xhNmZ2LVR0NmNMZUNIZ2tjVklXU0JEbDV3VDDSAYACQVVfeXFMUE9LSWVKaEQ5NXZsUUVoVW83Z0N5TlA5VmtlZW04ck9mbGlxSEltUnljT1JyYTg3Z0dGTUxvcFl3VHU0ZXFMSEtVdHU4VVk5bC1fWDdKWjJZRkxhVTN4ajR3UlFDSGxFMmtzOFFwRU1keWNZQnBhVkJ4STIxRVJLNEhKT1NlZGdsNGFCX2FBRDVCM0h1a0xGLTY3TkFOYjZkTzY3RUh3NHY2cGFxMEFVNlBfUWc2ZlFkaFN1WS1Ua0NITnd3eGV2eDRwSnBhU1ViQlpuNTNxOGxFQWNVeS1aSlhKT0Jxb2kzczd4R3IwaVRfT1VrWUZJbl96SjFhclhwMQ?oc=5",
@@ -1630,6 +1590,16 @@
     "Radamel Falcao"
    ],
    "fichaje": false
+  },
+  {
+   "titulo": "Primer fichaje en el Junior de Jorge Bava: volante de experiencia sería oficializado pronto",
+   "medio": "Revista Semana",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazhTZlNHNS1QQklmal96RU5UU2d6dVBmMGxFbTdEVXZPOTBLbmVlM3NMblNsd3ZOMTFHYm5MVFh3ZmlWYktFZTdJeFpveXF2SmlfOHA3VF9mYjMxZmsyaENYRzFFRlk2LWlZU3pQS1p2LVZYNnlydlY0alRSSjBoSkU1blItMFJPODhtMW0tU0lqc3JLaTlxZ2NVUFcwVWNpZGNjY2VueGtoRi1KczFueTQ5OW9IdThEdW4wUktneVhsQks0SUtNRlJOS2V0SGkzMkljUWtB0gHbAUFVX3lxTFBGY2xIaUFhQTNIblN1ZGxoeFVLSWhGVWUzLXlmQjhmZmE1TWJVWno5S3NHTUtqWXBDMWE4QS01U3lHRXlRYkhTSld5Y1RybC1GRG9jbFcydk5YaHM2SkRzU0hydTJHemdfUlNiNG9EcmJLLXJrVUZlU050dWhzdlBTdHlEOFRlVlpmREZPUTg3NXVpLUstSnVydWdaR0lQRlhqUGtQcTZfNUlnNGdidjE3Z1hDMUJSRHlNNy1vVnRHSHpTT1hVNl9kenJyRHFtbF9fdXJGZGpCanVFYw?oc=5",
+   "fecha": "2026-11-21T08:00:00.000Z",
+   "etiquetas": [
+    "Fichajes colombianos"
+   ],
+   "fichaje": true
   },
   {
    "titulo": "Una camiseta del Iberia, antecedente del Real Zaragoza, a la venta por una cifra astronómica",
@@ -1673,14 +1643,14 @@
    "fichaje": false
   },
   {
-   "titulo": "Superintendencia de Industria y Comercio archivó investigación contra 16 clubes por presuntas irregularidades en fichajes",
-   "medio": "Infobae",
-   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQWpfUG1YNnR1dTYtLWVCcXZyRDgzREg5ck9OUnVVSmthUEZXaEx0REwzMHFUcExERV9GNVVGRXI4ZjFoMnU0aHRia2FfNFZSbnlpTEFqa05DLU90NUpKOHZoVzJrUHMwZFZxVENpYWlKYlEwenZzd0MzY0tLUElPcnljOWQtdzlCTi1PM185clBObVJkSzNBQlFvY0dTUVl4VWlYZGdEZ3l2NE1nRndFMms3cGhzbk1Md1FibVViWUNFbXVEZVYyc3JhZjduTy1KUERIM0VYUVZCNDFycUxZSnFqcGZmN2duYTY1N3J2VF81eUJHUy1GeHl30gGUAkFVX3lxTE91ajBQNlZjcmtuWF8yNnRmMWN5NW5pTHlvV1RGbksxRUo5aGFKWTFlb0VfU0ZmVE9zRmhrY0s1MGlBSnZ4VVVvZmx1Tl9JUEJ6dVZSZXB3dDJxRVltXzJ1U19rY1NIenl1TWZXbmEwWTMzY0xOUm56TVM1Y2pnU3h4eFpMS3EwWTEtbkFIR21VZHAxcFM1dU9hS2lTZWlGeFV5ZWNuaV9mNHMxcE1hWTNIaG5hSl9DTlFxa19DMnlLd294WUVpVXJkOVkyX3lTd2VITFBYOTJWa1JYdmJHU0puYm13QlZxMS1JT1ZqQTFfcWNXVWJYcW1Oanc5SUNsN2Frb0JQcjkwbXZPYy1SNHk0OThhXw?oc=5",
-   "fecha": "2026-11-20T21:54:00.000Z",
+   "titulo": "Atlético Nacional va con todas sus figuras a Manizales: James lidera convocatoria",
+   "medio": "Futbolred",
+   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOWY3STh6WG52YXBhVlJjSEZZM1F0blo5N08ySWxZckw0MV84VTR0WThKUWZneFpZbzh3TGhoMkhzaEExYklUdFI5Z2VhTnJTM3ViZUhfZjRRS3RwQ1J0OFo1OTdYRFZrT1ozUEZQZ19MalQzMkdMUTRyZU1uTDNqZS1JT09RRFpRYWtBWHQxM25PZ3VPVmVBMDRWZlN5ckF1TDI3TkUxZ01wU1B1Vkp0c0F2bjczQUdfbjZFMkl3OFB5SVZ5T2tRLUlfRS1XcVlCUVpVS1YxbUVSX0RTcDJjeEIwV0FXNHZSc0xR0gHwAUFVX3lxTE9kN0xFOEgzckY4TWFqVHZ1alBPRHZpZ3kyc3FmUzRlcUdWQ1gtaE82bF9qSEZvVzQxRzZ3UXBxVzNUMHlCd0Z5c1k3cjJuV2NkekZQWll0ODF0cEtsR0RzMkVMWVNZYzk0b1BPM0tOX2I5WU9haGM3azlUNVVDX2NvV01URUhHVUFsLXVMWEVxQ19XbzlhNG9NQTl6OFZsNEJScUtpX3dkWnBEV0FvcGl4OXhvLW1sZzhPUXg0Wk9HdURRRWtVNnRrckwtTkgtM1EyU3JFX0pCc1ozVkdsdks1dGZ6S2Rfb2tqMXI0V1lPcQ?oc=5",
+   "fecha": "2026-11-20T21:29:43.000Z",
    "etiquetas": [
-    "Fichajes colombianos"
+    "James Rodríguez"
    ],
-   "fichaje": true
+   "fichaje": false
   },
   {
    "titulo": "Luis Díaz compite con Kane y Olise: el Bayern también disputa los Globe Soccer",
@@ -1713,6 +1683,16 @@
    "fichaje": false
   },
   {
+   "titulo": "Dayro Moreno, a la caza de los 400 goles en los cuadrangulares",
+   "medio": "AS Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2NFN2pyNW5yNVJQZmhaTmdoMVNjMlUzaThPekxnWlROUVdGcjZma3BQdS1JYUlUYXAwTXBCOW9hOVdsQWJmS2hocXAxUzdMc0lvcTBIWFVZODdZdHBZTmtRMTBSZnhBT0dlSHNEd09yMzloLXlpSlRLcFdGQmV1ZWk4dmhkZWZjajhVQUR6WkpSZTc5Um1CanctREVELUlEb1FUckpn0gG6AUFVX3lxTFA1WDN2M1N1YVduVG1NY0RIcGFsdFoxSEJnWnF6SHZSemlDSVhaSEhrMDRDNWVRZG0zZzdwcmxuekpLMWFVM0tGZmYzaFV3UGRDSFJLSWVFSXcwdHJOcG40TFlkem5mQ1hDeEdjX0pha2dlTHRkOTB2M01ZQ0JEOS15VUhKdmxJbkY2Sm9nUkh0YUVHVEhrTmQ4MzFERzNGd0J4cmhtSlREMUp3bnlreGxTVGFncjFOYmFqQQ?oc=5",
+   "fecha": "2026-11-20T18:41:49.000Z",
+   "etiquetas": [
+    "Fichajes colombianos"
+   ],
+   "fichaje": true
+  },
+  {
    "titulo": "Representante de Juanfer Quintero responde versiones sobre su regreso a River Plate",
    "medio": "La FM",
    "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWdKSDhrcXZzdkNzMnVHR2dwQjl4bWhfcFRMOTh6anRTckpPY1JhSHg4LTIxMmNZVnhLc2szX3d6MERWM0RuOEVBTE5kdXY3S1U3eTBNVmk4MF9yUGg2cXJ1Zm1rbWZPQ3ZDYzVkOEhlSDBqR09yOFpiNnlpMy1iYUhxM1FUTUFJTWZMTFRXQTB5Vmx4OFdLWNIBmAFBVV95cUxOQ2dxbmZ4SFZmRDQybHZyRDFVcHd0T2FpNTNfelB5M2dkSEsxcGRaZUpvQV9iWFd3R2FUV1gxclM5VTZzWi0yRlA2akZibWxoUk42bFV5NEZYYXFyQlhRNWctenEtZ0hrbW5GZDI3WEtxNHB1OEx0RVZXMTUtSG9Pc1ZpUEp4Z2RXY0xCWGNvbnpvOXJkRnRIUQ?oc=5",
@@ -1741,6 +1721,16 @@
     "Juan Fernando Quintero"
    ],
    "fichaje": false
+  },
+  {
+   "titulo": "Millonarios evalúa fichajes para 2027 mientras disputa los cuadrangulares: jugador de Junior aparece en el radar",
+   "medio": "El Tiempo",
+   "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbzY5WnpCX0JCNldvM1RUUTN3THQ2ellYMEdNQ2d4VnY3RElQcjU2TlREYzBDdlQzTkVLdlJUNkkwdklBaU1ka3paV0dSemd4VHhrQ1ByanBOLWVBRlplVlNBSGpqZVZaZEMxel9NQ21MUUtpbk1oU3Z6WVdOMmgxVnRIbFNCV3FldnFLYTRod1ctQVBkbVhFVklpemlpRzE1TkwwNE1zaGU2NUROWUY4STl6QXU2YXRHTDB2YktGMUpWSkFPLWx0dVVETno2OEYybkhDM1pTSVhoejBOMVk3bWhSTkFyUEpNZ3JESHdVcjJSRTF6WXFkNTUyZGJWWG1Q0gGGAkFVX3lxTE5KUndCUFMydEc2eVdQQUE3elNxNnZKYjdqMmhnUjFSemkzbkNYaE5JM1g1ZHJqSGZjR2RFdTZpQTFHT2FXcjJwRmZjT2l5M2JvbXdEcEVzQVBMSExscDdNM250ajB2NFRvWGRJVlcybkpUUS02YzY5Ulh0YTA5eUVOWXljSjExaG1aeVpKbnVTMlg2Z2JoU2lmZnVBcURCRU4weG5vcHJ4Y2Q3VEljZFNNeWJpQ2pRYkZ3TmNqUzdYQ0gxMjV0OUxrVjcwQUp4MGpIS3NDNmZMQWpNZzdTLU9oQlE5WlZPc3VMdWZ0dFJvR3VJQ3psSE9TRk1DZzVWN0FxOXJmT2c?oc=5",
+   "fecha": "2026-11-20T17:49:48.000Z",
+   "etiquetas": [
+    "Fichajes colombianos"
+   ],
+   "fichaje": true
   },
   {
    "titulo": "Representante de Juanfer Quintero aclaró su futuro ante rumores de River",
