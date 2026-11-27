@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T14:59:04.698Z",
+ "actualizado": "2026-11-27T15:00:57.740Z",
  "errores": [],
  "total": 333,
  "eventos": [
@@ -162,7 +162,7 @@
    "competencia": "Liga MX",
    "titulo": "Toluca vs Atlas",
    "detalle": "1st Leg · Estadio Nemesio Díez Riega",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 2-0",
    "fuente": "ESPN"
@@ -190,7 +190,7 @@
    "competencia": "Liga MX",
    "titulo": "Monterrey vs América",
    "detalle": "1st Leg · Estadio BBVA",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 0-0",
    "fuente": "ESPN"
@@ -263,7 +263,7 @@
    "competencia": "Liga MX",
    "titulo": "Pachuca vs Guadalajara",
    "detalle": "1st Leg · Estadio Hidalgo",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 2-1",
    "fuente": "ESPN"
@@ -276,7 +276,7 @@
    "competencia": "Liga MX",
    "titulo": "León vs Cruz Azul",
    "detalle": "1st Leg · Estadio León",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "Final: 0-4",
    "fuente": "ESPN"
@@ -314,7 +314,7 @@
    "competencia": "MLS",
    "titulo": "Columbus Crew vs Inter Miami CF",
    "detalle": "CLB leads series 1-0 · ScottsMiracle-Gro Field",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -342,7 +342,7 @@
    "competencia": "MLS",
    "titulo": "Real Salt Lake vs Vancouver Whitecaps",
    "detalle": "VAN leads series 1-0 · America First Field",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -370,7 +370,7 @@
    "competencia": "MLS",
    "titulo": "Charlotte FC vs Chicago Fire FC",
    "detalle": "CLT leads series 1-0 · Bank of America Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -383,7 +383,7 @@
    "competencia": "MLS",
    "titulo": "Houston Dynamo FC vs San Jose Earthquakes",
    "detalle": "SJ leads series 1-0 · Shell Energy Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -435,7 +435,7 @@
    "competencia": "MLS",
    "titulo": "Philadelphia Union vs New England Revolution",
    "detalle": "NE leads series 1-0 · Subaru Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -448,7 +448,7 @@
    "competencia": "Liga de Argentina",
    "titulo": "Vélez Sarsfield vs Independiente",
    "detalle": "José Amalfitani",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -461,7 +461,7 @@
    "competencia": "MLS",
    "titulo": "FC Cincinnati vs Nashville SC",
    "detalle": "CIN leads series 1-0 · TQL Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -489,7 +489,7 @@
    "competencia": "Liga MX",
    "titulo": "Atlas vs Toluca",
    "detalle": "2nd Leg - Toluca lead 2-0 on aggregate · Estadio Jalisco",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -502,7 +502,7 @@
    "competencia": "Liga de Argentina",
    "titulo": "Instituto (Córdoba) vs River Plate",
    "detalle": "Monumental Presidente Perón",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -515,7 +515,7 @@
    "competencia": "MLS",
    "titulo": "LAFC vs St. Louis CITY SC",
    "detalle": "STL leads series 1-0 · BMO Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -528,7 +528,7 @@
    "competencia": "Liga MX",
    "titulo": "América vs Monterrey",
    "detalle": "2nd Leg - Tied on aggregate · Estadio Banorte",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -541,7 +541,7 @@
    "competencia": "MLS",
    "titulo": "Portland Timbers vs FC Dallas",
    "detalle": "DAL leads series 1-0 · Providence Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -624,7 +624,7 @@
    "competencia": "Liga de Argentina",
    "titulo": "Rosario Central vs Barracas Central",
    "detalle": "Gigante de Arroyito",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -668,7 +668,7 @@
    "competencia": "Liga de Argentina",
    "titulo": "Boca Juniors vs Gimnasia La Plata",
    "detalle": "Alberto José Armando (La Bombonera)",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [
     "Camisetas Adidas en inventario"
    ],
@@ -683,7 +683,7 @@
    "competencia": "Liga MX",
    "titulo": "Guadalajara vs Pachuca",
    "detalle": "2nd Leg - Pachuca lead 2-1 on aggregate · Estadio Akron",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -696,7 +696,7 @@
    "competencia": "Liga MX",
    "titulo": "Cruz Azul vs León",
    "detalle": "2nd Leg - Cruz Azul lead 4-0 on aggregate · Estadio Banorte",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -872,7 +872,7 @@
    "competencia": "MLS",
    "titulo": "New England Revolution vs Philadelphia Union",
    "detalle": "NE leads series 1-0 · Gillette Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -885,7 +885,7 @@
    "competencia": "MLS",
    "titulo": "Inter Miami CF vs Columbus Crew",
    "detalle": "CLB leads series 1-0 · Nu Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -898,7 +898,7 @@
    "competencia": "MLS",
    "titulo": "Chicago Fire FC vs Charlotte FC",
    "detalle": "CLT leads series 1-0 · SeatGeek Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -911,7 +911,7 @@
    "competencia": "MLS",
    "titulo": "FC Dallas vs Portland Timbers",
    "detalle": "DAL leads series 1-0 · Toyota Stadium",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -924,7 +924,7 @@
    "competencia": "MLS",
    "titulo": "Nashville SC vs FC Cincinnati",
    "detalle": "CIN leads series 1-0 · GEODIS Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -937,7 +937,7 @@
    "competencia": "MLS",
    "titulo": "St. Louis CITY SC vs LAFC",
    "detalle": "STL leads series 1-0 · Energizer Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -965,7 +965,7 @@
    "competencia": "MLS",
    "titulo": "Vancouver Whitecaps vs Real Salt Lake",
    "detalle": "VAN leads series 1-0 · BC Place",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
@@ -978,7 +978,7 @@
    "competencia": "MLS",
    "titulo": "San Jose Earthquakes vs Houston Dynamo FC",
    "detalle": "SJ leads series 1-0 · PayPal Park",
-   "prioridad": 2,
+   "prioridad": 1,
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
