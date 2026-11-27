@@ -46,13 +46,27 @@ const FASE = /final|semifinal|cuartos|quarter|semi|play-?off|cuadrangular|octavo
 
 // ---------- Partidos (ESPN) ----------
 const partidos = [];
-const desde = ymd(diasDesde(-(cfg.dias_atras ?? 2)));
-const hasta = ymd(diasDesde(cfg.dias_adelante ?? 120));
+// ESPN no acepta rangos largos: se consulta por tramos de 14 días.
+const tramos = [];
+for (let d = -(cfg.dias_atras ?? 2); d < (cfg.dias_adelante ?? 120); d += 14) {
+  tramos.push(`${ymd(diasDesde(d))}-${ymd(diasDesde(Math.min(d + 13, cfg.dias_adelante ?? 120)))}`);
+}
+async function eventosLiga(id) {
+  const out = new Map();
+  let fallos = 0, ultimo = '';
+  for (const t of tramos) {
+    try {
+      const j = await traer(`https://site.api.espn.com/apis/site/v2/sports/soccer/${id}/scoreboard?dates=${t}`);
+      (j.events || []).forEach((e) => out.set(e.id, e));
+    } catch (e) { fallos++; ultimo = e.message; }
+  }
+  if (fallos === tramos.length) throw new Error(ultimo || 'sin respuesta');
+  return [...out.values()];
+}
 for (const liga of cfg.ligas || []) {
   try {
-    const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${liga.id}/scoreboard?dates=${desde}-${hasta}&limit=1000`;
-    const j = await traer(url);
-    for (const ev of j.events || []) {
+    const lista = await eventosLiga(liga.id);
+    for (const ev of lista) {
       const comp = (ev.competitions || [])[0] || {};
       const lados = (comp.competitors || []).map((c) => ({
         nombre: c.team?.displayName || c.team?.name || '?',
