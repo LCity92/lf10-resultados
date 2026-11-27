@@ -47,11 +47,10 @@ const FASE = /final|semifinal|cuartos|quarter|semi|play-?off|cuadrangular|octavo
 // ---------- Partidos (ESPN) ----------
 const partidos = [];
 if (process.env.DIAG) {
-  for (const u of ['https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard',
+  for (const u of ['https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=202612',
                    'https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard',
-                   `https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=${ymd(diasDesde(3))}`,
-                   `https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=${ymd(diasDesde(0))}-${ymd(diasDesde(13))}`]) {
-    try { const j = await traer(u); console.log('DIAG OK', u, (j.events || []).length); } catch (e) { console.log('DIAG FAIL', u, e.message); }
+                   'https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard']) {
+    try { const j = await traer(u); const c = j.leagues?.[0]?.calendar || []; console.log('DIAG OK', u, (j.events || []).length, 'cal', c.length, JSON.stringify(c.slice(0, 3)).slice(0, 200), 'last', JSON.stringify(c.slice(-2)).slice(0,150)); } catch (e) { console.log('DIAG FAIL', u, e.message); }
   }
 }
 // ESPN no acepta rangos largos: se consulta por tramos de 14 días.
