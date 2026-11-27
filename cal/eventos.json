@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-27T15:00:57.740Z",
+ "actualizado": "2026-11-27T15:03:29.702Z",
  "errores": [],
- "total": 333,
+ "total": 330,
  "eventos": [
   {
    "id": "espn-uefa.champions-401915378",
@@ -389,17 +389,6 @@
    "fuente": "ESPN"
   },
   {
-   "id": "m-lib-final-2026",
-   "fecha": "2026-11-28",
-   "hora": "15:00",
-   "tipo": "partido",
-   "competencia": "Copa Libertadores",
-   "titulo": "Final Copa Libertadores: Palmeiras vs Estudiantes",
-   "detalle": "Montevideo",
-   "prioridad": 3,
-   "fuente": "LF10"
-  },
-  {
    "id": "espn-conmebol.libertadores-401912519",
    "fecha": "2026-11-28",
    "hora": "15:00",
@@ -545,16 +534,6 @@
    "motivos": [],
    "estado": "",
    "fuente": "ESPN"
-  },
-  {
-   "id": "m-cuad-f4",
-   "fecha": "2026-11-29",
-   "tipo": "partido",
-   "competencia": "Liga BetPlay",
-   "titulo": "Cuadrangulares Liga BetPlay: fecha 4",
-   "prioridad": 3,
-   "tentativa": true,
-   "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
   },
   {
    "id": "espn-eng.1-401879230",
@@ -792,17 +771,6 @@
    ],
    "estado": "",
    "fuente": "ESPN"
-  },
-  {
-   "id": "m-cuad-f5",
-   "fecha": "2026-12-02",
-   "tipo": "partido",
-   "competencia": "Liga BetPlay",
-   "titulo": "Cuadrangulares Liga BetPlay: fecha 5",
-   "detalle": "En la parrilla: Nacional vs Santa Fe",
-   "prioridad": 3,
-   "tentativa": true,
-   "fuente": "https://www.noticiasrcn.com/deportes/liga-betplay-2026-fechas-cuadrangulares-final-1078554"
   },
   {
    "id": "espn-esp.1-401882698",
