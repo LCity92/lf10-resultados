@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Calendario y noticias LF10</title>
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="theme-color" content="#141312">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Figtree:wght@400;500;600&display=swap">
+<style>
+:root{
+  --bg:#f5f4f2; --surface:#fcfcfb; --line:#e3e1dd; --fg:#141312; --fg2:#57534e; --muted:#8a857f;
+  --accent:#9b2c1f; --accent-soft:#f3e3df; --chip:#efedea;
+  --t-partido:#2a78d6; --t-seleccion:#c9a227; --t-comercial:#1baf7a; --t-lf10:#9b2c1f; --t-mercado:#7b4fd1;
+  --display:"Barlow Condensed","Arial Narrow",system-ui,sans-serif; --body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#121211; --surface:#1a1a19; --line:#2e2d2b; --fg:#f6f5f2; --fg2:#c3c2b7; --muted:#8f8c85;
+  --accent:#e0765f; --accent-soft:#3a211c; --chip:#262523; color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:14px;line-height:1.45}
+.wrap{max-width:1100px;margin:0 auto;padding:16px 18px 60px;display:grid;gap:14px}
+header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;border-bottom:2px solid var(--fg);padding-bottom:10px}
+.brand{display:flex;align-items:center;gap:12px}
+.brand img{height:40px;width:40px;border-radius:8px;background:#fff}
+h1{font-family:var(--display);font-weight:600;font-size:24px;margin:0;text-transform:uppercase;letter-spacing:.05em}
+.sub{font-size:12px;color:var(--muted)}
+a{color:inherit}
+.back{font-size:13px;color:var(--fg2);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:5px 12px}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);overflow-x:auto}
+.tab{appearance:none;border:0;background:none;font:600 15px var(--display);text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding:8px 12px;border-bottom:3px solid transparent;cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--fg);border-color:var(--accent)}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line)}
+.search{flex:1 1 220px;min-width:180px;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:10px;padding:8px 12px;font:inherit}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--fg2);border-radius:999px;padding:4px 11px;font:500 13px var(--body);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.chip .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:1px}
+select{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:10px;padding:7px 10px;font:inherit}
+.toggle{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--fg2);cursor:pointer}
+.note{font-size:12.5px;color:var(--fg2);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.note.warn{border-color:#d9a441}
+.now{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px}
+.now .card{min-width:220px}
+.week h2{font:600 18px var(--display);text-transform:uppercase;letter-spacing:.05em;margin:18px 0 6px;color:var(--fg2)}
+.day{display:grid;grid-template-columns:86px 1fr;gap:10px;padding:8px 0;border-top:1px solid var(--line)}
+.dlabel{font:600 15px var(--display);text-transform:uppercase;line-height:1.1}
+.dlabel small{display:block;font:500 12px var(--body);color:var(--muted);text-transform:none}
+.dlabel.today{color:var(--accent)}
+.items{display:grid;gap:6px}
+.card{display:grid;grid-template-columns:4px 1fr;gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 10px 8px 0;overflow:hidden}
+.card .stripe{border-radius:0 4px 4px 0}
+.card .t{font-weight:600}
+.meta{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:12px;color:var(--muted);margin-top:2px}
+.tag{display:inline-block;font-size:11px;border-radius:6px;padding:1px 7px;background:var(--chip);color:var(--fg2)}
+.tag.hi{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.tag.tent{border:1px dashed var(--muted);background:none}
+.more{appearance:none;border:0;background:none;color:var(--accent);font:600 13px var(--body);cursor:pointer;text-align:left;padding:2px 0}
+.empty{color:var(--muted);padding:24px 0;text-align:center}
+.news{display:grid;gap:8px}
+.ncard{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.ncard a{font-weight:600;text-decoration:none}
+.ncard a:hover{text-decoration:underline}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px}
+.panel h3{font:600 17px var(--display);text-transform:uppercase;letter-spacing:.05em;margin:0 0 8px}
+.row{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:5px 0;border-top:1px solid var(--line);font-size:13px}
+.row .why{font-size:11.5px;color:var(--muted)}
+.row.off span:first-child{text-decoration:line-through;color:var(--muted)}
+.mini{appearance:none;border:1px solid var(--line);background:none;color:var(--fg2);border-radius:8px;padding:2px 8px;font:500 12px var(--body);cursor:pointer;white-space:nowrap}
+.add{display:flex;gap:6px;margin-top:8px}
+.add input{flex:1;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:8px;padding:6px 8px;font:inherit}
+[hidden]{display:none!important}
+@media (max-width:600px){.day{grid-template-columns:62px 1fr}h1{font-size:19px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand"><img src="icon-192.png" alt="LF10"><div><h1>Calendario y noticias</h1><div class="sub" id="upd">Cargando…</div></div></div>
+  <a class="back" href="./">← Tablero de pauta</a>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button class="tab" role="tab" data-tab="agenda" aria-selected="true">Agenda</button>
+  <button class="tab" role="tab" data-tab="noticias" aria-selected="false">Noticias</button>
+  <button class="tab" role="tab" data-tab="fichajes" aria-selected="false">Fichajes</button>
+  <button class="tab" role="tab" data-tab="seguimiento" aria-selected="false">Seguimiento</button>
+</nav>
+
+<div id="errs" class="note warn" hidden></div>
+
+<!-- AGENDA -->
+<section id="v-agenda">
+  <div class="bar">
+    <input class="search" id="q" type="search" placeholder="Buscar equipo, jugador, competencia o fecha…" autocomplete="off">
+    <div class="chips" id="rango">
+      <button class="chip" data-r="7" aria-pressed="false">7 días</button>
+      <button class="chip" data-r="30" aria-pressed="true">30 días</button>
+      <button class="chip" data-r="90" aria-pressed="false">3 meses</button>
+      <button class="chip" data-r="0" aria-pressed="false">Todo</button>
+    </div>
+    <label class="toggle"><input type="checkbox" id="imp" checked> Solo lo importante</label>
+  </div>
+  <div class="bar" style="position:static;border:0;padding-top:0">
+    <div class="chips" id="tipos"></div>
+    <select id="comp" aria-label="Competencia"><option value="">Todas las competencias</option></select>
+  </div>
+  <div id="encurso"></div>
+  <div id="agenda"></div>
+</section>
+
+<!-- NOTICIAS / FICHAJES -->
+<section id="v-noticias" hidden>
+  <div class="bar">
+    <input class="search" id="qn" type="search" placeholder="Buscar en noticias…" autocomplete="off">
+    <select id="etq" aria-label="Jugador o tema"><option value="">Todos los jugadores y temas</option></select>
+    <div class="chips" id="nrango">
+      <button class="chip" data-h="24" aria-pressed="false">Hoy</button>
+      <button class="chip" data-h="72" aria-pressed="true">3 días</button>
+      <button class="chip" data-h="168" aria-pressed="false">7 días</button>
+    </div>
+  </div>
+  <div class="news" id="news"></div>
+</section>
+
+<!-- SEGUIMIENTO -->
+<section id="v-seguimiento" hidden>
+  <p class="note">La lista compartida (la que ven todos y la que se consulta cada 3 horas) está en <b>cal/config.json</b>. Aquí puedes <b>ocultar</b> lo que no te interesa y <b>agregar</b> nombres para resaltarlos en tu pantalla; esos cambios se guardan solo en este navegador. Para que un jugador, equipo o liga nueva entre a la búsqueda automática, usa <b>Copiar cambios para el equipo</b> y envíalo para agregarlo a la lista compartida.</p>
+  <div class="grid3">
+    <div class="panel"><h3>Jugadores</h3><div id="s-jug"></div><div class="add"><input id="a-jug" placeholder="Agregar jugador"><button class="mini" data-add="jug">Agregar</button></div></div>
+    <div class="panel"><h3>Equipos</h3><div id="s-equ"></div><div class="add"><input id="a-equ" placeholder="Agregar equipo"><button class="mini" data-add="equ">Agregar</button></div></div>
+    <div class="panel"><h3>Ligas y torneos</h3><div id="s-lig"></div><div class="add"><input id="a-lig" placeholder="Agregar liga o torneo"><button class="mini" data-add="lig">Agregar</button></div></div>
+  </div>
+  <p><button class="chip" id="copiar">Copiar cambios para el equipo</button> <span class="sub" id="copiado"></span></p>
+</section>
+</div>
+
+<script>
+const TIPOS={partido:{n:'Partidos',c:'var(--t-partido)'},seleccion:{n:'Selección',c:'var(--t-seleccion)'},comercial:{n:'Fechas comerciales',c:'var(--t-comercial)'},lf10:{n:'LF10',c:'var(--t-lf10)'},mercado:{n:'Fichajes y mercado',c:'var(--t-mercado)'}};
+const DIAS=['dom','lun','mar','mié','jue','vie','sáb'],MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
+const st={tab:'agenda',r:30,imp:true,tipos:new Set(Object.keys(TIPOS)),comp:'',q:'',qn:'',etq:'',h:72,abiertos:new Set()};
+let EV={eventos:[]},NO={noticias:[]},CFG={jugadores:[],equipos:[],ligas:[]};
+const norm=s=>(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+// Preferencias personales (solo este navegador)
+let MIO={ocultos:[],agregados:{jug:[],equ:[],lig:[]}};
+try{MIO=Object.assign(MIO,JSON.parse(localStorage.getItem('lf10cal')||'{}'))}catch(e){}
+const guardar=()=>{try{localStorage.setItem('lf10cal',JSON.stringify(MIO))}catch(e){}};
+const oculto=t=>MIO.ocultos.some(o=>norm(t).includes(norm(o)));
+const destacado=t=>Object.values(MIO.agregados).flat().some(o=>norm(t).includes(norm(o)));
+
+const hoyStr=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'America/Bogota'}).format(new Date());
+const pd=s=>{const[y,m,d]=s.split('-').map(Number);return new Date(Date.UTC(y,m-1,d))};
+const addD=(s,n)=>{const d=pd(s);d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10)};
+const lunes=s=>{const d=pd(s);const w=(d.getUTCDay()+6)%7;d.setUTCDate(d.getUTCDate()-w);return d.toISOString().slice(0,10)};
+const fdia=s=>{const d=pd(s);return `${d.getUTCDate()} ${MESES[d.getUTCMonth()]}`};
+function hace(iso){const m=Math.round((Date.now()-new Date(iso))/6e4);if(m<60)return `hace ${Math.max(m,1)} min`;const h=Math.round(m/60);if(h<48)return `hace ${h} h`;return `hace ${Math.round(h/24)} días`}
+
+async function cargar(){
+  const v='?v='+Date.now();
+  const [e,n,c]=await Promise.all(['cal/eventos.json','cal/noticias.json','cal/config.json'].map(u=>fetch(u+v).then(r=>r.ok?r.json():null).catch(()=>null)));
+  if(e)EV=e; if(n)NO=n; if(c)CFG=c;
+  $('#upd').textContent=EV.actualizado?`Actualizado ${hace(EV.actualizado)} · se actualiza solo cada 3 horas`:'Sin datos todavía';
+  const errs=[...(EV.errores||[]),...(NO.errores||[])];
+  $('#errs').hidden=!errs.length;
+  if(errs.length)$('#errs').innerHTML=`<b>Algunas fuentes no respondieron en la última actualización (${errs.length}).</b> Lo demás está al día. <details><summary>Ver detalle</summary>${errs.map(esc).join('<br>')}</details>`;
+  armarFiltros();render();
+}
+
+function armarFiltros(){
+  $('#tipos').innerHTML=Object.entries(TIPOS).map(([k,t])=>`<button class="chip" data-t="${k}" aria-pressed="${st.tipos.has(k)}"><span class="dot" style="background:${t.c}"></span>${t.n}</button>`).join('');
+  const comps=[...new Set(EV.eventos.map(e=>e.competencia).filter(Boolean))].sort();
+  $('#comp').innerHTML='<option value="">Todas las competencias</option>'+comps.map(c=>`<option ${c===st.comp?'selected':''}>${esc(c)}</option>`).join('');
+  const etqs={};NO.noticias.forEach(n=>n.etiquetas.forEach(t=>etqs[t]=(etqs[t]||0)+1));
+  $('#etq').innerHTML='<option value="">Todos los jugadores y temas</option>'+Object.entries(etqs).sort((a,b)=>b[1]-a[1]).map(([t,k])=>`<option value="${esc(t)}" ${t===st.etq?'selected':''}>${esc(t)} (${k})</option>`).join('');
+}
+
+function pasa(e){
+  const txt=[e.titulo,e.competencia,e.detalle,(e.motivos||[]).join(' ')].join(' ');
+  if(oculto(txt))return false;
+  if(!st.tipos.has(e.tipo))return false;
+  if(st.comp&&e.competencia!==st.comp)return false;
+  if(st.imp&&(e.prioridad||1)<2&&!destacado(txt))return false;
+  if(st.q){const q=norm(st.q);if(!norm(txt+' '+fdia(e.fecha)).includes(q))return false}
+  return true;
+}
+
+function card(e,conFecha){
+  const t=TIPOS[e.tipo]||TIPOS.partido, txt=e.titulo+' '+(e.detalle||'');
+  const tags=[];
+  if((e.prioridad||1)>=3||destacado(txt))tags.push('<span class="tag hi">Clave</span>');
+  (e.motivos||[]).forEach(m=>tags.push(`<span class="tag">${esc(m)}</span>`));
+  if(e.tentativa)tags.push('<span class="tag tent">Por confirmar</span>');
+  const meta=[e.hora?e.hora:'',e.competencia||t.n,e.fin?`hasta ${fdia(e.fin)}`:'',e.estado||'',e.detalle||''].filter(Boolean).map(esc).join(' · ');
+  const fuente=e.fuente&&e.fuente.startsWith('http')?` · <a href="${esc(e.fuente)}" target="_blank" rel="noopener">fuente</a>`:'';
+  return `<div class="card"><div class="stripe" style="background:${t.c}"></div><div><div class="t">${conFecha?`<span class="sub">${fdia(e.fecha)} · </span>`:''}${esc(e.titulo)}</div><div class="meta">${meta}${fuente}</div>${tags.length?`<div class="meta">${tags.join(' ')}</div>`:''}</div></div>`;
+}
+
+function renderAgenda(){
+  const hoy=hoyStr(), tope=st.r?addD(hoy,st.r):'9999-12-31';
+  const lista=EV.eventos.filter(pasa);
+  // En curso: rangos activos hoy (comerciales, mercados)
+  const enc=lista.filter(e=>e.fin&&e.fecha<=hoy&&e.fin>=hoy);
+  $('#encurso').innerHTML=enc.length?`<div class="week"><h2>En curso</h2><div class="now">${enc.map(e=>card(e)).join('')}</div></div>`:'';
+  const prox=lista.filter(e=>e.fecha>hoy||(e.fecha===hoy&&!e.fin)).filter(e=>e.fecha<=tope);
+  if(!prox.length){$('#agenda').innerHTML='<div class="empty">No hay eventos con estos filtros. Prueba ampliar el rango o quitar "Solo lo importante".</div>';return}
+  const porDia={};prox.forEach(e=>(porDia[e.fecha]=porDia[e.fecha]||[]).push(e));
+  const lun=lunes(hoy);let html='',semAnt='';
+  Object.keys(porDia).sort().forEach(d=>{
+    const s=lunes(d);
+    if(s!==semAnt){semAnt=s;const lbl=s===lun?'Esta semana':s===addD(lun,7)?'Próxima semana':`Semana del ${fdia(s)}`;html+=(html?'</div>':'')+`<div class="week"><h2>${lbl}</h2>`}
+    const ev=porDia[d].sort((a,b)=>(b.prioridad||1)-(a.prioridad||1)||(a.hora||'').localeCompare(b.hora||''));
+    const abierto=st.abiertos.has(d)||!!st.q, lim=abierto?ev.length:4;
+    const dd=pd(d);
+    html+=`<div class="day"><div class="dlabel ${d===hoy?'today':''}">${d===hoy?'Hoy':DIAS[dd.getUTCDay()]} ${dd.getUTCDate()}<small>${MESES[dd.getUTCMonth()]}</small></div><div class="items">${ev.slice(0,lim).map(e=>card(e)).join('')}${ev.length>lim?`<button class="more" data-d="${d}">Ver ${ev.length-lim} más</button>`:''}</div></div>`;
+  });
+  $('#agenda').innerHTML=html+'</div>';
+}
+
+function renderNoticias(){
+  const fich=st.tab==='fichajes', lim=Date.now()-st.h*36e5, q=norm(st.qn);
+  const l=NO.noticias.filter(n=>(!fich||n.fichaje)&&new Date(n.fecha)>=lim&&(!st.etq||n.etiquetas.includes(st.etq))&&!oculto(n.titulo+' '+n.etiquetas.join(' '))&&(!q||norm(n.titulo+' '+n.medio+' '+n.etiquetas.join(' ')).includes(q)));
+  const merc=fich?EV.eventos.filter(e=>e.tipo==='mercado'&&(e.fin||e.fecha)>=hoyStr()).map(e=>card(e,true)).join(''):'';
+  $('#news').innerHTML=(merc?`<div class="week"><h2>Temporadas de fichajes</h2><div class="items">${merc}</div></div><div class="week"><h2>Noticias de fichajes</h2></div>`:'')+
+   (l.length?l.map(n=>`<div class="ncard"><a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.titulo)}</a><div class="meta">${esc(n.medio||'')} · ${hace(n.fecha)} ${n.etiquetas.map(t=>`<span class="tag ${destacado(t)?'hi':''}">${esc(t)}</span>`).join(' ')}${n.fichaje&&!fich?' <span class="tag hi">Fichaje</span>':''}</div></div>`).join(''):`<div class="empty">${NO.noticias.length?'No hay noticias con estos filtros.':'Las noticias aparecen después de la primera actualización automática.'}</div>`);
+}
+
+function renderSeg(){
+  const fila=(nombre,why,quitarLocal)=>{const off=MIO.ocultos.includes(nombre);return `<div class="row ${off?'off':''}"><span>${esc(nombre)}${why?`<br><span class="why">${esc(why)}</span>`:''}</span>${quitarLocal?`<button class="mini" data-del="${esc(quitarLocal)}" data-n="${esc(nombre)}">Quitar</button>`:`<button class="mini" data-hide="${esc(nombre)}">${off?'Mostrar':'Ocultar'}</button>`}</div>`};
+  $('#s-jug').innerHTML=CFG.jugadores.map(j=>fila(j.nombre)).join('')+MIO.agregados.jug.map(n=>fila(n,'Agregado por ti (solo resalta)','jug')).join('');
+  $('#s-equ').innerHTML=CFG.equipos.map(e=>fila(e.nombre,e.motivo)).join('')+MIO.agregados.equ.map(n=>fila(n,'Agregado por ti (solo resalta)','equ')).join('');
+  $('#s-lig').innerHTML=CFG.ligas.map(l=>fila(l.nombre,l.modo==='todo'?'Todos los partidos':'Solo partidos de equipos seguidos y fases finales')).join('')+MIO.agregados.lig.map(n=>fila(n,'Agregado por ti (solo resalta)','lig')).join('');
+}
+
+function render(){
+  $$('.tab').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===st.tab));
+  $('#v-agenda').hidden=st.tab!=='agenda';$('#v-noticias').hidden=!(st.tab==='noticias'||st.tab==='fichajes');$('#v-seguimiento').hidden=st.tab!=='seguimiento';
+  if(st.tab==='agenda')renderAgenda();else if(st.tab==='seguimiento')renderSeg();else renderNoticias();
+}
+
+document.addEventListener('click',ev=>{
+  const b=ev.target.closest('button');if(!b)return;
+  if(b.dataset.tab){st.tab=b.dataset.tab;render()}
+  else if(b.dataset.r!==undefined){st.r=+b.dataset.r;$$('#rango .chip').forEach(c=>c.setAttribute('aria-pressed',c===b));render()}
+  else if(b.dataset.h){st.h=+b.dataset.h;$$('#nrango .chip').forEach(c=>c.setAttribute('aria-pressed',c===b));render()}
+  else if(b.dataset.t){const t=b.dataset.t;st.tipos.has(t)?st.tipos.delete(t):st.tipos.add(t);b.setAttribute('aria-pressed',st.tipos.has(t));render()}
+  else if(b.dataset.d){st.abiertos.add(b.dataset.d);render()}
+  else if(b.dataset.hide){const n=b.dataset.hide,i=MIO.ocultos.indexOf(n);i<0?MIO.ocultos.push(n):MIO.ocultos.splice(i,1);guardar();render()}
+  else if(b.dataset.del){const l=MIO.agregados[b.dataset.del];l.splice(l.indexOf(b.dataset.n),1);guardar();render()}
+  else if(b.dataset.add){const inp=$('#a-'+b.dataset.add),v=inp.value.trim();if(v&&!MIO.agregados[b.dataset.add].includes(v)){MIO.agregados[b.dataset.add].push(v);guardar()}inp.value='';render()}
+  else if(b.id==='copiar'){const txt=`Cambios para el calendario LF10:\nAgregar jugadores: ${MIO.agregados.jug.join(', ')||'-'}\nAgregar equipos: ${MIO.agregados.equ.join(', ')||'-'}\nAgregar ligas: ${MIO.agregados.lig.join(', ')||'-'}\nBloquear: ${MIO.ocultos.join(', ')||'-'}`;
+    navigator.clipboard?.writeText(txt).then(()=>{$('#copiado').textContent='Copiado. Pégalo en el chat o envíalo al equipo.'}).catch(()=>{$('#copiado').textContent=txt})}
+});
+$('#q').addEventListener('input',e=>{st.q=e.target.value;render()});
+$('#qn').addEventListener('input',e=>{st.qn=e.target.value;render()});
+$('#imp').addEventListener('change',e=>{st.imp=e.target.checked;render()});
+$('#comp').addEventListener('change',e=>{st.comp=e.target.value;render()});
+$('#etq').addEventListener('change',e=>{st.etq=e.target.value;render()});
+$$('.add input').forEach(i=>i.addEventListener('keydown',e=>{if(e.key==='Enter')i.nextElementSibling.click()}));
+cargar();setInterval(cargar,30*60*1000);
+</script>
+</body>
+</html>
