@@ -58,10 +58,11 @@
     },
     {
       "id": "m-aniv",
-      "fecha": "2026-12-05",
+      "fecha": "2026-12-04",
       "tipo": "lf10",
       "titulo": "Aniversario 2 años de LF10",
-      "prioridad": 3
+      "prioridad": 3,
+      "detalle": "Fecha según la parrilla de redes (Camilo)"
     },
     {
       "id": "m-velitas",
