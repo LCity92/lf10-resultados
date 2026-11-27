@@ -1,6 +1,6 @@
 {
   "_nota": "Lista compartida de lo que sigue el calendario. Lo que se cambie aquí lo ven todos en la próxima actualización (cada 3 horas). Los clubes de cada jugador se deben revisar en cada temporada de fichajes. \"nivel\": 2 = sube la prioridad de sus partidos (equipos de jugadores colombianos y clubes colombianos); 1 = solo se muestra sin el filtro \"Solo lo importante\".",
-  "dias_atras": 2,
+  "dias_atras": 31,
   "dias_adelante": 120,
   "ligas": [
     {

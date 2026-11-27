@@ -73,6 +73,32 @@ select{border:1px solid var(--line);background:var(--surface);color:var(--fg);bo
 .mini{appearance:none;border:1px solid var(--line);background:none;color:var(--fg2);border-radius:8px;padding:2px 8px;font:500 12px var(--body);cursor:pointer;white-space:nowrap}
 .add{display:flex;gap:6px;margin-top:8px}
 .add input{flex:1;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:8px;padding:6px 8px;font:inherit}
+.vista{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.vista button{appearance:none;border:0;background:var(--surface);color:var(--fg2);padding:5px 14px;font:600 13px var(--body);cursor:pointer}
+.vista button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+.mhead{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:14px 0 8px}
+.mhead h2{font:600 24px var(--display);text-transform:uppercase;letter-spacing:.05em;margin:0}
+.mnav{display:flex;gap:6px}
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));border-top:1px solid var(--line);border-left:1px solid var(--line);background:var(--surface);border-radius:10px;overflow:hidden}
+.cal .wd{font:600 12px var(--display);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:6px 8px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--bg)}
+.cell{min-height:118px;padding:4px 5px 6px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);cursor:pointer;position:relative;display:flex;flex-direction:column;gap:3px;min-width:0}
+.cell:hover{background:var(--chip)}
+.cell.out{background:var(--bg);opacity:.55}
+.cell.sel{outline:2px solid var(--accent);outline-offset:-2px}
+.cell .num{font:600 14px var(--display);color:var(--fg2);display:flex;justify-content:space-between;align-items:center}
+.cell.today .num b{background:var(--accent);color:#fff;border-radius:999px;padding:0 7px}
+.ranges{display:flex;gap:2px;height:4px}
+.ranges i{flex:1;border-radius:2px}
+.pill{display:block;font-size:11.5px;line-height:1.25;padding:2px 5px;border-radius:5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:var(--chip);color:var(--fg);border-left:3px solid}
+.pill.hi{font-weight:600}
+.pill.tent{border-style:dashed}
+.cell .mas{font-size:11px;color:var(--accent);font-weight:600}
+.dots{display:none;gap:3px;flex-wrap:wrap}
+.dots i{width:7px;height:7px;border-radius:50%}
+.detalle{margin-top:12px}
+.leyenda{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--fg2);margin-top:8px}
+.leyenda span::before{content:"";display:inline-block;width:10px;height:4px;border-radius:2px;margin-right:5px;vertical-align:2px;background:var(--c)}
+@media (max-width:700px){.cell{min-height:64px}.pill,.cell .mas{display:none}.dots{display:flex}.mhead h2{font-size:19px}}
 [hidden]{display:none!important}
 @media (max-width:600px){.day{grid-template-columns:62px 1fr}h1{font-size:19px}}
 </style>
@@ -97,7 +123,8 @@ select{border:1px solid var(--line);background:var(--surface);color:var(--fg);bo
 <section id="v-agenda">
   <div class="bar">
     <input class="search" id="q" type="search" placeholder="Buscar equipo, jugador, competencia o fecha…" autocomplete="off">
-    <div class="chips" id="rango">
+    <div class="vista" id="vista"><button data-v="mes" aria-pressed="true">Mes</button><button data-v="lista" aria-pressed="false">Lista</button></div>
+    <div class="chips" id="rango" hidden>
       <button class="chip" data-r="7" aria-pressed="false">7 días</button>
       <button class="chip" data-r="30" aria-pressed="true">30 días</button>
       <button class="chip" data-r="90" aria-pressed="false">3 meses</button>
@@ -109,6 +136,7 @@ select{border:1px solid var(--line);background:var(--surface);color:var(--fg);bo
     <div class="chips" id="tipos"></div>
     <select id="comp" aria-label="Competencia"><option value="">Todas las competencias</option></select>
   </div>
+  <div id="mes"></div>
   <div id="encurso"></div>
   <div id="agenda"></div>
 </section>
@@ -143,7 +171,7 @@ select{border:1px solid var(--line);background:var(--surface);color:var(--fg);bo
 const TIPOS={partido:{n:'Partidos',c:'var(--t-partido)'},seleccion:{n:'Selección',c:'var(--t-seleccion)'},comercial:{n:'Fechas comerciales',c:'var(--t-comercial)'},lf10:{n:'LF10',c:'var(--t-lf10)'},mercado:{n:'Fichajes y mercado',c:'var(--t-mercado)'}};
 const DIAS=['dom','lun','mar','mié','jue','vie','sáb'],MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
-const st={tab:'agenda',r:30,imp:true,tipos:new Set(Object.keys(TIPOS)),comp:'',q:'',qn:'',etq:'',h:72,abiertos:new Set()};
+const st={tab:'agenda',r:30,imp:true,tipos:new Set(Object.keys(TIPOS)),comp:'',q:'',qn:'',etq:'',h:72,abiertos:new Set(),vista:'mes',mes:null,dia:null};
 let EV={eventos:[]},NO={noticias:[]},CFG={jugadores:[],equipos:[],ligas:[]};
 const norm=s=>(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -169,6 +197,7 @@ async function cargar(){
   const errs=[...(EV.errores||[]),...(NO.errores||[])];
   $('#errs').hidden=!errs.length;
   if(errs.length)$('#errs').innerHTML=`<b>Algunas fuentes no respondieron en la última actualización (${errs.length}).</b> Lo demás está al día. <details><summary>Ver detalle</summary>${errs.map(esc).join('<br>')}</details>`;
+  if(st.dia===null&&!st._ini){st.dia=hoyStr();st._ini=1}
   armarFiltros();render();
 }
 
@@ -199,6 +228,35 @@ function card(e,conFecha){
   const meta=[e.hora?e.hora:'',e.competencia||t.n,e.fin?`hasta ${fdia(e.fin)}`:'',e.estado||'',e.detalle||''].filter(Boolean).map(esc).join(' · ');
   const fuente=e.fuente&&e.fuente.startsWith('http')?` · <a href="${esc(e.fuente)}" target="_blank" rel="noopener">fuente</a>`:'';
   return `<div class="card"><div class="stripe" style="background:${t.c}"></div><div><div class="t">${conFecha?`<span class="sub">${fdia(e.fecha)} · </span>`:''}${esc(e.titulo)}</div><div class="meta">${meta}${fuente}</div>${tags.length?`<div class="meta">${tags.join(' ')}</div>`:''}</div></div>`;
+}
+
+function renderMes(){
+  const hoy=hoyStr(); if(!st.mes)st.mes=hoy.slice(0,7);
+  const [y,m]=st.mes.split('-').map(Number), primero=`${st.mes}-01`;
+  const inicio=lunes(primero), finMes=new Date(Date.UTC(y,m,0)).toISOString().slice(0,10);
+  let fin=lunes(finMes);fin=addD(fin,6);
+  const lista=EV.eventos.filter(pasa);
+  const MESL=['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+  let html=`<div class="mhead"><h2>${MESL[m-1]} ${y}</h2><div class="mnav"><button class="chip" data-m="-1" aria-label="Mes anterior">‹</button><button class="chip" data-m="0">Hoy</button><button class="chip" data-m="1" aria-label="Mes siguiente">›</button></div></div><div class="cal">`;
+  html+=['Lun','Mar','Mié','Jue','Vie','Sáb','Dom'].map(d=>`<div class="wd">${d}</div>`).join('');
+  for(let d=inicio;d<=fin;d=addD(d,1)){
+    const del=lista.filter(e=>e.fecha===d).sort((a,b)=>(b.prioridad||1)-(a.prioridad||1)||(a.hora||'').localeCompare(b.hora||''));
+    const rangos=lista.filter(e=>e.fin&&e.fecha<d&&e.fin>=d);
+    const n=+d.slice(8);
+    html+=`<div class="cell ${d.slice(0,7)!==st.mes?'out':''} ${d===hoy?'today':''} ${d===st.dia?'sel':''}" data-f="${d}" title="${esc([...del,...rangos].map(e=>e.titulo).join('\n'))}">
+      <div class="num"><b>${n}</b>${del.length>3?`<span class="mas">+${del.length-3}</span>`:''}</div>
+      ${rangos.length?`<div class="ranges">${rangos.slice(0,4).map(e=>`<i style="background:${(TIPOS[e.tipo]||TIPOS.partido).c}"></i>`).join('')}</div>`:''}
+      ${del.slice(0,3).map(e=>{const t=TIPOS[e.tipo]||TIPOS.partido,txt=e.titulo+' '+(e.detalle||'');return `<span class="pill ${(e.prioridad||1)>=3||destacado(txt)?'hi':''} ${e.tentativa?'tent':''}" style="border-left-color:${t.c}">${e.hora?e.hora+' ':''}${esc(e.titulo)}</span>`}).join('')}
+      <div class="dots">${del.slice(0,6).map(e=>`<i style="background:${(TIPOS[e.tipo]||TIPOS.partido).c}"></i>`).join('')}</div>
+    </div>`;
+  }
+  html+='</div><div class="leyenda">'+Object.values(TIPOS).map(t=>`<span style="--c:${t.c}">${t.n}</span>`).join('')+'<span style="--c:var(--muted)">La línea de arriba en un día = fecha que dura varios días (prima, mercado de pases…)</span></div>';
+  if(st.dia){
+    const d=st.dia, del=lista.filter(e=>e.fecha===d||(e.fin&&e.fecha<d&&e.fin>=d)).sort((a,b)=>(b.prioridad||1)-(a.prioridad||1)||(a.hora||'').localeCompare(b.hora||''));
+    const dd=pd(d);
+    html+=`<div class="detalle" id="detalle"><div class="week"><h2>${DIAS[dd.getUTCDay()]} ${dd.getUTCDate()} de ${MESL[dd.getUTCMonth()].toLowerCase()}</h2></div><div class="items">${del.length?del.map(e=>card(e)).join(''):'<div class="empty">Nada con estos filtros este día.</div>'}</div></div>`;
+  } else html+='<p class="sub" style="margin-top:10px">Toca un día para ver el detalle.</p>';
+  $('#mes').innerHTML=html;
 }
 
 function renderAgenda(){
@@ -240,16 +298,19 @@ function renderSeg(){
 function render(){
   $$('.tab').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===st.tab));
   $('#v-agenda').hidden=st.tab!=='agenda';$('#v-noticias').hidden=!(st.tab==='noticias'||st.tab==='fichajes');$('#v-seguimiento').hidden=st.tab!=='seguimiento';
-  if(st.tab==='agenda')renderAgenda();else if(st.tab==='seguimiento')renderSeg();else renderNoticias();
+  if(st.tab==='agenda'){$('#rango').hidden=st.vista!=='lista';$('#mes').hidden=st.vista!=='mes';$('#encurso').hidden=$('#agenda').hidden=st.vista!=='lista';st.vista==='mes'?renderMes():renderAgenda()}else if(st.tab==='seguimiento')renderSeg();else renderNoticias();
 }
 
 document.addEventListener('click',ev=>{
+  const c=ev.target.closest('.cell');if(c&&c.dataset.f){st.dia=st.dia===c.dataset.f?null:c.dataset.f;render();if(st.dia)setTimeout(()=>$('#detalle')?.scrollIntoView({behavior:'smooth',block:'nearest'}),30);return}
   const b=ev.target.closest('button');if(!b)return;
   if(b.dataset.tab){st.tab=b.dataset.tab;render()}
   else if(b.dataset.r!==undefined){st.r=+b.dataset.r;$$('#rango .chip').forEach(c=>c.setAttribute('aria-pressed',c===b));render()}
   else if(b.dataset.h){st.h=+b.dataset.h;$$('#nrango .chip').forEach(c=>c.setAttribute('aria-pressed',c===b));render()}
   else if(b.dataset.t){const t=b.dataset.t;st.tipos.has(t)?st.tipos.delete(t):st.tipos.add(t);b.setAttribute('aria-pressed',st.tipos.has(t));render()}
   else if(b.dataset.d){st.abiertos.add(b.dataset.d);render()}
+  else if(b.dataset.v){st.vista=b.dataset.v;$$('#vista button').forEach(c=>c.setAttribute('aria-pressed',c===b));render()}
+  else if(b.dataset.m){const[y,m]=(st.mes||hoyStr().slice(0,7)).split('-').map(Number);const d=new Date(Date.UTC(y,m-1+(+b.dataset.m),1));st.mes=b.dataset.m==='0'?hoyStr().slice(0,7):d.toISOString().slice(0,7);if(b.dataset.m==='0')st.dia=hoyStr();render()}
   else if(b.dataset.hide){const n=b.dataset.hide,i=MIO.ocultos.indexOf(n);i<0?MIO.ocultos.push(n):MIO.ocultos.splice(i,1);guardar();render()}
   else if(b.dataset.del){const l=MIO.agregados[b.dataset.del];l.splice(l.indexOf(b.dataset.n),1);guardar();render()}
   else if(b.dataset.add){const inp=$('#a-'+b.dataset.add),v=inp.value.trim();if(v&&!MIO.agregados[b.dataset.add].includes(v)){MIO.agregados[b.dataset.add].push(v);guardar()}inp.value='';render()}
