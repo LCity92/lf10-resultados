@@ -1,6 +1,29 @@
 {
- "actualizado": "2026-11-27T14:48:06.915Z",
- "errores": [],
+ "actualizado": "2026-11-27T14:48:59.526Z",
+ "errores": [
+  "Partidos Liga BetPlay: HTTP 400",
+  "Partidos Copa Colombia: HTTP 400",
+  "Partidos Copa Libertadores: HTTP 400",
+  "Partidos Copa Sudamericana: HTTP 400",
+  "Partidos Amistosos internacionales: HTTP 400",
+  "Partidos Eliminatoria Sudamericana: HTTP 400",
+  "Partidos Mundial Femenino: HTTP 400",
+  "Partidos Mundial de Clubes: HTTP 400",
+  "Partidos Champions League: HTTP 400",
+  "Partidos Europa League: HTTP 400",
+  "Partidos Premier League: HTTP 400",
+  "Partidos LaLiga: HTTP 400",
+  "Partidos Serie A: HTTP 400",
+  "Partidos Bundesliga: HTTP 400",
+  "Partidos Ligue 1: HTTP 400",
+  "Partidos Liga de Portugal: HTTP 400",
+  "Partidos Superliga de Turquía: HTTP 400",
+  "Partidos Liga de Arabia Saudita: HTTP 400",
+  "Partidos MLS: HTTP 400",
+  "Partidos Liga MX: HTTP 400",
+  "Partidos Liga de Argentina: HTTP 400",
+  "Partidos Brasileirão: HTTP 400"
+ ],
  "total": 29,
  "eventos": [
   {
@@ -282,6 +305,5 @@
    "prioridad": 3,
    "fuente": "LF10"
   }
- ],
- "_nota": "Carga inicial con fechas manuales; partidos y noticias llegan en la primera actualización automática."
+ ]
 }
