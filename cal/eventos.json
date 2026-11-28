@@ -1,23 +1,8 @@
 {
- "actualizado": "2026-11-27T23:27:33.862Z",
+ "actualizado": "2026-11-28T07:49:32.243Z",
  "errores": [],
- "total": 501,
+ "total": 500,
  "eventos": [
-  {
-   "id": "espn-col.1-401877861",
-   "fecha": "2026-10-27",
-   "hora": "20:05",
-   "tipo": "partido",
-   "competencia": "Liga BetPlay",
-   "titulo": "Boyacá Chicó FC vs Atlético Junior",
-   "detalle": "La Independencia",
-   "prioridad": 3,
-   "motivos": [
-    "Liga BetPlay"
-   ],
-   "estado": "Final: 1-1",
-   "fuente": "ESPN"
-  },
   {
    "id": "espn-ita.1-401874993",
    "fecha": "2026-10-28",
@@ -2407,7 +2392,7 @@
    "motivos": [
     "Liga BetPlay"
    ],
-   "estado": "",
+   "estado": "Final: 1-1",
    "fuente": "ESPN"
   },
   {
@@ -2417,10 +2402,10 @@
    "tipo": "partido",
    "competencia": "MLS",
    "titulo": "Columbus Crew vs Inter Miami CF",
-   "detalle": "CLB leads series 1-0 · ScottsMiracle-Gro Field",
+   "detalle": "CLB win series 2-0 · ScottsMiracle-Gro Field",
    "prioridad": 1,
    "motivos": [],
-   "estado": "",
+   "estado": "Final: 1-0",
    "fuente": "ESPN"
   },
   {
@@ -2435,7 +2420,7 @@
    "motivos": [
     "Liga BetPlay"
    ],
-   "estado": "",
+   "estado": "Final: 0-0",
    "fuente": "ESPN"
   },
   {
@@ -2445,10 +2430,10 @@
    "tipo": "partido",
    "competencia": "MLS",
    "titulo": "Real Salt Lake vs Vancouver Whitecaps",
-   "detalle": "VAN leads series 1-0 · America First Field",
+   "detalle": "VAN win series 2-0 · America First Field",
    "prioridad": 1,
    "motivos": [],
-   "estado": "",
+   "estado": "Final: 0-1",
    "fuente": "ESPN"
   },
   {
@@ -3003,10 +2988,10 @@
    "tipo": "partido",
    "competencia": "MLS",
    "titulo": "Inter Miami CF vs Columbus Crew",
-   "detalle": "CLB leads series 1-0 · Nu Stadium",
+   "detalle": "CLB win series 2-0 · Nu Stadium",
    "prioridad": 1,
    "motivos": [],
-   "estado": "",
+   "estado": "Final: 0-0",
    "fuente": "ESPN"
   },
   {
@@ -3084,10 +3069,10 @@
    "tipo": "partido",
    "competencia": "MLS",
    "titulo": "Vancouver Whitecaps vs Real Salt Lake",
-   "detalle": "VAN leads series 1-0 · BC Place",
+   "detalle": "VAN win series 2-0 · BC Place",
    "prioridad": 1,
    "motivos": [],
-   "estado": "",
+   "estado": "Final: 0-0",
    "fuente": "ESPN"
   },
   {
